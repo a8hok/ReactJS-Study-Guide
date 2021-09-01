@@ -46,6 +46,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/react-hooks-cheatsheet/](https://www.freecodecamp.org/news/react-hooks-cheatsheet/)<br>
 - [https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/](https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/)<br>
 - [https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)<br>
+- [https://javascript.plainenglish.io/epic-react-react-hooks-ceb04b8ec513](https://javascript.plainenglish.io/epic-react-react-hooks-ceb04b8ec513)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
@@ -77,6 +78,7 @@ Table of Contents
  - [https://blog.logrocket.com/using-react-hooks-to-create-sticky-headers/](https://blog.logrocket.com/using-react-hooks-to-create-sticky-headers/)<br>
  - [https://www.freecodecamp.org/news/react-budget-tracker-app/](https://www.freecodecamp.org/news/react-budget-tracker-app/)<br>
  - [https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j](https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j)<br>
+ - [https://dev.to/larswaechter/how-i-structure-my-react-projects-jii](https://dev.to/larswaechter/how-i-structure-my-react-projects-jii)<br>
 
 ## `React Unittest`
  - [https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx](https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx)<br>
