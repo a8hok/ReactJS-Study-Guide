@@ -79,6 +79,9 @@ Table of Contents
  - [https://www.freecodecamp.org/news/react-budget-tracker-app/](https://www.freecodecamp.org/news/react-budget-tracker-app/)<br>
  - [https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j](https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j)<br>
  - [https://dev.to/larswaechter/how-i-structure-my-react-projects-jii](https://dev.to/larswaechter/how-i-structure-my-react-projects-jii)<br>
+ - [https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122ffbd6f](https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122ffbd6f)<br>
+ - [https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no](https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no)<br>
+ 
 
 ## `React Unittest`
  - [https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx](https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx)<br>
