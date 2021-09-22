@@ -47,6 +47,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/](https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/)<br>
 - [https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)<br>
 - [https://javascript.plainenglish.io/epic-react-react-hooks-ceb04b8ec513](https://javascript.plainenglish.io/epic-react-react-hooks-ceb04b8ec513)<br>
+- [https://www.freecodecamp.org/news/how-to-create-react-hooks/](https://www.freecodecamp.org/news/how-to-create-react-hooks/)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
@@ -64,6 +65,7 @@ Table of Contents
  - [https://javascript.plainenglish.io/epic-react-react-fundamentals-cf76b6cedaf1](https://javascript.plainenglish.io/epic-react-react-fundamentals-cf76b6cedaf1)<br>
  - [https://learnwithparam.com/blog/basic-routing-in-react-router/](https://learnwithparam.com/blog/basic-routing-in-react-router/)<br>
  - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
+ - [https://blog.logrocket.com/comparing-react-tree-components/](https://blog.logrocket.com/comparing-react-tree-components/)<br>
 
 ## `React Projects`
 - [https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/](https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/)<br>
