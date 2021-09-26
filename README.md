@@ -27,6 +27,7 @@ Table of Contents
  ## `React Performance`
  - [https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/](https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/)<br>
  - [https://javascript.plainenglish.io/react-app-performance-optimization-the-definitive-guide-9b658be3b6e4](https://javascript.plainenglish.io/react-app-performance-optimization-the-definitive-guide-9b658be3b6e4)<br>
+ - [https://hackernoon.com/top-9-tips-to-improve-react-performance?source=rss](https://hackernoon.com/top-9-tips-to-improve-react-performance?source=rss)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
@@ -48,10 +49,13 @@ Table of Contents
 - [https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)<br>
 - [https://javascript.plainenglish.io/epic-react-react-hooks-ceb04b8ec513](https://javascript.plainenglish.io/epic-react-react-hooks-ceb04b8ec513)<br>
 - [https://www.freecodecamp.org/news/how-to-create-react-hooks/](https://www.freecodecamp.org/news/how-to-create-react-hooks/)<br>
+- [https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
 - [https://www.freecodecamp.org/news/react-libraries-you-should-use/](https://www.freecodecamp.org/news/react-libraries-you-should-use/)<br>
+- [https://javascript.plainenglish.io/25-hand-picked-react-libraries-you-probably-didnt-know-existed-fbbbfc4bfb8c](https://javascript.plainenglish.io/25-hand-picked-react-libraries-you-probably-didnt-know-existed-fbbbfc4bfb8c)<br>
+- [https://dev.to/undefinedhere/every-react-developer-should-know-these-libraries-17mg](https://dev.to/undefinedhere/every-react-developer-should-know-these-libraries-17mg)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
@@ -83,6 +87,9 @@ Table of Contents
  - [https://dev.to/larswaechter/how-i-structure-my-react-projects-jii](https://dev.to/larswaechter/how-i-structure-my-react-projects-jii)<br>
  - [https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122ffbd6f](https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122ffbd6f)<br>
  - [https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no](https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no)<br>
+ - [https://dev.to/wolzcodelife/how-to-build-a-music-playlist-with-react-spotify-and-fauna-40k6](https://dev.to/wolzcodelife/how-to-build-a-music-playlist-with-react-spotify-and-fauna-40k6)<br>
+ - [https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/](https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/)<br>
+ - []()<br>
  
 
 ## `React Unittest`
@@ -91,3 +98,17 @@ Table of Contents
 - [https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)<br>
 - [https://www.robinwieruch.de/react-testing-library](https://www.robinwieruch.de/react-testing-library)<br>
 - [https://testing-library.com/docs/react-testing-library/intro](https://testing-library.com/docs/react-testing-library/intro)<br>
+
+## `Architecture`
+- [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
+- [https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e](https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e)<br>
+
+## `React checklist`
+- [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>\
+
+## `React State management`
+- [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
+- [https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)<br>
+
+## `React with Webpack`
+- [https://devdojo.com/myogeshchavan97/how-to-create-a-react-app-from-scratch-using-webpack-5-babel](https://devdojo.com/myogeshchavan97/how-to-create-a-react-app-from-scratch-using-webpack-5-babelgst)<br>
