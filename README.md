@@ -50,6 +50,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/epic-react-react-hooks-ceb04b8ec513](https://javascript.plainenglish.io/epic-react-react-hooks-ceb04b8ec513)<br>
 - [https://www.freecodecamp.org/news/how-to-create-react-hooks/](https://www.freecodecamp.org/news/how-to-create-react-hooks/)<br>
 - [https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)<br>
+- [https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4](https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
@@ -59,6 +60,7 @@ Table of Contents
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
+ - [https://blog.avneesh.tech/5-react-interview-questions](https://blog.avneesh.tech/5-react-interview-questions)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
@@ -102,9 +104,10 @@ Table of Contents
 ## `Architecture`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
 - [https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e](https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e)<br>
+- [https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/](https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/)<br>
 
 ## `React checklist`
-- [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>\
+- [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
 
 ## `React State management`
 - [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
