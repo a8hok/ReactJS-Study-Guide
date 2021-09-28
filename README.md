@@ -61,6 +61,7 @@ Table of Contents
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
  - [https://blog.avneesh.tech/5-react-interview-questions](https://blog.avneesh.tech/5-react-interview-questions)<br>
+ - [https://javascript.plainenglish.io/50-react-interview-questions-you-must-prepare-in-2021-faf650f65d36](https://javascript.plainenglish.io/50-react-interview-questions-you-must-prepare-in-2021-faf650f65d36)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
@@ -72,6 +73,7 @@ Table of Contents
  - [https://learnwithparam.com/blog/basic-routing-in-react-router/](https://learnwithparam.com/blog/basic-routing-in-react-router/)<br>
  - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
  - [https://blog.logrocket.com/comparing-react-tree-components/](https://blog.logrocket.com/comparing-react-tree-components/)<br>
+ - [https://dev.to/projectkenneth/modular-routing-in-react-2ab1](https://dev.to/projectkenneth/modular-routing-in-react-2ab1)<br>
 
 ## `React Projects`
 - [https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/](https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/)<br>
@@ -91,7 +93,7 @@ Table of Contents
  - [https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no](https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no)<br>
  - [https://dev.to/wolzcodelife/how-to-build-a-music-playlist-with-react-spotify-and-fauna-40k6](https://dev.to/wolzcodelife/how-to-build-a-music-playlist-with-react-spotify-and-fauna-40k6)<br>
  - [https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/](https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/)<br>
- - []()<br>
+ - [https://reactjsexample.com/a-full-stack-e-commerce-app-built-with-react-and-stripe-api/](https://reactjsexample.com/a-full-stack-e-commerce-app-built-with-react-and-stripe-api/)<br>
  
 
 ## `React Unittest`
