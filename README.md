@@ -28,6 +28,7 @@ Table of Contents
  - [https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/](https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/)<br>
  - [https://javascript.plainenglish.io/react-app-performance-optimization-the-definitive-guide-9b658be3b6e4](https://javascript.plainenglish.io/react-app-performance-optimization-the-definitive-guide-9b658be3b6e4)<br>
  - [https://hackernoon.com/top-9-tips-to-improve-react-performance?source=rss](https://hackernoon.com/top-9-tips-to-improve-react-performance?source=rss)<br>
+ - [https://dev.to/asjadanis/optimizing-react-app-performance-16lp](https://dev.to/asjadanis/optimizing-react-app-performance-16lp)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
