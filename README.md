@@ -62,6 +62,7 @@ Table of Contents
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
  - [https://blog.avneesh.tech/5-react-interview-questions](https://blog.avneesh.tech/5-react-interview-questions)<br>
  - [https://javascript.plainenglish.io/50-react-interview-questions-you-must-prepare-in-2021-faf650f65d36](https://javascript.plainenglish.io/50-react-interview-questions-you-must-prepare-in-2021-faf650f65d36)<br>
+ - [https://levelup.gitconnected.com/optimizing-react-app-performance-62924bf7eba2](https://levelup.gitconnected.com/optimizing-react-app-performance-62924bf7eba2)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
