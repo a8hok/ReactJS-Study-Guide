@@ -78,6 +78,7 @@ Table of Contents
  - [https://dev.to/projectkenneth/modular-routing-in-react-2ab1](https://dev.to/projectkenneth/modular-routing-in-react-2ab1)<br>
 
 ## `React Projects`
+- [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
 - [https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/](https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/)<br>
  - [https://reactjsexample.com/a-video-conferencing-application-build-with-react/](https://reactjsexample.com/a-video-conferencing-application-build-with-react/)<br>
  - [https://reactjsexample.com/netflix-clone-with-react-styled-components-axios/](https://reactjsexample.com/netflix-clone-with-react-styled-components-axios/)<br>
@@ -109,6 +110,7 @@ Table of Contents
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
 - [https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e](https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e)<br>
 - [https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/](https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/)<br>
+- [https://reactjsexample.com/clean-architecture-for-react/](https://reactjsexample.com/clean-architecture-for-react/)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
@@ -119,3 +121,6 @@ Table of Contents
 
 ## `React with Webpack`
 - [https://devdojo.com/myogeshchavan97/how-to-create-a-react-app-from-scratch-using-webpack-5-babel](https://devdojo.com/myogeshchavan97/how-to-create-a-react-app-from-scratch-using-webpack-5-babelgst)<br>
+
+## `Error handling`
+- [https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666)<br>
