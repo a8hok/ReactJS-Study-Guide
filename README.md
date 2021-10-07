@@ -52,6 +52,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-create-react-hooks/](https://www.freecodecamp.org/news/how-to-create-react-hooks/)<br>
 - [https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)<br>
 - [https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4](https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4)<br>
+- [https://pulackh.medium.com/react-js-summary-on-react-hooks-934bf25c3b2a](https://pulackh.medium.com/react-js-summary-on-react-hooks-934bf25c3b2a)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
@@ -111,6 +112,8 @@ Table of Contents
 - [https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e](https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e)<br>
 - [https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/](https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/)<br>
 - [https://reactjsexample.com/clean-architecture-for-react/](https://reactjsexample.com/clean-architecture-for-react/)<br>
+- [https://itnext.io/react-project-architecture-641da390ebe7](https://itnext.io/react-project-architecture-641da390ebe7)<br>
+- []()<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
@@ -124,3 +127,7 @@ Table of Contents
 
 ## `Error handling`
 - [https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666)<br>
+
+- ## `React with typescript`
+- [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
+- [https://dmitripavlutin.com/typescript-react-components/](https://dmitripavlutin.com/typescript-react-components/)<br>
