@@ -98,6 +98,7 @@ Table of Contents
  - [https://dev.to/wolzcodelife/how-to-build-a-music-playlist-with-react-spotify-and-fauna-40k6](https://dev.to/wolzcodelife/how-to-build-a-music-playlist-with-react-spotify-and-fauna-40k6)<br>
  - [https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/](https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/)<br>
  - [https://reactjsexample.com/a-full-stack-e-commerce-app-built-with-react-and-stripe-api/](https://reactjsexample.com/a-full-stack-e-commerce-app-built-with-react-and-stripe-api/)<br>
+ - [https://dev.to/geraldmuvengei06/cool-projects-to-help-you-learn-react-js-part-2-1f7a](https://dev.to/geraldmuvengei06/cool-projects-to-help-you-learn-react-js-part-2-1f7a)<br>
  
 
 ## `React Unittest`
@@ -113,7 +114,7 @@ Table of Contents
 - [https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/](https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/)<br>
 - [https://reactjsexample.com/clean-architecture-for-react/](https://reactjsexample.com/clean-architecture-for-react/)<br>
 - [https://itnext.io/react-project-architecture-641da390ebe7](https://itnext.io/react-project-architecture-641da390ebe7)<br>
-- []()<br>
+- [https://enlear.academy/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://enlear.academy/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
