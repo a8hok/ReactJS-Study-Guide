@@ -29,6 +29,7 @@ Table of Contents
  - [https://javascript.plainenglish.io/react-app-performance-optimization-the-definitive-guide-9b658be3b6e4](https://javascript.plainenglish.io/react-app-performance-optimization-the-definitive-guide-9b658be3b6e4)<br>
  - [https://hackernoon.com/top-9-tips-to-improve-react-performance?source=rss](https://hackernoon.com/top-9-tips-to-improve-react-performance?source=rss)<br>
  - [https://dev.to/asjadanis/optimizing-react-app-performance-16lp](https://dev.to/asjadanis/optimizing-react-app-performance-16lp)<br>
+ - [https://medium.com/@khannapranshu33/react-performance-tips-a74f03efe437](https://medium.com/@khannapranshu33/react-performance-tips-a74f03efe437)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
@@ -100,6 +101,7 @@ Table of Contents
  - [https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/](https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/)<br>
  - [https://reactjsexample.com/a-full-stack-e-commerce-app-built-with-react-and-stripe-api/](https://reactjsexample.com/a-full-stack-e-commerce-app-built-with-react-and-stripe-api/)<br>
  - [https://dev.to/geraldmuvengei06/cool-projects-to-help-you-learn-react-js-part-2-1f7a](https://dev.to/geraldmuvengei06/cool-projects-to-help-you-learn-react-js-part-2-1f7a)<br>
+ - [https://dev.to/seven/building-a-client-database-of-people-in-react-55oe](https://dev.to/seven/building-a-client-database-of-people-in-react-55oe)<br>
  
 
 ## `React Unittest`
