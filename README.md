@@ -5,7 +5,7 @@ Table of Contents
 =================
 
 * [ReactJS-Interview](#reactjs-interview)
-   * [React Life cycle](#react-life-cycle)
+     * [React Life cycle](#react-life-cycle)
    * [React Road map for beginners](#react-road-map-for-beginners)
    * [React Performance](#react-performance)
    * [React tips and Tricks](#react-tips-and-tricks)
@@ -15,6 +15,12 @@ Table of Contents
    * [React Learn](#react-learn)
    * [React Projects](#react-projects)
    * [React Unittest](#react-unittest)
+   * [Architecture](#architecture)
+   * [React checklist](#react-checklist)
+   * [React State management](#react-state-management)
+   * [React with Webpack](#react-with-webpack)
+   * [Error handling](#error-handling)
+   * [React with typescript](#react-with-typescript)
 
 ## `React Life cycle`
  - [https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8](https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8)<br>
