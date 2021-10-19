@@ -85,6 +85,7 @@ Table of Contents
  - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
  - [https://blog.logrocket.com/comparing-react-tree-components/](https://blog.logrocket.com/comparing-react-tree-components/)<br>
  - [https://dev.to/projectkenneth/modular-routing-in-react-2ab1](https://dev.to/projectkenneth/modular-routing-in-react-2ab1)<br>
+ - [https://upmostly.com/tutorials/event-bubbling-in-react](https://upmostly.com/tutorials/event-bubbling-in-react)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
