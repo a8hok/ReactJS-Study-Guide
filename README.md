@@ -142,3 +142,6 @@ Table of Contents
 - ## `React with typescript`
 - [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
 - [https://dmitripavlutin.com/typescript-react-components/](https://dmitripavlutin.com/typescript-react-components/)<br>
+
+- ## `React with DynamoDB`
+- [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
