@@ -86,6 +86,7 @@ Table of Contents
  - [https://blog.logrocket.com/comparing-react-tree-components/](https://blog.logrocket.com/comparing-react-tree-components/)<br>
  - [https://dev.to/projectkenneth/modular-routing-in-react-2ab1](https://dev.to/projectkenneth/modular-routing-in-react-2ab1)<br>
  - [https://upmostly.com/tutorials/event-bubbling-in-react](https://upmostly.com/tutorials/event-bubbling-in-react)<br>
+ - [https://dev.to/sm0ke/react-user-authentication-using-jwt-json-web-tokens-4f81](https://dev.to/sm0ke/react-user-authentication-using-jwt-json-web-tokens-4f81)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
@@ -109,6 +110,8 @@ Table of Contents
  - [https://reactjsexample.com/a-full-stack-e-commerce-app-built-with-react-and-stripe-api/](https://reactjsexample.com/a-full-stack-e-commerce-app-built-with-react-and-stripe-api/)<br>
  - [https://dev.to/geraldmuvengei06/cool-projects-to-help-you-learn-react-js-part-2-1f7a](https://dev.to/geraldmuvengei06/cool-projects-to-help-you-learn-react-js-part-2-1f7a)<br>
  - [https://dev.to/seven/building-a-client-database-of-people-in-react-55oe](https://dev.to/seven/building-a-client-database-of-people-in-react-55oe)<br>
+ - [https://blog.risingstack.com/stripe-payments-integration-tutorial-javascript/](https://blog.risingstack.com/stripe-payments-integration-tutorial-javascript/)<br>
+ - [https://dev.to/sm0ke/react-node-js-open-source-fullstack-starters-5192](https://dev.to/sm0ke/react-node-js-open-source-fullstack-starters-5192)<br>
  
 
 ## `React Unittest`
@@ -142,6 +145,7 @@ Table of Contents
 - ## `React with typescript`
 - [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
 - [https://dmitripavlutin.com/typescript-react-components/](https://dmitripavlutin.com/typescript-react-components/)<br>
+- [https://dev.to/alim1496/react-with-typescript-1gp5](https://dev.to/alim1496/react-with-typescript-1gp5)<br>
 
 - ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
