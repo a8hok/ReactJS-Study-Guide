@@ -5,7 +5,7 @@ Table of Contents
 =================
 
 * [ReactJS-Interview](#reactjs-interview)
-     * [React Life cycle](#react-life-cycle)
+   * [React Life cycle](#react-life-cycle)
    * [React Road map for beginners](#react-road-map-for-beginners)
    * [React Performance](#react-performance)
    * [React tips and Tricks](#react-tips-and-tricks)
@@ -73,6 +73,7 @@ Table of Contents
  - [https://blog.avneesh.tech/5-react-interview-questions](https://blog.avneesh.tech/5-react-interview-questions)<br>
  - [https://javascript.plainenglish.io/50-react-interview-questions-you-must-prepare-in-2021-faf650f65d36](https://javascript.plainenglish.io/50-react-interview-questions-you-must-prepare-in-2021-faf650f65d36)<br>
  - [https://levelup.gitconnected.com/optimizing-react-app-performance-62924bf7eba2](https://levelup.gitconnected.com/optimizing-react-app-performance-62924bf7eba2)<br>
+ - [https://reactjsexample.com/a-series-of-reactjs-coding-challenges-with-a-variety-of-difficulties/](https://reactjsexample.com/a-series-of-reactjs-coding-challenges-with-a-variety-of-difficulties/)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
@@ -128,6 +129,7 @@ Table of Contents
 - [https://reactjsexample.com/clean-architecture-for-react/](https://reactjsexample.com/clean-architecture-for-react/)<br>
 - [https://itnext.io/react-project-architecture-641da390ebe7](https://itnext.io/react-project-architecture-641da390ebe7)<br>
 - [https://enlear.academy/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://enlear.academy/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
+- [https://reactjsexample.com/clean-architecture-for-react/](https://reactjsexample.com/clean-architecture-for-react/)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
