@@ -88,6 +88,7 @@ Table of Contents
  - [https://dev.to/projectkenneth/modular-routing-in-react-2ab1](https://dev.to/projectkenneth/modular-routing-in-react-2ab1)<br>
  - [https://upmostly.com/tutorials/event-bubbling-in-react](https://upmostly.com/tutorials/event-bubbling-in-react)<br>
  - [https://dev.to/sm0ke/react-user-authentication-using-jwt-json-web-tokens-4f81](https://dev.to/sm0ke/react-user-authentication-using-jwt-json-web-tokens-4f81)<br>
+ - [https://www.freecodecamp.org/news/adapter-design-in-react/](https://www.freecodecamp.org/news/adapter-design-in-react/)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
