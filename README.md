@@ -67,6 +67,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/25-hand-picked-react-libraries-you-probably-didnt-know-existed-fbbbfc4bfb8c](https://javascript.plainenglish.io/25-hand-picked-react-libraries-you-probably-didnt-know-existed-fbbbfc4bfb8c)<br>
 - [https://dev.to/undefinedhere/every-react-developer-should-know-these-libraries-17mg](https://dev.to/undefinedhere/every-react-developer-should-know-these-libraries-17mg)<br>
 - [https://dev.to/raftlabs/best-ui-frameworks-for-react-js-b49](https://dev.to/raftlabs/best-ui-frameworks-for-react-js-b49)<br>
+- [https://cult.honeypot.io/reads/best-react-developer-tools-2021/](https://cult.honeypot.io/reads/best-react-developer-tools-2021/)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
@@ -131,6 +132,7 @@ Table of Contents
 - [https://itnext.io/react-project-architecture-641da390ebe7](https://itnext.io/react-project-architecture-641da390ebe7)<br>
 - [https://enlear.academy/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://enlear.academy/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
 - [https://reactjsexample.com/clean-architecture-for-react/](https://reactjsexample.com/clean-architecture-for-react/)<br>
+- [https://dev.to/ezranbayantemur/react-project-architecture-25m](https://dev.to/ezranbayantemur/react-project-architecture-25m)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
@@ -152,3 +154,6 @@ Table of Contents
 
 - ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
+
+- ## `React Resources`
+- [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
