@@ -133,6 +133,7 @@ Table of Contents
 - [https://enlear.academy/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://enlear.academy/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
 - [https://reactjsexample.com/clean-architecture-for-react/](https://reactjsexample.com/clean-architecture-for-react/)<br>
 - [https://dev.to/ezranbayantemur/react-project-architecture-25m](https://dev.to/ezranbayantemur/react-project-architecture-25m)<br>
+- [https://dev.to/larswaechter/how-i-structure-my-react-projects-jii](https://dev.to/larswaechter/how-i-structure-my-react-projects-jii)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
@@ -157,3 +158,4 @@ Table of Contents
 
 - ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
+- [https://dev.to/buddhadebchhetri/react-cheatsheets-5978](https://dev.to/buddhadebchhetri/react-cheatsheets-5978)<br>
