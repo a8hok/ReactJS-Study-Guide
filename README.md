@@ -44,6 +44,7 @@ Table of Contents
  - [https://www.infoworld.com/article/3616579/10-tips-for-tuning-react-ui-performance.html](https://www.infoworld.com/article/3616579/10-tips-for-tuning-react-ui-performance.html)<br>
  - [https://luisarbezerra.com/react-clean-code-for-beginners](https://luisarbezerra.com/react-clean-code-for-beginners)<br>
  - [https://blog.logrocket.com/react-reference-guide-hooks-api/](https://blog.logrocket.com/react-reference-guide-hooks-api/)<br>
+ - [https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
