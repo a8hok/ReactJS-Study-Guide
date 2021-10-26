@@ -5,6 +5,7 @@ Table of Contents
 =================
 
 * [ReactJS-Interview](#reactjs-interview)
+* [Table of Contents](#table-of-contents)
    * [React Life cycle](#react-life-cycle)
    * [React Road map for beginners](#react-road-map-for-beginners)
    * [React Performance](#react-performance)
@@ -21,6 +22,8 @@ Table of Contents
    * [React with Webpack](#react-with-webpack)
    * [Error handling](#error-handling)
    * [React with typescript](#react-with-typescript)
+   * [React with DynamoDB](#react-with-dynamodb)
+   * [React Resources](#react-resources)
 
 ## `React Life cycle`
  - [https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8](https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8)<br>
