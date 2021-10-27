@@ -79,6 +79,7 @@ Table of Contents
  - [https://javascript.plainenglish.io/50-react-interview-questions-you-must-prepare-in-2021-faf650f65d36](https://javascript.plainenglish.io/50-react-interview-questions-you-must-prepare-in-2021-faf650f65d36)<br>
  - [https://levelup.gitconnected.com/optimizing-react-app-performance-62924bf7eba2](https://levelup.gitconnected.com/optimizing-react-app-performance-62924bf7eba2)<br>
  - [https://reactjsexample.com/a-series-of-reactjs-coding-challenges-with-a-variety-of-difficulties/](https://reactjsexample.com/a-series-of-reactjs-coding-challenges-with-a-variety-of-difficulties/)<br>
+ - [https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i](https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
@@ -88,7 +89,6 @@ Table of Contents
  - [https://www.smashingmagazine.com/2020/06/higher-order-components-react/](https://www.smashingmagazine.com/2020/06/higher-order-components-react/)<br>
  - [https://javascript.plainenglish.io/epic-react-react-fundamentals-cf76b6cedaf1](https://javascript.plainenglish.io/epic-react-react-fundamentals-cf76b6cedaf1)<br>
  - [https://learnwithparam.com/blog/basic-routing-in-react-router/](https://learnwithparam.com/blog/basic-routing-in-react-router/)<br>
- - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
  - [https://blog.logrocket.com/comparing-react-tree-components/](https://blog.logrocket.com/comparing-react-tree-components/)<br>
  - [https://dev.to/projectkenneth/modular-routing-in-react-2ab1](https://dev.to/projectkenneth/modular-routing-in-react-2ab1)<br>
  - [https://upmostly.com/tutorials/event-bubbling-in-react](https://upmostly.com/tutorials/event-bubbling-in-react)<br>
@@ -120,6 +120,7 @@ Table of Contents
  - [https://dev.to/seven/building-a-client-database-of-people-in-react-55oe](https://dev.to/seven/building-a-client-database-of-people-in-react-55oe)<br>
  - [https://blog.risingstack.com/stripe-payments-integration-tutorial-javascript/](https://blog.risingstack.com/stripe-payments-integration-tutorial-javascript/)<br>
  - [https://dev.to/sm0ke/react-node-js-open-source-fullstack-starters-5192](https://dev.to/sm0ke/react-node-js-open-source-fullstack-starters-5192)<br>
+ - [https://reactjsexample.com/a-minimal-game-of-candy-crush-in-react/](https://reactjsexample.com/a-minimal-game-of-candy-crush-in-react/)<br>
  
 
 ## `React Unittest`
@@ -143,15 +144,12 @@ Table of Contents
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
 
-## `React State management`
-- [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
-- [https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)<br>
-
 ## `React with Webpack`
 - [https://devdojo.com/myogeshchavan97/how-to-create-a-react-app-from-scratch-using-webpack-5-babel](https://devdojo.com/myogeshchavan97/how-to-create-a-react-app-from-scratch-using-webpack-5-babelgst)<br>
 
 ## `Error handling`
 - [https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666)<br>
+- [https://blog.openreplay.com/catching-errors-in-react-with-error-boundaries](https://blog.openreplay.com/catching-errors-in-react-with-error-boundaries)<br>
 
 - ## `React with typescript`
 - [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
@@ -164,3 +162,11 @@ Table of Contents
 - ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
 - [https://dev.to/buddhadebchhetri/react-cheatsheets-5978](https://dev.to/buddhadebchhetri/react-cheatsheets-5978)<br>
+
+- ## `Redux`
+- [https://enlear.academy/redux-explained-simply-ffd6f16aa1ca](https://enlear.academy/redux-explained-simply-ffd6f16aa1ca)<br>
+- [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
+- [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
+- [https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)<br>
+- []()<br>
+- []()<br>
