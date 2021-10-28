@@ -155,6 +155,7 @@ Table of Contents
 - [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
 - [https://dmitripavlutin.com/typescript-react-components/](https://dmitripavlutin.com/typescript-react-components/)<br>
 - [https://dev.to/alim1496/react-with-typescript-1gp5](https://dev.to/alim1496/react-with-typescript-1gp5)<br>
+- [https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739](https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739)<br>
 
 - ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
@@ -168,5 +169,4 @@ Table of Contents
 - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
 - [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
 - [https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)<br>
-- []()<br>
 - []()<br>
