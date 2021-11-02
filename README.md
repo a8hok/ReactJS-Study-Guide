@@ -96,6 +96,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/adapter-design-in-react/](https://www.freecodecamp.org/news/adapter-design-in-react/)<br>
  - [https://dev.to/sankalpswami1122/tools-that-have-made-react-documentation-a-piece-of-cake-2kp3](https://dev.to/sankalpswami1122/tools-that-have-made-react-documentation-a-piece-of-cake-2kp3)<br>
  - [https://rehansattar.hashnode.dev/react-you-should-know](https://rehansattar.hashnode.dev/react-you-should-know)<br>
+ - [https://dev.to/hareom284/javascript-fundamentals-before-learning-react-1mkl](https://dev.to/hareom284/javascript-fundamentals-before-learning-react-1mkl)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
