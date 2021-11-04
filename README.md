@@ -80,6 +80,7 @@ Table of Contents
  - [https://levelup.gitconnected.com/optimizing-react-app-performance-62924bf7eba2](https://levelup.gitconnected.com/optimizing-react-app-performance-62924bf7eba2)<br>
  - [https://reactjsexample.com/a-series-of-reactjs-coding-challenges-with-a-variety-of-difficulties/](https://reactjsexample.com/a-series-of-reactjs-coding-challenges-with-a-variety-of-difficulties/)<br>
  - [https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i](https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i)<br>
+ - [https://dev.to/javascriptacademy/react-interview-questions-answered-and-explained-1-1b95](https://dev.to/javascriptacademy/react-interview-questions-answered-and-explained-1-1b95)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
