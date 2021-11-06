@@ -98,6 +98,7 @@ Table of Contents
  - [https://dev.to/sankalpswami1122/tools-that-have-made-react-documentation-a-piece-of-cake-2kp3](https://dev.to/sankalpswami1122/tools-that-have-made-react-documentation-a-piece-of-cake-2kp3)<br>
  - [https://rehansattar.hashnode.dev/react-you-should-know](https://rehansattar.hashnode.dev/react-you-should-know)<br>
  - [https://dev.to/hareom284/javascript-fundamentals-before-learning-react-1mkl](https://dev.to/hareom284/javascript-fundamentals-before-learning-react-1mkl)<br>
+ - [https://btholt.github.io/complete-intro-to-react-v6/](https://btholt.github.io/complete-intro-to-react-v6/)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
@@ -132,6 +133,7 @@ Table of Contents
 - [https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)<br>
 - [https://www.robinwieruch.de/react-testing-library](https://www.robinwieruch.de/react-testing-library)<br>
 - [https://testing-library.com/docs/react-testing-library/intro](https://testing-library.com/docs/react-testing-library/intro)<br>
+- [https://dev.to/mbarzeev/creating-a-react-component-with-tdd-2jn8](https://dev.to/mbarzeev/creating-a-react-component-with-tdd-2jn8)<br>
 
 ## `Architecture`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
@@ -172,4 +174,5 @@ Table of Contents
 - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
 - [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
 - [https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)<br>
+- [https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners](https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners)<br>
 - []()<br>
