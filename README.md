@@ -64,6 +64,9 @@ Table of Contents
 - [https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)<br>
 - [https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4](https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4)<br>
 - [https://pulackh.medium.com/react-js-summary-on-react-hooks-934bf25c3b2a](https://pulackh.medium.com/react-js-summary-on-react-hooks-934bf25c3b2a)<br>
+- [https://enlear.academy/types-of-react-hooks-best-practices-45c275b55b1f](https://enlear.academy/types-of-react-hooks-best-practices-45c275b55b1f)<br>
+- [https://dev.to/imrishabh18/simplest-custom-hook-to-persist-data-1odd](https://dev.to/imrishabh18/simplest-custom-hook-to-persist-data-1odd)<br>
+- [https://dev.to/surajmore98/hooks-in-react-4f6a](https://dev.to/surajmore98/hooks-in-react-4f6a)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
@@ -100,6 +103,7 @@ Table of Contents
  - [https://rehansattar.hashnode.dev/react-you-should-know](https://rehansattar.hashnode.dev/react-you-should-know)<br>
  - [https://dev.to/hareom284/javascript-fundamentals-before-learning-react-1mkl](https://dev.to/hareom284/javascript-fundamentals-before-learning-react-1mkl)<br>
  - [https://btholt.github.io/complete-intro-to-react-v6/](https://btholt.github.io/complete-intro-to-react-v6/)<br>
+ - [https://h.daily-dev-tips.com/react-basics-passing-data-between-components](https://h.daily-dev-tips.com/react-basics-passing-data-between-components)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
@@ -126,6 +130,11 @@ Table of Contents
  - [https://blog.risingstack.com/stripe-payments-integration-tutorial-javascript/](https://blog.risingstack.com/stripe-payments-integration-tutorial-javascript/)<br>
  - [https://dev.to/sm0ke/react-node-js-open-source-fullstack-starters-5192](https://dev.to/sm0ke/react-node-js-open-source-fullstack-starters-5192)<br>
  - [https://reactjsexample.com/a-minimal-game-of-candy-crush-in-react/](https://reactjsexample.com/a-minimal-game-of-candy-crush-in-react/)<br>
+ - [https://blog.openreplay.com/building-an-encyclopedia-with-react-and-wikipedia-search-api](https://blog.openreplay.com/building-an-encyclopedia-with-react-and-wikipedia-search-api)<br>
+ - [https://www.freecodecamp.org/news/react-tutorial-build-a-movie-list-generator-with-react-and-harperdb/](https://www.freecodecamp.org/news/react-tutorial-build-a-movie-list-generator-with-react-and-harperdb/)<br>
+ - [https://reactjsexample.com/marvel-heroes-app-using-react-and-bootstrap/](https://reactjsexample.com/marvel-heroes-app-using-react-and-bootstrap/)<br>
+ - [https://reactjsexample.com/responsive-portfolio-template-made-with-reactjs/](https://reactjsexample.com/responsive-portfolio-template-made-with-reactjs/)<br>
+ - [https://reactjsexample.com/youtube-clone-built-with-react-and-sass/](https://reactjsexample.com/youtube-clone-built-with-react-and-sass/)<br>
  
 
 ## `React Unittest`
@@ -176,4 +185,8 @@ Table of Contents
 - [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
 - [https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)<br>
 - [https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners](https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners)<br>
+- []()<br>
+
+- ## `React GraphQL`
+- [https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react](https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react)<br>
 - []()<br>
