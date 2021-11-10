@@ -75,6 +75,7 @@ Table of Contents
 - [https://dev.to/undefinedhere/every-react-developer-should-know-these-libraries-17mg](https://dev.to/undefinedhere/every-react-developer-should-know-these-libraries-17mg)<br>
 - [https://dev.to/raftlabs/best-ui-frameworks-for-react-js-b49](https://dev.to/raftlabs/best-ui-frameworks-for-react-js-b49)<br>
 - [https://cult.honeypot.io/reads/best-react-developer-tools-2021/](https://cult.honeypot.io/reads/best-react-developer-tools-2021/)<br>
+- [https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-with-bonus-4e29e89c9703](https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-with-bonus-4e29e89c9703)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
@@ -104,6 +105,8 @@ Table of Contents
  - [https://dev.to/hareom284/javascript-fundamentals-before-learning-react-1mkl](https://dev.to/hareom284/javascript-fundamentals-before-learning-react-1mkl)<br>
  - [https://btholt.github.io/complete-intro-to-react-v6/](https://btholt.github.io/complete-intro-to-react-v6/)<br>
  - [https://h.daily-dev-tips.com/react-basics-passing-data-between-components](https://h.daily-dev-tips.com/react-basics-passing-data-between-components)<br>
+ - [https://dev.to/muratcanyuksel/using-websockets-with-react-50pi](https://dev.to/muratcanyuksel/using-websockets-with-react-50pi)<br>
+ - [https://blog.logrocket.com/javascript-developer-guide-browser-cookies/](https://blog.logrocket.com/javascript-developer-guide-browser-cookies/)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
@@ -171,6 +174,7 @@ Table of Contents
 - [https://dmitripavlutin.com/typescript-react-components/](https://dmitripavlutin.com/typescript-react-components/)<br>
 - [https://dev.to/alim1496/react-with-typescript-1gp5](https://dev.to/alim1496/react-with-typescript-1gp5)<br>
 - [https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739](https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739)<br>
+- [https://techgirlamaka.hashnode.dev/react-components-and-typescriptpart-1-function-components](https://techgirlamaka.hashnode.dev/react-components-and-typescriptpart-1-function-components)<br>
 
 - ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
