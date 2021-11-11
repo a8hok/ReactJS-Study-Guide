@@ -175,6 +175,7 @@ Table of Contents
 - [https://dev.to/alim1496/react-with-typescript-1gp5](https://dev.to/alim1496/react-with-typescript-1gp5)<br>
 - [https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739](https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739)<br>
 - [https://techgirlamaka.hashnode.dev/react-components-and-typescriptpart-1-function-components](https://techgirlamaka.hashnode.dev/react-components-and-typescriptpart-1-function-components)<br>
+- [https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b](https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b)<br>
 
 - ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
