@@ -86,6 +86,7 @@ Table of Contents
  - [https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i](https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i)<br>
  - [https://dev.to/javascriptacademy/react-interview-questions-answered-and-explained-1-1b95](https://dev.to/javascriptacademy/react-interview-questions-answered-and-explained-1-1b95)<br>
  - [https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/](https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/)<br>
+ - [https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a](https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
