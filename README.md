@@ -108,6 +108,7 @@ Table of Contents
  - [https://h.daily-dev-tips.com/react-basics-passing-data-between-components](https://h.daily-dev-tips.com/react-basics-passing-data-between-components)<br>
  - [https://dev.to/muratcanyuksel/using-websockets-with-react-50pi](https://dev.to/muratcanyuksel/using-websockets-with-react-50pi)<br>
  - [https://blog.logrocket.com/javascript-developer-guide-browser-cookies/](https://blog.logrocket.com/javascript-developer-guide-browser-cookies/)<br>
+  - [https://blog.logrocket.com/fundamentals-functional-programming-react/](https://blog.logrocket.com/fundamentals-functional-programming-react/)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
@@ -169,6 +170,7 @@ Table of Contents
 ## `Error handling`
 - [https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666)<br>
 - [https://blog.openreplay.com/catching-errors-in-react-with-error-boundaries](https://blog.openreplay.com/catching-errors-in-react-with-error-boundaries)<br>
+- [https://dev.to/artemmalko/error-boundaries-in-react-how-its-made-3lam](https://dev.to/artemmalko/error-boundaries-in-react-how-its-made-3lam)<br>
 
 - ## `React with typescript`
 - [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
@@ -191,6 +193,7 @@ Table of Contents
 - [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
 - [https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)<br>
 - [https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners](https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners)<br>
+- [https://reactjsexample.com/redux-concepts-and-data-flow/](https://reactjsexample.com/redux-concepts-and-data-flow/)<br>
 - []()<br>
 
 - ## `React GraphQL`
