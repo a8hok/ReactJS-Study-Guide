@@ -162,6 +162,7 @@ Table of Contents
 - [https://reactjsexample.com/clean-architecture-for-react/](https://reactjsexample.com/clean-architecture-for-react/)<br>
 - [https://dev.to/ezranbayantemur/react-project-architecture-25m](https://dev.to/ezranbayantemur/react-project-architecture-25m)<br>
 - [https://dev.to/larswaechter/how-i-structure-my-react-projects-jii](https://dev.to/larswaechter/how-i-structure-my-react-projects-jii)<br>
+- [https://javascript.plainenglish.io/design-extensible-react-application-architecture-1c491e9ed525](https://javascript.plainenglish.io/design-extensible-react-application-architecture-1c491e9ed525)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
