@@ -87,6 +87,7 @@ Table of Contents
  - [https://dev.to/javascriptacademy/react-interview-questions-answered-and-explained-1-1b95](https://dev.to/javascriptacademy/react-interview-questions-answered-and-explained-1-1b95)<br>
  - [https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/](https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/)<br>
  - [https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a](https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a)<br>
+ - [https://dev.to/aviyel/300-react-interview-questions-4dag](https://dev.to/aviyel/300-react-interview-questions-4dag)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
@@ -109,6 +110,7 @@ Table of Contents
  - [https://dev.to/muratcanyuksel/using-websockets-with-react-50pi](https://dev.to/muratcanyuksel/using-websockets-with-react-50pi)<br>
  - [https://blog.logrocket.com/javascript-developer-guide-browser-cookies/](https://blog.logrocket.com/javascript-developer-guide-browser-cookies/)<br>
   - [https://blog.logrocket.com/fundamentals-functional-programming-react/](https://blog.logrocket.com/fundamentals-functional-programming-react/)<br>
+  - [https://www.freecodecamp.org/news/how-to-use-props-in-react/](https://www.freecodecamp.org/news/how-to-use-props-in-react/)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
@@ -140,6 +142,7 @@ Table of Contents
  - [https://reactjsexample.com/marvel-heroes-app-using-react-and-bootstrap/](https://reactjsexample.com/marvel-heroes-app-using-react-and-bootstrap/)<br>
  - [https://reactjsexample.com/responsive-portfolio-template-made-with-reactjs/](https://reactjsexample.com/responsive-portfolio-template-made-with-reactjs/)<br>
  - [https://reactjsexample.com/youtube-clone-built-with-react-and-sass/](https://reactjsexample.com/youtube-clone-built-with-react-and-sass/)<br>
+ - [https://dev.to/franciscomendes10866/how-to-create-modern-cards-using-react-and-tailwind-2ded](https://dev.to/franciscomendes10866/how-to-create-modern-cards-using-react-and-tailwind-2ded)<br>
  
 
 ## `React Unittest`
