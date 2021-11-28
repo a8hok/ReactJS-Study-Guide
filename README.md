@@ -167,6 +167,7 @@ Table of Contents
 - [https://dev.to/larswaechter/how-i-structure-my-react-projects-jii](https://dev.to/larswaechter/how-i-structure-my-react-projects-jii)<br>
 - [https://javascript.plainenglish.io/design-extensible-react-application-architecture-1c491e9ed525](https://javascript.plainenglish.io/design-extensible-react-application-architecture-1c491e9ed525)<br>
 - [https://reactjsexample.com/a-simple-react-application-with-redux-and-style-component/](https://reactjsexample.com/a-simple-react-application-with-redux-and-style-component/)<br>
+- [https://dev.to/bjakyt/how-i-structure-my-reactjs-projects-4cmc](https://dev.to/bjakyt/how-i-structure-my-reactjs-projects-4cmc)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
