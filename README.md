@@ -48,6 +48,7 @@ Table of Contents
  - [https://luisarbezerra.com/react-clean-code-for-beginners](https://luisarbezerra.com/react-clean-code-for-beginners)<br>
  - [https://blog.logrocket.com/react-reference-guide-hooks-api/](https://blog.logrocket.com/react-reference-guide-hooks-api/)<br>
  - [https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)<br>
+ - [https://dev.to/victorocna/my-secret-trick-for-writing-great-react-components-fb8](https://dev.to/victorocna/my-secret-trick-for-writing-great-react-components-fb8)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
@@ -202,6 +203,7 @@ Table of Contents
 - [https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)<br>
 - [https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners](https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners)<br>
 - [https://reactjsexample.com/redux-concepts-and-data-flow/](https://reactjsexample.com/redux-concepts-and-data-flow/)<br>
+- [https://javascript.plainenglish.io/lets-understand-redux-in-a-simple-manner-da85f296cb49](https://javascript.plainenglish.io/lets-understand-redux-in-a-simple-manner-da85f296cb49)<br>
 - []()<br>
 
 - ## `React GraphQL`
