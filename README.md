@@ -89,6 +89,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/](https://www.freecodecamp.org/news/how-to-stand-out-during-your-react-coding-interview/)<br>
  - [https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a](https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a)<br>
  - [https://dev.to/aviyel/300-react-interview-questions-4dag](https://dev.to/aviyel/300-react-interview-questions-4dag)<br>
+ - [https://www.edureka.co/blog/interview-questions/react-interview-questions/](https://www.edureka.co/blog/interview-questions/react-interview-questions/)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
@@ -188,6 +189,7 @@ Table of Contents
 - [https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739](https://levelup.gitconnected.com/add-husky-lint-staged-to-react-typescript-b634314a9739)<br>
 - [https://techgirlamaka.hashnode.dev/react-components-and-typescriptpart-1-function-components](https://techgirlamaka.hashnode.dev/react-components-and-typescriptpart-1-function-components)<br>
 - [https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b](https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b)<br>
+- [https://www.edureka.co/blog/interview-questions/typescript-interview-questions/](https://www.edureka.co/blog/interview-questions/typescript-interview-questions/)<br>
 
 - ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
