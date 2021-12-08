@@ -31,6 +31,8 @@ Table of Contents
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
+ - [https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn](https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn)<br>
+ - []()<br>
  
 
  ## `React Performance`
@@ -49,6 +51,7 @@ Table of Contents
  - [https://blog.logrocket.com/react-reference-guide-hooks-api/](https://blog.logrocket.com/react-reference-guide-hooks-api/)<br>
  - [https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)<br>
  - [https://dev.to/victorocna/my-secret-trick-for-writing-great-react-components-fb8](https://dev.to/victorocna/my-secret-trick-for-writing-great-react-components-fb8)<br>
+ - [https://dev.to/alexomeyer/10-must-have-react-developer-tools-to-write-clean-code-1808](https://dev.to/alexomeyer/10-must-have-react-developer-tools-to-write-clean-code-1808)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
@@ -68,6 +71,7 @@ Table of Contents
 - [https://enlear.academy/types-of-react-hooks-best-practices-45c275b55b1f](https://enlear.academy/types-of-react-hooks-best-practices-45c275b55b1f)<br>
 - [https://dev.to/imrishabh18/simplest-custom-hook-to-persist-data-1odd](https://dev.to/imrishabh18/simplest-custom-hook-to-persist-data-1odd)<br>
 - [https://dev.to/surajmore98/hooks-in-react-4f6a](https://dev.to/surajmore98/hooks-in-react-4f6a)<br>
+- [https://dev.to/dev117uday/react-hooks-0-to-hero-4b7o](https://dev.to/dev117uday/react-hooks-0-to-hero-4b7o)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
