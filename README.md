@@ -117,6 +117,7 @@ Table of Contents
  - [https://blog.logrocket.com/javascript-developer-guide-browser-cookies/](https://blog.logrocket.com/javascript-developer-guide-browser-cookies/)<br>
   - [https://blog.logrocket.com/fundamentals-functional-programming-react/](https://blog.logrocket.com/fundamentals-functional-programming-react/)<br>
   - [https://www.freecodecamp.org/news/how-to-use-props-in-react/](https://www.freecodecamp.org/news/how-to-use-props-in-react/)<br>
+  - [https://dev.to/harishash/react-practices-for-beginners-djn](https://dev.to/harishash/react-practices-for-beginners-djn)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
