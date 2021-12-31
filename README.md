@@ -119,6 +119,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/how-to-use-props-in-react/](https://www.freecodecamp.org/news/how-to-use-props-in-react/)<br>
   - [https://dev.to/harishash/react-practices-for-beginners-djn](https://dev.to/harishash/react-practices-for-beginners-djn)<br>
   - [https://dev.to/javinpaul/10-best-websites-to-learn-reactjs-in-2022-1o6d](https://dev.to/javinpaul/10-best-websites-to-learn-reactjs-in-2022-1o6d)<br>
+  - [https://www.freecodecamp.org/news/learn-all-about-micro-frontends/](https://www.freecodecamp.org/news/learn-all-about-micro-frontends/)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
