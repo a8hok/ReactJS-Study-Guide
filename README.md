@@ -121,6 +121,8 @@ Table of Contents
   - [https://dev.to/javinpaul/10-best-websites-to-learn-reactjs-in-2022-1o6d](https://dev.to/javinpaul/10-best-websites-to-learn-reactjs-in-2022-1o6d)<br>
   - [https://www.freecodecamp.org/news/learn-all-about-micro-frontends/](https://www.freecodecamp.org/news/learn-all-about-micro-frontends/)<br>
   - [https://levelup.gitconnected.com/what-is-new-in-react-router-v6-5c7d1f8de143](https://levelup.gitconnected.com/what-is-new-in-react-router-v6-5c7d1f8de143)<br>
+  - [https://blog.openreplay.com/where-to-learn-react-js-in-2022-a-list-of-resources-for-new-developers](https://blog.openreplay.com/where-to-learn-react-js-in-2022-a-list-of-resources-for-new-developers)<br>
+  - []()<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
