@@ -122,7 +122,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/learn-all-about-micro-frontends/](https://www.freecodecamp.org/news/learn-all-about-micro-frontends/)<br>
   - [https://levelup.gitconnected.com/what-is-new-in-react-router-v6-5c7d1f8de143](https://levelup.gitconnected.com/what-is-new-in-react-router-v6-5c7d1f8de143)<br>
   - [https://blog.openreplay.com/where-to-learn-react-js-in-2022-a-list-of-resources-for-new-developers](https://blog.openreplay.com/where-to-learn-react-js-in-2022-a-list-of-resources-for-new-developers)<br>
-  - [https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2](https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2)<br>
+  - [https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2]
   - []()<br>
 
 ## `React Projects`
