@@ -32,6 +32,7 @@ Table of Contents
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
  - [https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn](https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn)<br>
+ - [https://dev.to/dhiwise/advanced-roadmap-for-reactjs-developers-108d](https://dev.to/dhiwise/advanced-roadmap-for-reactjs-developers-108d)<br>
  - []()<br>
  
 
@@ -182,6 +183,7 @@ Table of Contents
 - [https://reactjsexample.com/a-simple-react-application-with-redux-and-style-component/](https://reactjsexample.com/a-simple-react-application-with-redux-and-style-component/)<br>
 - [https://dev.to/bjakyt/how-i-structure-my-reactjs-projects-4cmc](https://dev.to/bjakyt/how-i-structure-my-reactjs-projects-4cmc)<br>
 - [https://blog.openreplay.com/react-architecture-patterns-for-your-projects](https://blog.openreplay.com/react-architecture-patterns-for-your-projects)<br>
+- []()<br>
 - []()<br>
 
 ## `React checklist`
