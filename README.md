@@ -205,6 +205,8 @@ Table of Contents
 - [https://techgirlamaka.hashnode.dev/react-components-and-typescriptpart-1-function-components](https://techgirlamaka.hashnode.dev/react-components-and-typescriptpart-1-function-components)<br>
 - [https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b](https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b)<br>
 - [https://www.edureka.co/blog/interview-questions/typescript-interview-questions/](https://www.edureka.co/blog/interview-questions/typescript-interview-questions/)<br>
+- [https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/](https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/)<br>
+- []()<br>
 
 - ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
