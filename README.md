@@ -53,6 +53,9 @@ Table of Contents
  - [https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)<br>
  - [https://dev.to/victorocna/my-secret-trick-for-writing-great-react-components-fb8](https://dev.to/victorocna/my-secret-trick-for-writing-great-react-components-fb8)<br>
  - [https://dev.to/alexomeyer/10-must-have-react-developer-tools-to-write-clean-code-1808](https://dev.to/alexomeyer/10-must-have-react-developer-tools-to-write-clean-code-1808)<br>
+ - [https://dzone.com/articles/best-coding-practices-in-reactjs](https://dzone.com/articles/best-coding-practices-in-reactjs)<br>
+ - [https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/](https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/)<br>
+ - []()<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
@@ -82,6 +85,7 @@ Table of Contents
 - [https://dev.to/raftlabs/best-ui-frameworks-for-react-js-b49](https://dev.to/raftlabs/best-ui-frameworks-for-react-js-b49)<br>
 - [https://cult.honeypot.io/reads/best-react-developer-tools-2021/](https://cult.honeypot.io/reads/best-react-developer-tools-2021/)<br>
 - [https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-with-bonus-4e29e89c9703](https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-with-bonus-4e29e89c9703)<br>
+- [https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022](https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
@@ -95,6 +99,8 @@ Table of Contents
  - [https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a](https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a)<br>
  - [https://dev.to/aviyel/300-react-interview-questions-4dag](https://dev.to/aviyel/300-react-interview-questions-4dag)<br>
  - [https://www.edureka.co/blog/interview-questions/react-interview-questions/](https://www.edureka.co/blog/interview-questions/react-interview-questions/)<br>
+ - [https://www.interviewbit.com/react-interview-questions/#](https://www.interviewbit.com/react-interview-questions/#)<br>
+ - []()<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
@@ -124,6 +130,8 @@ Table of Contents
   - [https://levelup.gitconnected.com/what-is-new-in-react-router-v6-5c7d1f8de143](https://levelup.gitconnected.com/what-is-new-in-react-router-v6-5c7d1f8de143)<br>
   - [https://blog.openreplay.com/where-to-learn-react-js-in-2022-a-list-of-resources-for-new-developers](https://blog.openreplay.com/where-to-learn-react-js-in-2022-a-list-of-resources-for-new-developers)<br>
   - [https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2]
+  - [https://www.telerik.com/blogs/react-developers-top-10-topics-2021](https://www.telerik.com/blogs/react-developers-top-10-topics-2021)<br>
+  - [https://www.freecodecamp.org/news/react-fundamentals-for-beginners/](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/)<br>
   - []()<br>
 
 ## `React Projects`
@@ -206,6 +214,7 @@ Table of Contents
 - [https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b](https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b)<br>
 - [https://www.edureka.co/blog/interview-questions/typescript-interview-questions/](https://www.edureka.co/blog/interview-questions/typescript-interview-questions/)<br>
 - [https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/](https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/)<br>
+- [https://reactjsexample.com/cheatsheets-for-experienced-react-developers-getting-started-with-typescript/](https://reactjsexample.com/cheatsheets-for-experienced-react-developers-getting-started-with-typescript/)<br>
 - []()<br>
 
 - ## `React with DynamoDB`
@@ -214,7 +223,8 @@ Table of Contents
 - ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
 - [https://dev.to/buddhadebchhetri/react-cheatsheets-5978](https://dev.to/buddhadebchhetri/react-cheatsheets-5978)<br>
-
+- [https://devdojo.com/shreya/resources-to-learn-reactjs](https://devdojo.com/shreya/resources-to-learn-reactjs)<br>
+- []()<br>
 - ## `Redux`
 - [https://enlear.academy/redux-explained-simply-ffd6f16aa1ca](https://enlear.academy/redux-explained-simply-ffd6f16aa1ca)<br>
 - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
