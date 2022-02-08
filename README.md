@@ -133,6 +133,7 @@ Table of Contents
   - [https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2]
   - [https://www.telerik.com/blogs/react-developers-top-10-topics-2021](https://www.telerik.com/blogs/react-developers-top-10-topics-2021)<br>
   - [https://www.freecodecamp.org/news/react-fundamentals-for-beginners/](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/)<br>
+  - [https://www.syncfusion.com/blogs/post/everything-you-should-know-about-react-18.aspx](https://www.syncfusion.com/blogs/post/everything-you-should-know-about-react-18.aspx)<br>
   - []()<br>
 
 ## `React Projects`
