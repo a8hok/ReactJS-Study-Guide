@@ -18,12 +18,13 @@ Table of Contents
    * [React Unittest](#react-unittest)
    * [Architecture](#architecture)
    * [React checklist](#react-checklist)
-   * [React State management](#react-state-management)
    * [React with Webpack](#react-with-webpack)
    * [Error handling](#error-handling)
    * [React with typescript](#react-with-typescript)
    * [React with DynamoDB](#react-with-dynamodb)
    * [React Resources](#react-resources)
+   * [Redux](#redux)
+   * [React GraphQL](#react-graphql)
 
 ## `React Life cycle`
  - [https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8](https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8)<br>
@@ -217,6 +218,7 @@ Table of Contents
 - [https://www.edureka.co/blog/interview-questions/typescript-interview-questions/](https://www.edureka.co/blog/interview-questions/typescript-interview-questions/)<br>
 - [https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/](https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/)<br>
 - [https://reactjsexample.com/cheatsheets-for-experienced-react-developers-getting-started-with-typescript/](https://reactjsexample.com/cheatsheets-for-experienced-react-developers-getting-started-with-typescript/)<br>
+- [https://dev.to/adevnadia/advanced-typescript-for-react-developers-part-3-p4j](https://dev.to/adevnadia/advanced-typescript-for-react-developers-part-3-p4j)<br>
 - []()<br>
 
 - ## `React with DynamoDB`
