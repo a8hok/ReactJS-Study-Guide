@@ -78,6 +78,9 @@ Table of Contents
 - [https://dev.to/imrishabh18/simplest-custom-hook-to-persist-data-1odd](https://dev.to/imrishabh18/simplest-custom-hook-to-persist-data-1odd)<br>
 - [https://dev.to/surajmore98/hooks-in-react-4f6a](https://dev.to/surajmore98/hooks-in-react-4f6a)<br>
 - [https://dev.to/dev117uday/react-hooks-0-to-hero-4b7o](https://dev.to/dev117uday/react-hooks-0-to-hero-4b7o)<br>
+- [https://blog.logrocket.com/options-caching-react/](https://blog.logrocket.com/options-caching-react/)<br>
+- [https://javascript.plainenglish.io/real-life-use-cases-for-usecallback-and-usememo-7fa6f787b7e0](https://javascript.plainenglish.io/real-life-use-cases-for-usecallback-and-usememo-7fa6f787b7e0)<br>
+- []()<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
@@ -223,6 +226,9 @@ Table of Contents
 
 - ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
+
+## `NextJS`
+- [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
 
 - ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
