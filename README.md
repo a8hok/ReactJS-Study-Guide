@@ -229,6 +229,7 @@ Table of Contents
 
 ## `NextJS`
 - [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
+- [https://github.com/avneesh0612/react-nextjs-snippets?ref=producthunt](https://github.com/avneesh0612/react-nextjs-snippets?ref=producthunt)<br>
 
 - ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
