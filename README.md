@@ -230,6 +230,8 @@ Table of Contents
 ## `NextJS`
 - [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
 - [https://bestofreactjs.com/repo/beauwilliams-demo-next-typescript-hardhat-marketplace](https://bestofreactjs.com/repo/beauwilliams-demo-next-typescript-hardhat-marketplace)<br>
+- [https://github.com/avneesh0612/react-nextjs-snippets?ref=producthunt](https://github.com/avneesh0612/react-nextjs-snippets?ref=producthunt)<br>
+- [https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)<br>
 - []()<br>
 
 - ## `React Resources`
