@@ -80,6 +80,7 @@ Table of Contents
 - [https://dev.to/dev117uday/react-hooks-0-to-hero-4b7o](https://dev.to/dev117uday/react-hooks-0-to-hero-4b7o)<br>
 - [https://blog.logrocket.com/options-caching-react/](https://blog.logrocket.com/options-caching-react/)<br>
 - [https://javascript.plainenglish.io/real-life-use-cases-for-usecallback-and-usememo-7fa6f787b7e0](https://javascript.plainenglish.io/real-life-use-cases-for-usecallback-and-usememo-7fa6f787b7e0)<br>
+- [https://blog.greenroots.info/react-hook-usestate-lazy-initialization-previous-state](https://blog.greenroots.info/react-hook-usestate-lazy-initialization-previous-state)<br>
 - []()<br>
 
 ## `React Libraries`
