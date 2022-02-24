@@ -139,6 +139,7 @@ Table of Contents
   - [https://www.telerik.com/blogs/react-developers-top-10-topics-2021](https://www.telerik.com/blogs/react-developers-top-10-topics-2021)<br>
   - [https://www.freecodecamp.org/news/react-fundamentals-for-beginners/](https://www.freecodecamp.org/news/react-fundamentals-for-beginners/)<br>
   - [https://www.syncfusion.com/blogs/post/everything-you-should-know-about-react-18.aspx](https://www.syncfusion.com/blogs/post/everything-you-should-know-about-react-18.aspx)<br>
+  - [https://reactjsexample.com/8-best-react-books-for-beginners-in-2022/](https://reactjsexample.com/8-best-react-books-for-beginners-in-2022/)<br>
   - []()<br>
 
 ## `React Projects`
