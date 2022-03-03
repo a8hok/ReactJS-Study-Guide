@@ -199,7 +199,7 @@ Table of Contents
 - [https://reactjsexample.com/a-simple-react-application-with-redux-and-style-component/](https://reactjsexample.com/a-simple-react-application-with-redux-and-style-component/)<br>
 - [https://dev.to/bjakyt/how-i-structure-my-reactjs-projects-4cmc](https://dev.to/bjakyt/how-i-structure-my-reactjs-projects-4cmc)<br>
 - [https://blog.openreplay.com/react-architecture-patterns-for-your-projects](https://blog.openreplay.com/react-architecture-patterns-for-your-projects)<br>
-- []()<br>
+- [https://blog.logrocket.com/react-component-design-patterns-2022/](https://blog.logrocket.com/react-component-design-patterns-2022/)<br>
 - []()<br>
 
 ## `React checklist`
