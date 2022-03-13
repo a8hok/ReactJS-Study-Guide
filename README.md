@@ -200,7 +200,7 @@ Table of Contents
 - [https://dev.to/bjakyt/how-i-structure-my-reactjs-projects-4cmc](https://dev.to/bjakyt/how-i-structure-my-reactjs-projects-4cmc)<br>
 - [https://blog.openreplay.com/react-architecture-patterns-for-your-projects](https://blog.openreplay.com/react-architecture-patterns-for-your-projects)<br>
 - [https://blog.logrocket.com/react-component-design-patterns-2022/](https://blog.logrocket.com/react-component-design-patterns-2022/)<br>
-- []()<br>
+- [https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f](https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
@@ -213,7 +213,7 @@ Table of Contents
 - [https://blog.openreplay.com/catching-errors-in-react-with-error-boundaries](https://blog.openreplay.com/catching-errors-in-react-with-error-boundaries)<br>
 - [https://dev.to/artemmalko/error-boundaries-in-react-how-its-made-3lam](https://dev.to/artemmalko/error-boundaries-in-react-how-its-made-3lam)<br>
 
-- ## `React with typescript`
+## `React with typescript`
 - [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
 - [https://dmitripavlutin.com/typescript-react-components/](https://dmitripavlutin.com/typescript-react-components/)<br>
 - [https://dev.to/alim1496/react-with-typescript-1gp5](https://dev.to/alim1496/react-with-typescript-1gp5)<br>
@@ -226,7 +226,7 @@ Table of Contents
 - [https://dev.to/adevnadia/advanced-typescript-for-react-developers-part-3-p4j](https://dev.to/adevnadia/advanced-typescript-for-react-developers-part-3-p4j)<br>
 - []()<br>
 
-- ## `React with DynamoDB`
+## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
 
 ## `NextJS`
@@ -236,12 +236,13 @@ Table of Contents
 - [https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)<br>
 - [https://www.thisdot.co/blog/next-js-and-react-js-5-differences-to-help-you-make-your-choice](https://www.thisdot.co/blog/next-js-and-react-js-5-differences-to-help-you-make-your-choice)<br>
 
-- ## `React Resources`
+## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
 - [https://dev.to/buddhadebchhetri/react-cheatsheets-5978](https://dev.to/buddhadebchhetri/react-cheatsheets-5978)<br>
 - [https://devdojo.com/shreya/resources-to-learn-reactjs](https://devdojo.com/shreya/resources-to-learn-reactjs)<br>
 - []()<br>
-- ## `Redux`
+
+## `Redux`
 - [https://enlear.academy/redux-explained-simply-ffd6f16aa1ca](https://enlear.academy/redux-explained-simply-ffd6f16aa1ca)<br>
 - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
 - [https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)<br>
@@ -251,6 +252,6 @@ Table of Contents
 - [https://javascript.plainenglish.io/lets-understand-redux-in-a-simple-manner-da85f296cb49](https://javascript.plainenglish.io/lets-understand-redux-in-a-simple-manner-da85f296cb49)<br>
 - []()<br>
 
-- ## `React GraphQL`
+## `React GraphQL`
 - [https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react](https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react)<br>
 - []()<br>
