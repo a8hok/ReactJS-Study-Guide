@@ -57,7 +57,7 @@ Table of Contents
  - [https://dev.to/alexomeyer/10-must-have-react-developer-tools-to-write-clean-code-1808](https://dev.to/alexomeyer/10-must-have-react-developer-tools-to-write-clean-code-1808)<br>
  - [https://dzone.com/articles/best-coding-practices-in-reactjs](https://dzone.com/articles/best-coding-practices-in-reactjs)<br>
  - [https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/](https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/)<br>
- - []()<br>
+ - [https://blog.whereisthemouse.com/good-practices-for-loading-error-and-empty-states-in-react](https://blog.whereisthemouse.com/good-practices-for-loading-error-and-empty-states-in-react)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
