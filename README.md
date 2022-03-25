@@ -82,7 +82,7 @@ Table of Contents
 - [https://blog.logrocket.com/options-caching-react/](https://blog.logrocket.com/options-caching-react/)<br>
 - [https://javascript.plainenglish.io/real-life-use-cases-for-usecallback-and-usememo-7fa6f787b7e0](https://javascript.plainenglish.io/real-life-use-cases-for-usecallback-and-usememo-7fa6f787b7e0)<br>
 - [https://blog.greenroots.info/react-hook-usestate-lazy-initialization-previous-state](https://blog.greenroots.info/react-hook-usestate-lazy-initialization-previous-state)<br>
-- []()<br>
+- [https://blog.greenroots.info/react-useeffect-hook-usages-you-must-know](https://blog.greenroots.info/react-useeffect-hook-usages-you-must-know)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
