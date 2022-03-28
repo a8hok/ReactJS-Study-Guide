@@ -202,6 +202,7 @@ Table of Contents
 - [https://blog.openreplay.com/react-architecture-patterns-for-your-projects](https://blog.openreplay.com/react-architecture-patterns-for-your-projects)<br>
 - [https://blog.logrocket.com/react-component-design-patterns-2022/](https://blog.logrocket.com/react-component-design-patterns-2022/)<br>
 - [https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f](https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f)<br>
+- [https://blog.bitsrc.io/an-object-oriented-react-app-design-6242c168fcf8](https://blog.bitsrc.io/an-object-oriented-react-app-design-6242c168fcf8)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
