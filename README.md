@@ -242,7 +242,7 @@ Table of Contents
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
 - [https://dev.to/buddhadebchhetri/react-cheatsheets-5978](https://dev.to/buddhadebchhetri/react-cheatsheets-5978)<br>
 - [https://devdojo.com/shreya/resources-to-learn-reactjs](https://devdojo.com/shreya/resources-to-learn-reactjs)<br>
-- []()<br>
+- [https://cult.honeypot.io/reads/8-best-react-courses-2022/](https://cult.honeypot.io/reads/8-best-react-courses-2022/)<br>
 
 ## `Redux`
 - [https://enlear.academy/redux-explained-simply-ffd6f16aa1ca](https://enlear.academy/redux-explained-simply-ffd6f16aa1ca)<br>
