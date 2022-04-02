@@ -237,6 +237,7 @@ Table of Contents
 - [https://github.com/avneesh0612/react-nextjs-snippets?ref=producthunt](https://github.com/avneesh0612/react-nextjs-snippets?ref=producthunt)<br>
 - [https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)<br>
 - [https://www.thisdot.co/blog/next-js-and-react-js-5-differences-to-help-you-make-your-choice](https://www.thisdot.co/blog/next-js-and-react-js-5-differences-to-help-you-make-your-choice)<br>
+- [https://tsh.io/blog/ssr-vs-ssg-in-nextjs/](https://tsh.io/blog/ssr-vs-ssg-in-nextjs/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
