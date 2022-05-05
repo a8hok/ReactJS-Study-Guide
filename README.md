@@ -251,6 +251,7 @@ Table of Contents
 - [https://dev.to/buddhadebchhetri/react-cheatsheets-5978](https://dev.to/buddhadebchhetri/react-cheatsheets-5978)<br>
 - [https://devdojo.com/shreya/resources-to-learn-reactjs](https://devdojo.com/shreya/resources-to-learn-reactjs)<br>
 - [https://cult.honeypot.io/reads/8-best-react-courses-2022/](https://cult.honeypot.io/reads/8-best-react-courses-2022/)<br>
+- [https://www.freecodecamp.org/news/learn-react-router-6/](https://www.freecodecamp.org/news/learn-react-router-6/)<br>
 
 ## `Redux`
 - [https://enlear.academy/redux-explained-simply-ffd6f16aa1ca](https://enlear.academy/redux-explained-simply-ffd6f16aa1ca)<br>
