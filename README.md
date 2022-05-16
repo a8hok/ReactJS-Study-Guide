@@ -245,6 +245,7 @@ Table of Contents
 - [https://www.thisdot.co/blog/next-js-and-react-js-5-differences-to-help-you-make-your-choice](https://www.thisdot.co/blog/next-js-and-react-js-5-differences-to-help-you-make-your-choice)<br>
 - [https://tsh.io/blog/ssr-vs-ssg-in-nextjs/](https://tsh.io/blog/ssr-vs-ssg-in-nextjs/)<br>
 - [https://dev.to/codebeast/from-figma-to-nextjs-app-in-minutes-4jp9](https://dev.to/codebeast/from-figma-to-nextjs-app-in-minutes-4jp9)<br>
+- [https://blog.astrosaurus.me/how-to-nextjs](https://blog.astrosaurus.me/how-to-nextjs)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
