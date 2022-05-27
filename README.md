@@ -146,6 +146,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/react-18-new-features/](https://www.freecodecamp.org/news/react-18-new-features/)<br>
   - [https://blog.openreplay.com/a-dive-into-react-storybook](https://blog.openreplay.com/a-dive-into-react-storybook)<br>
   - [https://blog.thoughtspile.tech/2022/01/17/jsx-conditionals/](https://blog.thoughtspile.tech/2022/01/17/jsx-conditionals/)<br>
+  - [https://girlwhocodes.hashnode.dev/memoization-in-react](https://girlwhocodes.hashnode.dev/memoization-in-react)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
