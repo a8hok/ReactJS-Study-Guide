@@ -109,6 +109,7 @@ Table of Contents
  - [https://www.edureka.co/blog/interview-questions/react-interview-questions/](https://www.edureka.co/blog/interview-questions/react-interview-questions/)<br>
  - [https://www.interviewbit.com/react-interview-questions/#](https://www.interviewbit.com/react-interview-questions/#)<br>
  - [https://cult.honeypot.io/reads/react-developer-cheatsheets/](https://cult.honeypot.io/reads/react-developer-cheatsheets/)<br>
+ - [https://www.freecodecamp.org/news/react-interview-questions-and-answers/](https://www.freecodecamp.org/news/react-interview-questions-and-answers/)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
