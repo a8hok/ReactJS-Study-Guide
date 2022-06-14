@@ -148,6 +148,7 @@ Table of Contents
   - [https://blog.openreplay.com/a-dive-into-react-storybook](https://blog.openreplay.com/a-dive-into-react-storybook)<br>
   - [https://blog.thoughtspile.tech/2022/01/17/jsx-conditionals/](https://blog.thoughtspile.tech/2022/01/17/jsx-conditionals/)<br>
   - [https://girlwhocodes.hashnode.dev/memoization-in-react](https://girlwhocodes.hashnode.dev/memoization-in-react)<br>
+  - [https://www.robinwieruch.de/react-element-component/](https://www.robinwieruch.de/react-element-component/)<br>
 
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
