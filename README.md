@@ -59,6 +59,7 @@ Table of Contents
  - [https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/](https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/)<br>
  - [https://blog.whereisthemouse.com/good-practices-for-loading-error-and-empty-states-in-react](https://blog.whereisthemouse.com/good-practices-for-loading-error-and-empty-states-in-react)<br>
  - [https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1)
+ - [https://tapajyoti-bose.medium.com/7-tips-for-clean-react-typescript-code-you-must-know-3ebd34af343f](https://tapajyoti-bose.medium.com/7-tips-for-clean-react-typescript-code-you-must-know-3ebd34af343f)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
