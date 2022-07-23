@@ -270,7 +270,7 @@ Table of Contents
 - [https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners](https://lo-victoria.com/introduction-to-redux-toolkit-for-beginners)<br>
 - [https://reactjsexample.com/redux-concepts-and-data-flow/](https://reactjsexample.com/redux-concepts-and-data-flow/)<br>
 - [https://javascript.plainenglish.io/lets-understand-redux-in-a-simple-manner-da85f296cb49](https://javascript.plainenglish.io/lets-understand-redux-in-a-simple-manner-da85f296cb49)<br>
-- []()<br>
+- [https://javascript.plainenglish.io/step-by-step-tutorial-react-redux-2022-with-hooks-3b5d63b18be9](https://javascript.plainenglish.io/step-by-step-tutorial-react-redux-2022-with-hooks-3b5d63b18be9)<br>
 
 ## `React GraphQL`
 - [https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react](https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react)<br>
