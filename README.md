@@ -86,6 +86,7 @@ Table of Contents
 - [https://blog.greenroots.info/react-hook-usestate-lazy-initialization-previous-state](https://blog.greenroots.info/react-hook-usestate-lazy-initialization-previous-state)<br>
 - [https://blog.greenroots.info/react-useeffect-hook-usages-you-must-know](https://blog.greenroots.info/react-useeffect-hook-usages-you-must-know)<br>
 - [https://www.robinwieruch.de/react-uselocalstorage-hook/](https://www.robinwieruch.de/react-uselocalstorage-hook/)<br>
+- [https://courses.webdevsimplified.com/view/courses/react-hooks-simplified/1411296-introduction/4376388-00-introduction](https://courses.webdevsimplified.com/view/courses/react-hooks-simplified/1411296-introduction/4376388-00-introduction)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
