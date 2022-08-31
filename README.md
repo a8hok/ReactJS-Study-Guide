@@ -153,7 +153,8 @@ Table of Contents
   - [https://girlwhocodes.hashnode.dev/memoization-in-react](https://girlwhocodes.hashnode.dev/memoization-in-react)<br>
   - [https://www.robinwieruch.de/react-element-component/](https://www.robinwieruch.de/react-element-component/)<br>
   - [https://cult.honeypot.io/reads/react-developer-cheatsheets/](https://cult.honeypot.io/reads/react-developer-cheatsheets/)<br>
-
+  - [https://andrewbaisden.hashnode.dev/the-complete-modern-react-developer-2022](https://andrewbaisden.hashnode.dev/the-complete-modern-react-developer-2022)<br>
+  
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
 - [https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/](https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/)<br>
