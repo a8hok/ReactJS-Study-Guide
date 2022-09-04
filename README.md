@@ -190,6 +190,7 @@ Table of Contents
  - [https://www.section.io/engineering-education/react-swipe-application/](https://www.section.io/engineering-education/react-swipe-application/)<br>
  - [https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/](https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/)<br>
  - [https://betterprogramming.pub/a-complete-guide-to-implementing-dark-mode-in-react-47af893b22eb](https://betterprogramming.pub/a-complete-guide-to-implementing-dark-mode-in-react-47af893b22eb)<br>
+ - [https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/(https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/)<br>
  
 
 ## `React Unittest`
