@@ -246,6 +246,7 @@ Table of Contents
 - [https://reactjsexample.com/cheatsheets-for-experienced-react-developers-getting-started-with-typescript/](https://reactjsexample.com/cheatsheets-for-experienced-react-developers-getting-started-with-typescript/)<br>
 - [https://dev.to/adevnadia/advanced-typescript-for-react-developers-part-3-p4j](https://dev.to/adevnadia/advanced-typescript-for-react-developers-part-3-p4j)<br>
 - [https://www.freecodecamp.org/news/learn-typescript-beginners-guide/](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)<br>
+- [https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/](https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/)<br>
 
 ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
