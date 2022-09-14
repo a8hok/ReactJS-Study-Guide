@@ -113,6 +113,7 @@ Table of Contents
  - [https://www.interviewbit.com/react-interview-questions/#](https://www.interviewbit.com/react-interview-questions/#)<br>
  - [https://cult.honeypot.io/reads/react-developer-cheatsheets/](https://cult.honeypot.io/reads/react-developer-cheatsheets/)<br>
  - [https://www.freecodecamp.org/news/react-interview-questions-and-answers/](https://www.freecodecamp.org/news/react-interview-questions-and-answers/)<br>
+ - [https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/](https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
