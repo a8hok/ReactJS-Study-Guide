@@ -193,6 +193,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/](https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/)<br>
  - [https://betterprogramming.pub/a-complete-guide-to-implementing-dark-mode-in-react-47af893b22eb](https://betterprogramming.pub/a-complete-guide-to-implementing-dark-mode-in-react-47af893b22eb)<br>
  - [https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/(https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/)<br>
+ - [https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)<br>
  
 
 ## `React Unittest`
