@@ -294,4 +294,14 @@ Table of Contents
 - [https://github.com/Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)<br>
 - [https://github.com/jeromedalbert/real-world-react-apps/tree/master/apps](https://github.com/jeromedalbert/real-world-react-apps/tree/master/apps)<br>
 - [https://github.com/vasanthk/react-bits](https://github.com/vasanthk/react-bits)<br>
+- [https://github.com/brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)<br>
+- [https://github.com/deepsweet/hocs](https://github.com/deepsweet/hocs)<br>
+- [https://github.com/antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)<br>
+- [https://github.com/piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)<br>
+- [https://github.com/typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)<br>
+- [https://github.com/ohansemmanuel/react-hooks-cheatsheet](https://github.com/ohansemmanuel/react-hooks-cheatsheet)<br>
+- [https://github.com/krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns)<br>
+- [https://github.com/moelzanaty3/react-18-workshop](https://github.com/moelzanaty3/react-18-workshop)<br>
+- [https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)<br>
+- [https://github.com/adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)<br>
 
