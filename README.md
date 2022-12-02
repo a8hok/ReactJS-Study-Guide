@@ -304,4 +304,12 @@ Table of Contents
 - [https://github.com/moelzanaty3/react-18-workshop](https://github.com/moelzanaty3/react-18-workshop)<br>
 - [https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)<br>
 - [https://github.com/adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)<br>
+- [https://github.com/Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)<br>
+- [https://github.com/tyroprogrammer/learn-react-app](https://github.com/tyroprogrammer/learn-react-app)<br>
+- [https://github.com/vasanthk/react-bits](https://github.com/vasanthk/react-bits)<br>
+- [https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)<br>
+- [https://github.com/typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)<br>
+- [https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)<br>
+- [https://github.com/piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)<br>
+- [https://github.com/antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)<br>
 
