@@ -158,6 +158,7 @@ Table of Contents
   - [https://cult.honeypot.io/reads/react-developer-cheatsheets/](https://cult.honeypot.io/reads/react-developer-cheatsheets/)<br>
   - [https://andrewbaisden.hashnode.dev/the-complete-modern-react-developer-2022](https://andrewbaisden.hashnode.dev/the-complete-modern-react-developer-2022)<br>
   - [https://www.developerway.com/posts/react-elements-children-parents](https://www.developerway.com/posts/react-elements-children-parents)<br>
+  - [https://towardsdev.com/the-reconciliation-mechanism-in-react-how-it-works-and-how-to-optimize-it-with-function-components-9c9f1b234f7f](https://towardsdev.com/the-reconciliation-mechanism-in-react-how-it-works-and-how-to-optimize-it-with-function-components-9c9f1b234f7f)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
