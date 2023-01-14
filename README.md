@@ -61,6 +61,7 @@ Table of Contents
  - [https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1)
  - [https://tapajyoti-bose.medium.com/7-tips-for-clean-react-typescript-code-you-must-know-3ebd34af343f](https://tapajyoti-bose.medium.com/7-tips-for-clean-react-typescript-code-you-must-know-3ebd34af343f)<br>
  - [https://javascript.plainenglish.io/11-mistakes-to-avoid-when-using-react-in-2022-d93d26c46181](https://javascript.plainenglish.io/11-mistakes-to-avoid-when-using-react-in-2022-d93d26c46181)<br>
+ - [https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
