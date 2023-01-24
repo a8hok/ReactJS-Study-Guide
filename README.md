@@ -216,6 +216,7 @@ Table of Contents
 - [https://vijayt.com/post/functional-testing-using-react-testing-library-and-jest/](https://vijayt.com/post/functional-testing-using-react-testing-library-and-jest/)<br>
 - [https://giftea.hashnode.dev/how-to-test-react-applications-with-react-testing-library-and-jest](https://giftea.hashnode.dev/how-to-test-react-applications-with-react-testing-library-and-jest)<br>
 - [https://dev.to/refine/mocking-api-calls-in-react-tests-with-nock-41if(https://dev.to/refine/mocking-api-calls-in-react-tests-with-nock-41if)<br>
+- [https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/](https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/)<br>
 
 ## `Architecture`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
