@@ -204,6 +204,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/(https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/)<br>
  - [https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg](https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg)<br>
  - [https://github.com/ib-sundeep/amazon-clone/tree/master-class](https://github.com/ib-sundeep/amazon-clone/tree/master-class)<br>
+ - [https://dev.to/documatic/building-a-music-player-in-react-2aa4](https://dev.to/documatic/building-a-music-player-in-react-2aa4)<br>
  
 
 ## `React Unittest`
