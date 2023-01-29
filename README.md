@@ -165,7 +165,7 @@ Table of Contents
   - [https://towardsdev.com/the-reconciliation-mechanism-in-react-how-it-works-and-how-to-optimize-it-with-function-components-9c9f1b234f7f](https://towardsdev.com/the-reconciliation-mechanism-in-react-how-it-works-and-how-to-optimize-it-with-function-components-9c9f1b234f7f)<br>
   - [https://www.freecodecamp.org/news/how-to-learn-react-in-2023/](https://www.freecodecamp.org/news/how-to-learn-react-in-2023/)<br>
   - [https://www.freecodecamp.org/news/how-to-use-react-dev-tools/](https://www.freecodecamp.org/news/how-to-use-react-dev-tools/)<br>
-  - []()<br>
+  - [https://wundergraph.com/blog/introducing_react_query_client](https://wundergraph.com/blog/introducing_react_query_client)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
