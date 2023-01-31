@@ -167,6 +167,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/how-to-use-react-dev-tools/](https://www.freecodecamp.org/news/how-to-use-react-dev-tools/)<br>
   - [https://wundergraph.com/blog/introducing_react_query_client](https://wundergraph.com/blog/introducing_react_query_client)<br>
   - [https://github.com/flashohq/open-source-react-courses](https://github.com/flashohq/open-source-react-courses)<br>
+  - [https://ui.dev/react-router-protected-routes-authentication](https://ui.dev/react-router-protected-routes-authentication)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
