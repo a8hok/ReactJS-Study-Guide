@@ -333,3 +333,6 @@ Table of Contents
 - [https://github.com/piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)<br>
 - [https://github.com/antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)<br>
 
+## React Linkedin
+- [https://www.linkedin.com/pulse/ultimate-react-developers-digest-top-picks-from-past-few-/](https://www.linkedin.com/pulse/ultimate-react-developers-digest-top-picks-from-past-few-/)<br>
+
