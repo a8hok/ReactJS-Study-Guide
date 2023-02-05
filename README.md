@@ -124,6 +124,7 @@ Table of Contents
  - [https://cult.honeypot.io/reads/react-developer-cheatsheets/](https://cult.honeypot.io/reads/react-developer-cheatsheets/)<br>
  - [https://www.freecodecamp.org/news/react-interview-questions-and-answers/](https://www.freecodecamp.org/news/react-interview-questions-and-answers/)<br>
  - [https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/](https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/)<br>
+ - [https://blog.sahilchandravanshi.com/react-jsx](https://blog.sahilchandravanshi.com/react-jsx)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
