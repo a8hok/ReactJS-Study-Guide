@@ -292,6 +292,7 @@ Table of Contents
 - [https://dev.to/codebeast/from-figma-to-nextjs-app-in-minutes-4jp9](https://dev.to/codebeast/from-figma-to-nextjs-app-in-minutes-4jp9)<br>
 - [https://blog.astrosaurus.me/how-to-nextjs](https://blog.astrosaurus.me/how-to-nextjs)<br>
 - [https://blog.openreplay.com/state-management-in-next-js-with-redux-toolkit/](https://blog.openreplay.com/state-management-in-next-js-with-redux-toolkit/)<br>
+- [https://www.freecodecamp.org/news/learn-next-js-tutorial/](https://www.freecodecamp.org/news/learn-next-js-tutorial/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
