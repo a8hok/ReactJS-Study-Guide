@@ -293,6 +293,7 @@ Table of Contents
 - [https://blog.astrosaurus.me/how-to-nextjs](https://blog.astrosaurus.me/how-to-nextjs)<br>
 - [https://blog.openreplay.com/state-management-in-next-js-with-redux-toolkit/](https://blog.openreplay.com/state-management-in-next-js-with-redux-toolkit/)<br>
 - [https://www.freecodecamp.org/news/learn-next-js-tutorial/](https://www.freecodecamp.org/news/learn-next-js-tutorial/)<br>
+- [https://blog.logrocket.com/best-next-js-starter-templates/](https://blog.logrocket.com/best-next-js-starter-templates/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
