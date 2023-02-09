@@ -1,5 +1,5 @@
 # ReactJS-Interview
-To prepare ReactJs interview
+To prepare ReactJS Interview
 
 Table of Contents
 =================
