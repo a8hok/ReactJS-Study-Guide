@@ -294,6 +294,7 @@ Table of Contents
 - [https://blog.openreplay.com/state-management-in-next-js-with-redux-toolkit/](https://blog.openreplay.com/state-management-in-next-js-with-redux-toolkit/)<br>
 - [https://www.freecodecamp.org/news/learn-next-js-tutorial/](https://www.freecodecamp.org/news/learn-next-js-tutorial/)<br>
 - [https://blog.logrocket.com/best-next-js-starter-templates/](https://blog.logrocket.com/best-next-js-starter-templates/)<br>
+- [https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js](https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
