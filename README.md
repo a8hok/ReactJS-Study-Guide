@@ -295,6 +295,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/learn-next-js-tutorial/](https://www.freecodecamp.org/news/learn-next-js-tutorial/)<br>
 - [https://blog.logrocket.com/best-next-js-starter-templates/](https://blog.logrocket.com/best-next-js-starter-templates/)<br>
 - [https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js](https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js)<br>
+- [https://dev.to/arafat4693/how-i-built-my-fullstack-and-typesafe-portfolio-website-26ia](https://dev.to/arafat4693/how-i-built-my-fullstack-and-typesafe-portfolio-website-26ia)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
