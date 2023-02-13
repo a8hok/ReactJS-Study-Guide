@@ -302,6 +302,7 @@ Table of Contents
 - [https://medium.com/adminjs/building-a-blog-with-next-js-adminjs-and-react-a-simple-step-by-step-guide-8838f4e594a6](https://medium.com/adminjs/building-a-blog-with-next-js-adminjs-and-react-a-simple-step-by-step-guide-8838f4e594a6)<br>
 - [https://vercel.com/blog/next-js-13-data-fetching](https://vercel.com/blog/next-js-13-data-fetching)<br>
 - [https://dev.to/adrai/static-html-export-with-i18n-compatibility-in-nextjs-8cd](https://dev.to/adrai/static-html-export-with-i18n-compatibility-in-nextjs-8cd)<br>
+- [https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0](https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
