@@ -297,6 +297,7 @@ Table of Contents
 - [https://blog.logrocket.com/best-next-js-starter-templates/](https://blog.logrocket.com/best-next-js-starter-templates/)<br>
 - [https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js](https://vercel.com/blog/building-a-fast-animated-image-gallery-with-next-js)<br>
 - [https://dev.to/arafat4693/how-i-built-my-fullstack-and-typesafe-portfolio-website-26ia](https://dev.to/arafat4693/how-i-built-my-fullstack-and-typesafe-portfolio-website-26ia)<br>
+- [https://medium.com/adminjs/building-a-blog-with-next-js-adminjs-and-react-a-simple-step-by-step-guide-8838f4e594a6](https://medium.com/adminjs/building-a-blog-with-next-js-adminjs-and-react-a-simple-step-by-step-guide-8838f4e594a6)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
