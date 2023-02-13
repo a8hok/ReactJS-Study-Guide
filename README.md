@@ -253,6 +253,7 @@ Table of Contents
 - [https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f](https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f)<br>
 - [https://blog.bitsrc.io/an-object-oriented-react-app-design-6242c168fcf8](https://blog.bitsrc.io/an-object-oriented-react-app-design-6242c168fcf8)<br>
 - [https://cult.honeypot.io/reads/the-curious-case-of-react/](https://cult.honeypot.io/reads/the-curious-case-of-react/)<br>
+- [https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
