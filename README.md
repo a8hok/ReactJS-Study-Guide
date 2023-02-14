@@ -219,6 +219,7 @@ Table of Contents
  - [https://github.com/ib-sundeep/amazon-clone/tree/master-class](https://github.com/ib-sundeep/amazon-clone/tree/master-class)<br>
  - [https://dev.to/documatic/building-a-music-player-in-react-2aa4](https://dev.to/documatic/building-a-music-player-in-react-2aa4)<br>
  - [https://www.freecodecamp.org/news/free-react-course-2022/](https://www.freecodecamp.org/news/free-react-course-2022/)<br>
+ - [https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/](https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/)<br>
  
 
 ## `React Unittest`
