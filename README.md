@@ -282,6 +282,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/](https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/)<br>
 - [https://pmbanugo.me/using-typescript-in-react-part-1](https://pmbanugo.me/using-typescript-in-react-part-1)<br>
 - [https://www.robinwieruch.de/typescript-react-component/](https://www.robinwieruch.de/typescript-react-component/)<br>
+- [https://www.thisdot.co/blog/composing-react-components-with-typescript](https://www.thisdot.co/blog/composing-react-components-with-typescript)<br>
 
 ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
