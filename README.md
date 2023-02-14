@@ -285,6 +285,7 @@ Table of Contents
 - [https://www.robinwieruch.de/typescript-react-component/](https://www.robinwieruch.de/typescript-react-component/)<br>
 - [https://www.thisdot.co/blog/composing-react-components-with-typescript](https://www.thisdot.co/blog/composing-react-components-with-typescript)<br>
 - [https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript](https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript)<br>
+- [https://angelika.me/2023/02/12/migrating-a-react-app-from-js-to-ts/](https://angelika.me/2023/02/12/migrating-a-react-app-from-js-to-ts/)<br>
 
 ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
