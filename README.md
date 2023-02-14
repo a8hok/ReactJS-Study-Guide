@@ -283,6 +283,7 @@ Table of Contents
 - [https://pmbanugo.me/using-typescript-in-react-part-1](https://pmbanugo.me/using-typescript-in-react-part-1)<br>
 - [https://www.robinwieruch.de/typescript-react-component/](https://www.robinwieruch.de/typescript-react-component/)<br>
 - [https://www.thisdot.co/blog/composing-react-components-with-typescript](https://www.thisdot.co/blog/composing-react-components-with-typescript)<br>
+- [https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript](https://www.thisdot.co/blog/testing-web-components-with-cypress-and-typescript)<br>
 
 ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
