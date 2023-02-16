@@ -309,6 +309,7 @@ Table of Contents
 - [https://vercel.com/blog/next-js-13-data-fetching](https://vercel.com/blog/next-js-13-data-fetching)<br>
 - [https://dev.to/adrai/static-html-export-with-i18n-compatibility-in-nextjs-8cd](https://dev.to/adrai/static-html-export-with-i18n-compatibility-in-nextjs-8cd)<br>
 - [https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0](https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0)<br>
+- [https://vercel.com/blog/nextjs-app-router-data-fetching](https://vercel.com/blog/nextjs-app-router-data-fetching)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
