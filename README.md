@@ -311,6 +311,7 @@ Table of Contents
 - [https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0](https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0)<br>
 - [https://vercel.com/blog/nextjs-app-router-data-fetching](https://vercel.com/blog/nextjs-app-router-data-fetching)<br>
 - [https://prismic.io/blog/building-custom-nextjs-starter](https://prismic.io/blog/building-custom-nextjs-starter)<br>
+- [https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
