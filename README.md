@@ -101,6 +101,7 @@ Table of Contents
 - [https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi](https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi)<br>
 - [https://itnext.io/using-usememo-and-usecallback-to-save-history-from-react-langoliers-8eb7bb72c87](https://itnext.io/using-usememo-and-usecallback-to-save-history-from-react-langoliers-8eb7bb72c87)<br>
 - [https://www.smashingmagazine.com/2020/11/react-useref-hook/](https://www.smashingmagazine.com/2020/11/react-useref-hook/)<br>
+- [https://blog.openreplay.com/understanding-react-hooks/](https://blog.openreplay.com/understanding-react-hooks/)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
