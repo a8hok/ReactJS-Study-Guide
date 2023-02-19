@@ -47,6 +47,7 @@ Table of Contents
  - [https://medium.com/@caglayanyanikoglu/react-performance-improvements-356f81b1904f](https://medium.com/@caglayanyanikoglu/react-performance-improvements-356f81b1904f)<br>
  - [https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)<br>
  - [https://www.paulsblog.dev/advanced-react-ui-components-to-optimize-development-process/](https://www.paulsblog.dev/advanced-react-ui-components-to-optimize-development-process/)<br>
+ - [https://medium.com/@antoniocastillom78/simple-ways-to-improve-your-react-app-performance-without-usememo-2502a7260d75](https://medium.com/@antoniocastillom78/simple-ways-to-improve-your-react-app-performance-without-usememo-2502a7260d75)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
