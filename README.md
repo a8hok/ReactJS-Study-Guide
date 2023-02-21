@@ -315,6 +315,7 @@ Table of Contents
 - [https://prismic.io/blog/building-custom-nextjs-starter](https://prismic.io/blog/building-custom-nextjs-starter)<br>
 - [https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)<br>
 - [https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/](https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/)<br>
+- [https://prismic.io/blog/advanced-nextjs-server-context](https://prismic.io/blog/advanced-nextjs-server-context)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
