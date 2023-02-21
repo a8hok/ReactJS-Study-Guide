@@ -318,6 +318,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/](https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/)<br>
 - [https://prismic.io/blog/advanced-nextjs-server-context](https://prismic.io/blog/advanced-nextjs-server-context)<br>
 - [https://blog.bitsrc.io/fundamentals-of-next-js-for-react-developers-85b93c2c2dfa](https://blog.bitsrc.io/fundamentals-of-next-js-for-react-developers-85b93c2c2dfa)<br>
+- [https://blog.bitsrc.io/how-to-write-unit-tests-with-react-testing-library-in-the-next-js-5d22798afd9a](https://blog.bitsrc.io/how-to-write-unit-tests-with-react-testing-library-in-the-next-js-5d22798afd9a)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
