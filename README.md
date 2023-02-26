@@ -116,6 +116,7 @@ Table of Contents
 - [https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022](https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022)<br>
 - [https://blog.logrocket.com/create-custom-debounce-hook-react/](https://blog.logrocket.com/create-custom-debounce-hook-react/)<br>
 - [https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)<br>
+- [https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
