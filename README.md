@@ -51,6 +51,7 @@ Table of Contents
  - [https://medium.com/@antoniocastillom78/simple-ways-to-improve-your-react-app-performance-without-usememo-2502a7260d75](https://medium.com/@antoniocastillom78/simple-ways-to-improve-your-react-app-performance-without-usememo-2502a7260d75)<br>
  - [https://blog.bitsrc.io/rendering-images-the-better-way-f0963c25ef04](https://blog.bitsrc.io/rendering-images-the-better-way-f0963c25ef04)<br>
  - [https://nerdleveltech.com/how-to-be-better-with-performance-optimization-in-react/](https://nerdleveltech.com/how-to-be-better-with-performance-optimization-in-react/)<br>
+ - [https://dzone.com/articles/how-to-improve-reactjs-website-performance](https://dzone.com/articles/how-to-improve-reactjs-website-performance)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
