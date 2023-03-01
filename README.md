@@ -329,6 +329,7 @@ Table of Contents
 - [https://nextjs.org/blog/next-13-2](https://nextjs.org/blog/next-13-2)<br>
 - [https://dev.to/this-is-learning/first-experience-with-nextjs-2a58](https://dev.to/this-is-learning/first-experience-with-nextjs-2a58)<br>
 - [https://mojoauth.com/blog/how-to-implement-passwordless-authentication-in-next.js/](https://mojoauth.com/blog/how-to-implement-passwordless-authentication-in-next.js/)<br>
+- [https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
