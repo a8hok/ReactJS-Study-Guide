@@ -333,6 +333,7 @@ Table of Contents
 - [https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)<br>
 - [https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/](https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/)<br>
 - [https://blog.openreplay.com/comparing-frameworks--next-vs-remix/](https://blog.openreplay.com/comparing-frameworks--next-vs-remix/)<br>
+- [https://dev.to/this-is-learning/first-experience-with-nextjs-part-2-pi4](https://dev.to/this-is-learning/first-experience-with-nextjs-part-2-pi4)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
