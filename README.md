@@ -335,6 +335,7 @@ Table of Contents
 - [https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/](https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/)<br>
 - [https://blog.openreplay.com/comparing-frameworks--next-vs-remix/](https://blog.openreplay.com/comparing-frameworks--next-vs-remix/)<br>
 - [https://dev.to/this-is-learning/first-experience-with-nextjs-part-2-pi4](https://dev.to/this-is-learning/first-experience-with-nextjs-part-2-pi4)<br>
+- [https://blog.openreplay.com/implementing-a-feedback-form-with-next-js/](https://blog.openreplay.com/implementing-a-feedback-form-with-next-js/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
