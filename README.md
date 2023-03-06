@@ -52,6 +52,7 @@ Table of Contents
  - [https://blog.bitsrc.io/rendering-images-the-better-way-f0963c25ef04](https://blog.bitsrc.io/rendering-images-the-better-way-f0963c25ef04)<br>
  - [https://nerdleveltech.com/how-to-be-better-with-performance-optimization-in-react/](https://nerdleveltech.com/how-to-be-better-with-performance-optimization-in-react/)<br>
  - [https://dzone.com/articles/how-to-improve-reactjs-website-performance](https://dzone.com/articles/how-to-improve-reactjs-website-performance)<br>
+ - [https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part1/](https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part1/)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
