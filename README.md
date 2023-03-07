@@ -341,6 +341,7 @@ Table of Contents
 - [https://blog.openreplay.com/comparing-frameworks--next-vs-remix/](https://blog.openreplay.com/comparing-frameworks--next-vs-remix/)<br>
 - [https://dev.to/this-is-learning/first-experience-with-nextjs-part-2-pi4](https://dev.to/this-is-learning/first-experience-with-nextjs-part-2-pi4)<br>
 - [https://blog.openreplay.com/implementing-a-feedback-form-with-next-js/](https://blog.openreplay.com/implementing-a-feedback-form-with-next-js/)<br>
+- [https://vercel.com/blog/vercel-cache-api-nextjs-cache](https://vercel.com/blog/vercel-cache-api-nextjs-cache)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
