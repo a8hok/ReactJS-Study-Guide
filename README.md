@@ -73,6 +73,7 @@ Table of Contents
  - [https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a](https://dev.to/ahmedgmurtaza/react-performance-optimization-usememo-vs-usecallback-2p2a)<br>
  - [https://dzone.com/articles/5-tips-for-optimizing-your-react-apps-performance](https://dzone.com/articles/5-tips-for-optimizing-your-react-apps-performance)<br>
  - [https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)<br>
+ - [https://www.joshwcomeau.com/react/common-beginner-mistakes/](https://www.joshwcomeau.com/react/common-beginner-mistakes/)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
