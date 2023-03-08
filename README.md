@@ -90,8 +90,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-create-react-hooks/](https://www.freecodecamp.org/news/how-to-create-react-hooks/)<br>
 - [https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)<br>
 - [https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4](https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4)<br>
-- [https://pulackh.medium.com/react-js-summary-on-react-hooks-934bf25c3b2a](https://pulackh.medium.com/react-js-summary-on-react-hooks-9
-- 34bf25c3b2a)<br>
+- [https://pulackh.medium.com/react-js-summary-on-react-hooks-934bf25c3b2a](https://pulackh.medium.com/react-js-summary-on-react-hooks-934bf25c3b2a)<br>
 - [https://enlear.academy/types-of-react-hooks-best-practices-45c275b55b1f](https://enlear.academy/types-of-react-hooks-best-practices-45c275b55b1f)<br>
 - [https://dev.to/imrishabh18/simplest-custom-hook-to-persist-data-1odd](https://dev.to/imrishabh18/simplest-custom-hook-to-persist-data-1odd)<br>
 - [https://dev.to/surajmore98/hooks-in-react-4f6a](https://dev.to/surajmore98/hooks-in-react-4f6a)<br>
