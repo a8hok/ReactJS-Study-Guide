@@ -140,6 +140,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/](https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/)<br>
  - [https://blog.sahilchandravanshi.com/react-jsx](https://blog.sahilchandravanshi.com/react-jsx)<br>
  - [https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m](https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m)<br>
+ - [https://levelup.gitconnected.com/7-interview-questions-every-senior-react-developer-should-know-d85730fb04d5](https://levelup.gitconnected.com/7-interview-questions-every-senior-react-developer-should-know-d85730fb04d5)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
