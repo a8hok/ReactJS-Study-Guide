@@ -251,6 +251,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/](https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/)<br>
 - [https://itnext.io/make-your-react-tests-easier-to-write-understand-and-maintain-9fa769381d62](https://itnext.io/make-your-react-tests-easier-to-write-understand-and-maintain-9fa769381d62)<br>
 - [https://www.infoq.com/news/2023/03/sentry-enzyme-migration-rtl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global](https://www.infoq.com/news/2023/03/sentry-enzyme-migration-rtl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)<br>
+- [https://www.builder.io/blog/3-react-testing-library-tips](https://www.builder.io/blog/3-react-testing-library-tips)<br>
 
 ## `Architecture`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
