@@ -75,6 +75,7 @@ Table of Contents
  - [https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)<br>
  - [https://www.joshwcomeau.com/react/common-beginner-mistakes/](https://www.joshwcomeau.com/react/common-beginner-mistakes/)<br>
  - [https://blog.devgenius.io/solid-principles-in-reactjs-1d225dd22a3f](https://blog.devgenius.io/solid-principles-in-reactjs-1d225dd22a3f)<br>
+ - [https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part2/](https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part2/)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
