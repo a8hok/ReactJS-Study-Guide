@@ -237,6 +237,7 @@ Table of Contents
  - [https://dev.to/haszankauna/building-scalable-web-applications-with-react-and-firebase-2di4](https://dev.to/haszankauna/building-scalable-web-applications-with-react-and-firebase-2di4)<br>
  - [https://www.robinwieruch.de/react-trpc/](https://www.robinwieruch.de/react-trpc/)<br>
  - [https://medium.com/frontendweb/how-to-read-local-json-file-in-react-js-564125235fc7](https://medium.com/frontendweb/how-to-read-local-json-file-in-react-js-564125235fc7)<br>
+ - [https://www.robinwieruch.de/react-drag-and-drop/](https://www.robinwieruch.de/react-drag-and-drop/)<br>
  
 
 ## `React Unittest`
