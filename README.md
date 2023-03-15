@@ -373,6 +373,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/](https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/)<br>
 - [https://blog.openreplay.com/understanding-redux-thunk-for-react--the-big-picture/](https://blog.openreplay.com/understanding-redux-thunk-for-react--the-big-picture/)<br>
 - [https://www.thisdot.co/blog/introduction-to-redux-pattern](https://www.thisdot.co/blog/introduction-to-redux-pattern)<br>
+- [https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/](https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/)<br>
 
 ## `React GraphQL`
 - [https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react](https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react)<br>
