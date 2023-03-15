@@ -192,6 +192,7 @@ Table of Contents
   - [https://ui.dev/react-router-protected-routes-authentication](https://ui.dev/react-router-protected-routes-authentication)<br>
   - [https://blog.openreplay.com/react-js-for-web-development/](https://blog.openreplay.com/react-js-for-web-development/)<br>
   - [https://itspp.hashnode.dev/how-to-fix-the-404-notfound-error-in-the-static-react-website](https://itspp.hashnode.dev/how-to-fix-the-404-notfound-error-in-the-static-react-website)<br>
+  - [https://blog.logrocket.com/deep-dive-mutations-tanstack-query/](https://blog.logrocket.com/deep-dive-mutations-tanstack-query/)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
