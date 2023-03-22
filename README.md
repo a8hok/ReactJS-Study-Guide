@@ -352,6 +352,7 @@ Table of Contents
 - [https://dev.to/this-is-learning/first-experience-with-nextjs-part-2-pi4](https://dev.to/this-is-learning/first-experience-with-nextjs-part-2-pi4)<br>
 - [https://blog.openreplay.com/implementing-a-feedback-form-with-next-js/](https://blog.openreplay.com/implementing-a-feedback-form-with-next-js/)<br>
 - [https://vercel.com/blog/vercel-cache-api-nextjs-cache](https://vercel.com/blog/vercel-cache-api-nextjs-cache)<br>
+- [https://blog.logrocket.com/biggest-next-js-boilerplates-2023/](https://blog.logrocket.com/biggest-next-js-boilerplates-2023/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
