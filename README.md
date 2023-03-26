@@ -76,6 +76,7 @@ Table of Contents
  - [https://www.joshwcomeau.com/react/common-beginner-mistakes/](https://www.joshwcomeau.com/react/common-beginner-mistakes/)<br>
  - [https://blog.devgenius.io/solid-principles-in-reactjs-1d225dd22a3f](https://blog.devgenius.io/solid-principles-in-reactjs-1d225dd22a3f)<br>
  - [https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part2/](https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part2/)<br>
+ - [https://enlear.academy/top-7-ways-to-create-react-app-without-using-create-react-app-eca5625386d7](https://enlear.academy/top-7-ways-to-create-react-app-without-using-create-react-app-eca5625386d7)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
