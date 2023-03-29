@@ -146,6 +146,7 @@ Table of Contents
  - [https://levelup.gitconnected.com/7-interview-questions-every-senior-react-developer-should-know-d85730fb04d5](https://levelup.gitconnected.com/7-interview-questions-every-senior-react-developer-should-know-d85730fb04d5)<br>
  - [https://github.com/sudheerj/reactjs-interview-questions#what-are-controlled-components](https://github.com/sudheerj/reactjs-interview-questions#what-are-controlled-components)<br>
  - [https://github.com/Devinterview-io/react-interview-questions](https://github.com/Devinterview-io/react-interview-questions)<br>
+ - [https://www.freecodecamp.org/news/complete-vite-course-for-beginners/](https://www.freecodecamp.org/news/complete-vite-course-for-beginners/)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
