@@ -364,6 +364,7 @@ Table of Contents
 - [https://vercel.com/blog/vercel-cache-api-nextjs-cache](https://vercel.com/blog/vercel-cache-api-nextjs-cache)<br>
 - [https://blog.logrocket.com/biggest-next-js-boilerplates-2023/](https://blog.logrocket.com/biggest-next-js-boilerplates-2023/)<br>
 - [https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597](https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597)<br>
+- [https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/](https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
