@@ -204,6 +204,7 @@ Table of Contents
   - [https://blog.bitsrc.io/5-tools-for-building-react-component-libraries-in-2023-d8fb8e4c13b4](https://blog.bitsrc.io/5-tools-for-building-react-component-libraries-in-2023-d8fb8e4c13b4)<br>
   - [https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)<br>
   - [https://frontendmastery.com/posts/rethinking-react-best-practices/](https://frontendmastery.com/posts/rethinking-react-best-practices/)<br>
+  - [https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02](https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
