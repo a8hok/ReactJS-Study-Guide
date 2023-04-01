@@ -370,6 +370,7 @@ Table of Contents
 - [https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597](https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597)<br>
 - [https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/](https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/)<br>
 - [https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le](https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le)<br>
+- [https://blog.logrocket.com/building-next-js-app-tailwind-storybook/](https://blog.logrocket.com/building-next-js-app-tailwind-storybook/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
