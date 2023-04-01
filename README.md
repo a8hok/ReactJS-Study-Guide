@@ -371,6 +371,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/](https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/)<br>
 - [https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le](https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le)<br>
 - [https://blog.logrocket.com/building-next-js-app-tailwind-storybook/](https://blog.logrocket.com/building-next-js-app-tailwind-storybook/)<br>
+- [https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/](https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
