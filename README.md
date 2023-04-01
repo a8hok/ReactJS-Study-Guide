@@ -207,6 +207,7 @@ Table of Contents
   - [https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)<br>
   - [https://frontendmastery.com/posts/rethinking-react-best-practices/](https://frontendmastery.com/posts/rethinking-react-best-practices/)<br>
   - [https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02](https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02)<br>
+  - [https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b](https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
