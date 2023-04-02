@@ -113,6 +113,7 @@ Table of Contents
 - [https://blog.openreplay.com/understanding-react-hooks/](https://blog.openreplay.com/understanding-react-hooks/)<br>
 - [https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)<br>
 - [https://javascript.plainenglish.io/stop-using-usememo-now-e5d07d2bbf70](https://javascript.plainenglish.io/stop-using-usememo-now-e5d07d2bbf70)<br>
+- [https://medium.com/@ishahmeer/mastering-reacts-useeffect-hook-a-comprehensive-guide-950f2c7836e6](https://medium.com/@ishahmeer/mastering-reacts-useeffect-hook-a-comprehensive-guide-950f2c7836e6)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
