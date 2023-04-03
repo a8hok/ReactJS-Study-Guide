@@ -209,6 +209,7 @@ Table of Contents
   - [https://frontendmastery.com/posts/rethinking-react-best-practices/](https://frontendmastery.com/posts/rethinking-react-best-practices/)<br>
   - [https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02](https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02)<br>
   - [https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b](https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b)<br>
+  - [https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db](https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
@@ -431,4 +432,6 @@ Table of Contents
 
 ## React Router
 - [https://jasonwatmore.com/post/2022/06/24/react-router-6-private-route-component-to-restrict-access-to-protected-pages](https://jasonwatmore.com/post/2022/06/24/react-router-6-private-route-component-to-restrict-access-to-protected-pages)<br>
+
+
 
