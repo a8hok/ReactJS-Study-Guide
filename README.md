@@ -374,6 +374,7 @@ Table of Contents
 - [https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le](https://dev.to/this-is-learning/reading-local-json-data-with-nextjs-part-5-59le)<br>
 - [https://blog.logrocket.com/building-next-js-app-tailwind-storybook/](https://blog.logrocket.com/building-next-js-app-tailwind-storybook/)<br>
 - [https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/](https://www.paulsblog.dev/create-your-portfolio-using-next-js-tailwind-css-stripe-and-paypal/)<br>
+- [https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/](https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
