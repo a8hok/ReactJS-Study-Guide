@@ -54,6 +54,7 @@ Table of Contents
  - [https://dzone.com/articles/how-to-improve-reactjs-website-performance](https://dzone.com/articles/how-to-improve-reactjs-website-performance)<br>
  - [https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part1/](https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part1/)<br>
  - [https://dev.to/devland/how-to-optimize-your-react-apps-performance-1045](https://dev.to/devland/how-to-optimize-your-react-apps-performance-1045)<br>
+ - [https://howtocrackit.com/mastering-react-memo-for-optimal-performance-tips-and-tricks/](https://howtocrackit.com/mastering-react-memo-for-optimal-performance-tips-and-tricks/)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
