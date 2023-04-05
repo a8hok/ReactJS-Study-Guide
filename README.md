@@ -435,6 +435,7 @@ Table of Contents
 
 ## React Router
 - [https://jasonwatmore.com/post/2022/06/24/react-router-6-private-route-component-to-restrict-access-to-protected-pages](https://jasonwatmore.com/post/2022/06/24/react-router-6-private-route-component-to-restrict-access-to-protected-pages)<br>
+- [https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/](https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/)<br>
 
 
 
