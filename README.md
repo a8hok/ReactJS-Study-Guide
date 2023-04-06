@@ -298,6 +298,7 @@ Table of Contents
 - [https://blog.bitsrc.io/an-object-oriented-react-app-design-6242c168fcf8](https://blog.bitsrc.io/an-object-oriented-react-app-design-6242c168fcf8)<br>
 - [https://cult.honeypot.io/reads/the-curious-case-of-react/](https://cult.honeypot.io/reads/the-curious-case-of-react/)<br>
 - [https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)<br>
+- [https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430](https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
