@@ -380,6 +380,7 @@ Table of Contents
 - [https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/](https://www.tigrisdata.com/blog/adding-real-time-full-text-search-to-a-next.js-app-with-tigris/)<br>
 - [https://blog.logrocket.com/guide-cookies-next-js/](https://blog.logrocket.com/guide-cookies-next-js/)<br>
 - [https://www.traversymedia.com/blog/next-js-13-crash-course-app-directory-server-components-more](https://www.traversymedia.com/blog/next-js-13-crash-course-app-directory-server-components-more)<br>
+- [https://nextjs.org/blog/next-13-3](https://nextjs.org/blog/next-13-3)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
