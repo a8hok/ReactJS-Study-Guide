@@ -383,6 +383,7 @@ Table of Contents
 - [https://blog.logrocket.com/guide-cookies-next-js/](https://blog.logrocket.com/guide-cookies-next-js/)<br>
 - [https://www.traversymedia.com/blog/next-js-13-crash-course-app-directory-server-components-more](https://www.traversymedia.com/blog/next-js-13-crash-course-app-directory-server-components-more)<br>
 - [https://nextjs.org/blog/next-13-3](https://nextjs.org/blog/next-13-3)<br>
+- [https://dev.to/this-is-learning/fetching-data-with-nextjs-part-6-3hf](https://dev.to/this-is-learning/fetching-data-with-nextjs-part-6-3hf)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
