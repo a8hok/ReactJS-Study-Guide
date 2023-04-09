@@ -444,7 +444,8 @@ Table of Contents
 - [https://jasonwatmore.com/post/2022/06/24/react-router-6-private-route-component-to-restrict-access-to-protected-pages](https://jasonwatmore.com/post/2022/06/24/react-router-6-private-route-component-to-restrict-access-to-protected-pages)<br>
 - [https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/](https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/)<br>
 
-## React vs Vue
+## React vs 
 - [https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue](https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue)<br>
+- [https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)<br>
 
 
