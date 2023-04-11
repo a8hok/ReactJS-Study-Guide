@@ -81,6 +81,7 @@ Table of Contents
  - [https://enlear.academy/top-7-ways-to-create-react-app-without-using-create-react-app-eca5625386d7](https://enlear.academy/top-7-ways-to-create-react-app-without-using-create-react-app-eca5625386d7)<br>
  - [https://dev.to/codeofrelevancy/take-your-code-to-the-other-side-48p3](https://dev.to/codeofrelevancy/take-your-code-to-the-other-side-48p3)<br>
  - [https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/](https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/)<br>
+ - [https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/](https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
@@ -213,6 +214,7 @@ Table of Contents
   - [https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02](https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02)<br>
   - [https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b](https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b)<br>
   - [https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db](https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db)<br>
+  -[]()<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
