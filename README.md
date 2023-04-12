@@ -155,6 +155,7 @@ Table of Contents
  - [https://github.com/sudheerj/reactjs-interview-questions#what-are-controlled-components](https://github.com/sudheerj/reactjs-interview-questions#what-are-controlled-components)<br>
  - [https://github.com/Devinterview-io/react-interview-questions](https://github.com/Devinterview-io/react-interview-questions)<br>
  - [https://www.freecodecamp.org/news/complete-vite-course-for-beginners/](https://www.freecodecamp.org/news/complete-vite-course-for-beginners/)<br>
+ - [https://dev.to/this-is-learning/react-query-authentication-flow-id2](https://dev.to/this-is-learning/react-query-authentication-flow-id2)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
