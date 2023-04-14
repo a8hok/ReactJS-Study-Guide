@@ -393,6 +393,7 @@ Table of Contents
 - [https://nextjs.org/blog/next-13-3](https://nextjs.org/blog/next-13-3)<br>
 - [https://dev.to/this-is-learning/fetching-data-with-nextjs-part-6-3hf](https://dev.to/this-is-learning/fetching-data-with-nextjs-part-6-3hf)<br>
 - [https://blog.dennisokeeffe.com/blog/2021-12-06-nextjs-enterprise-project-structure](https://blog.dennisokeeffe.com/blog/2021-12-06-nextjs-enterprise-project-structure)<br>
+- [https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/](https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
