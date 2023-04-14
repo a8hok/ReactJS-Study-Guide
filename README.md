@@ -119,6 +119,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/stop-using-usememo-now-e5d07d2bbf70](https://javascript.plainenglish.io/stop-using-usememo-now-e5d07d2bbf70)<br>
 - [https://medium.com/@ishahmeer/mastering-reacts-useeffect-hook-a-comprehensive-guide-950f2c7836e6](https://medium.com/@ishahmeer/mastering-reacts-useeffect-hook-a-comprehensive-guide-950f2c7836e6)<br>
 - [https://howtocrackit.com/boost-your-form-handling-with-react-hook-form-the-ultimate-guide/](https://howtocrackit.com/boost-your-form-handling-with-react-hook-form-the-ultimate-guide/)<br>
+- [https://levelup.gitconnected.com/use-memoization-in-react-with-react-memo-9b578f860805](https://levelup.gitconnected.com/use-memoization-in-react-with-react-memo-9b578f860805)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
