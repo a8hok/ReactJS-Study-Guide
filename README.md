@@ -157,6 +157,7 @@ Table of Contents
  - [https://github.com/Devinterview-io/react-interview-questions](https://github.com/Devinterview-io/react-interview-questions)<br>
  - [https://www.freecodecamp.org/news/complete-vite-course-for-beginners/](https://www.freecodecamp.org/news/complete-vite-course-for-beginners/)<br>
  - [https://dev.to/this-is-learning/react-query-authentication-flow-id2](https://dev.to/this-is-learning/react-query-authentication-flow-id2)<br>
+ - [https://nerdleveltech.com/mastering-the-react-interview-top-questions-and-best-practices/](https://nerdleveltech.com/mastering-the-react-interview-top-questions-and-best-practices/)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
