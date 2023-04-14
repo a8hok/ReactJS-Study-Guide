@@ -267,6 +267,7 @@ Table of Contents
  - [https://blog.greenroots.info/how-to-create-a-self-clicking-button-with-reactjs](https://blog.greenroots.info/how-to-create-a-self-clicking-button-with-reactjs)<br>
  - [https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-reactjs-add-post--cms-28579](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-reactjs-add-post--cms-28579)<br>
  - [https://www.freecodecamp.org/news/how-to-validate-forms-in-react/](https://www.freecodecamp.org/news/how-to-validate-forms-in-react/)<br>
+ - [https://www.freecodecamp.org/news/chatgpt-react-course/](https://www.freecodecamp.org/news/chatgpt-react-course/)<br>
  
 
 ## `React Unittest`
