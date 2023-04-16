@@ -409,6 +409,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/](https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/)<br>
 - [https://www.freecodecamp.org/news/free-react-course-2022/](https://www.freecodecamp.org/news/free-react-course-2022/)
 - [https://www.syncfusion.com/blogs/post/virtual-dom-vs-shadow-dom-what-every-developer-should-know.aspx](https://www.syncfusion.com/blogs/post/virtual-dom-vs-shadow-dom-what-every-developer-should-know.aspx)<br>
+- [https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)<br>
 
 ## `Redux`
 - [https://enlear.academy/redux-explained-simply-ffd6f16aa1ca](https://enlear.academy/redux-explained-simply-ffd6f16aa1ca)<br>
