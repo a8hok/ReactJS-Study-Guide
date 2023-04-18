@@ -82,6 +82,7 @@ Table of Contents
  - [https://dev.to/codeofrelevancy/take-your-code-to-the-other-side-48p3](https://dev.to/codeofrelevancy/take-your-code-to-the-other-side-48p3)<br>
  - [https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/](https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/)<br>
  - [https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/](https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/)<br>
+ - [https://claritydev.net/blog/the-most-common-mistakes-when-using-react](https://claritydev.net/blog/the-most-common-mistakes-when-using-react)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
