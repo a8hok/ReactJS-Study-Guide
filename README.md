@@ -36,7 +36,7 @@ Table of Contents
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
  - [https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn](https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn)<br>
  - [https://dev.to/dhiwise/advanced-roadmap-for-reactjs-developers-108d](https://dev.to/dhiwise/advanced-roadmap-for-reactjs-developers-108d)<br>
- - []()<br>
+ - [https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257](https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257)<br>
  
 
  ## `React Performance`
