@@ -220,7 +220,7 @@ Table of Contents
   - [https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02](https://enlear.academy/understanding-service-workers-in-react-js-a90dc6fbec02)<br>
   - [https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b](https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b)<br>
   - [https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db](https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db)<br>
-  -[]()<br>
+  - [https://asritha.hashnode.dev/manipulating-the-dom-in-react-best-practices](https://asritha.hashnode.dev/manipulating-the-dom-in-react-best-practices)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
