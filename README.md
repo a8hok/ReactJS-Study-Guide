@@ -221,6 +221,7 @@ Table of Contents
   - [https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b](https://medium.com/@ishahmeer/beginners-walkthrough-of-react-framework-2023-f29a0f17828b)<br>
   - [https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db](https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db)<br>
   - [https://asritha.hashnode.dev/manipulating-the-dom-in-react-best-practices](https://asritha.hashnode.dev/manipulating-the-dom-in-react-best-practices)<br>
+  - [https://dzone.com/articles/benefits-of-react-v18-a-comprehensive-guide](https://dzone.com/articles/benefits-of-react-v18-a-comprehensive-guide)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
