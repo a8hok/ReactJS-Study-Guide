@@ -274,6 +274,7 @@ Table of Contents
  - [https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-reactjs-add-post--cms-28579](https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-reactjs-add-post--cms-28579)<br>
  - [https://www.freecodecamp.org/news/how-to-validate-forms-in-react/](https://www.freecodecamp.org/news/how-to-validate-forms-in-react/)<br>
  - [https://www.freecodecamp.org/news/chatgpt-react-course/](https://www.freecodecamp.org/news/chatgpt-react-course/)<br>
+ - [https://www.classcentral.com/course/full-stack-application-development-project-34101](https://www.classcentral.com/course/full-stack-application-development-project-34101)<br>
  
 
 ## `React Unittest`
