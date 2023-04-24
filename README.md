@@ -418,6 +418,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/free-react-course-2022/](https://www.freecodecamp.org/news/free-react-course-2022/)
 - [https://www.syncfusion.com/blogs/post/virtual-dom-vs-shadow-dom-what-every-developer-should-know.aspx](https://www.syncfusion.com/blogs/post/virtual-dom-vs-shadow-dom-what-every-developer-should-know.aspx)<br>
 - [https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)<br>
+- [https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e](https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e)<br>
 
 ## `Redux`
 - [https://enlear.academy/redux-explained-simply-ffd6f16aa1ca](https://enlear.academy/redux-explained-simply-ffd6f16aa1ca)<br>
