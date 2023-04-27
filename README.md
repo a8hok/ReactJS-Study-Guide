@@ -406,6 +406,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/](https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/)<br>
 - [https://medium.com/@imamdev_/3-scalable-next-js-architecture-boilerplate-6adf1caf06c2](https://medium.com/@imamdev_/3-scalable-next-js-architecture-boilerplate-6adf1caf06c2)<br>
 - [https://maxleiter.com/blog/build-a-blog-with-nextjs-13](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)<br>
+- [https://levelup.gitconnected.com/what-you-need-to-know-about-next-13-app-directory-83ab9149b8b](https://levelup.gitconnected.com/what-you-need-to-know-about-next-13-app-directory-83ab9149b8b)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
