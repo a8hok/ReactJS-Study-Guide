@@ -223,6 +223,7 @@ Table of Contents
   - [https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db](https://medium.com/@ishahmeer/reactjs-vs-vuejs-which-is-better-for-your-project-bfc1eb48a0db)<br>
   - [https://asritha.hashnode.dev/manipulating-the-dom-in-react-best-practices](https://asritha.hashnode.dev/manipulating-the-dom-in-react-best-practices)<br>
   - [https://dzone.com/articles/benefits-of-react-v18-a-comprehensive-guide](https://dzone.com/articles/benefits-of-react-v18-a-comprehensive-guide)<br>
+  - [https://designtechworld.medium.com/react-js-understanding-state-in-depth-98623417bb73](https://designtechworld.medium.com/react-js-understanding-state-in-depth-98623417bb73)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
