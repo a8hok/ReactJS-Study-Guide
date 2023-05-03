@@ -123,6 +123,7 @@ Table of Contents
 - [https://howtocrackit.com/boost-your-form-handling-with-react-hook-form-the-ultimate-guide/](https://howtocrackit.com/boost-your-form-handling-with-react-hook-form-the-ultimate-guide/)<br>
 - [https://levelup.gitconnected.com/use-memoization-in-react-with-react-memo-9b578f860805](https://levelup.gitconnected.com/use-memoization-in-react-with-react-memo-9b578f860805)<br>
 - [https://dev.to/this-is-learning/react-query-devtools-f1b](https://dev.to/this-is-learning/react-query-devtools-f1b)<br>
+- [https://www.telerik.com/blogs/list-of-useful-premade-react-hooks](https://www.telerik.com/blogs/list-of-useful-premade-react-hooks)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
