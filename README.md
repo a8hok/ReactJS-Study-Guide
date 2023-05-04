@@ -225,6 +225,7 @@ Table of Contents
   - [https://asritha.hashnode.dev/manipulating-the-dom-in-react-best-practices](https://asritha.hashnode.dev/manipulating-the-dom-in-react-best-practices)<br>
   - [https://dzone.com/articles/benefits-of-react-v18-a-comprehensive-guide](https://dzone.com/articles/benefits-of-react-v18-a-comprehensive-guide)<br>
   - [https://designtechworld.medium.com/react-js-understanding-state-in-depth-98623417bb73](https://designtechworld.medium.com/react-js-understanding-state-in-depth-98623417bb73)<br>
+  - [https://reacthustle.com/blog/how-to-create-a-custom-mui-search-bar-component-in-nextjs](https://reacthustle.com/blog/how-to-create-a-custom-mui-search-bar-component-in-nextjs)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
