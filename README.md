@@ -278,6 +278,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/how-to-validate-forms-in-react/](https://www.freecodecamp.org/news/how-to-validate-forms-in-react/)<br>
  - [https://www.freecodecamp.org/news/chatgpt-react-course/](https://www.freecodecamp.org/news/chatgpt-react-course/)<br>
  - [https://www.classcentral.com/course/full-stack-application-development-project-34101](https://www.classcentral.com/course/full-stack-application-development-project-34101)<br>
+ - [https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/)<br>
  
 
 ## `React Unittest`
