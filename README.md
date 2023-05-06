@@ -31,6 +31,7 @@ Table of Contents
  - [https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8](https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8)<br>
  - [https://blog.pusher.com/beginners-guide-react-component-lifecycle/](https://blog.pusher.com/beginners-guide-react-component-lifecycle/)<br>
  - [https://www.topcoder.com/thrive/articles/lifecycle-methods-in-react-js](https://www.topcoder.com/thrive/articles/lifecycle-methods-in-react-js)<br>
+ - [https://blog.openreplay.com/an-introduction-to-react-portals/](https://blog.openreplay.com/an-introduction-to-react-portals/)<br>
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
