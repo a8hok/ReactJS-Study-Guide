@@ -304,6 +304,7 @@ Table of Contents
 - [https://dzone.com/articles/cypress-vs-playwright-which-is-the-best-testing-to](https://dzone.com/articles/cypress-vs-playwright-which-is-the-best-testing-to)<br>
 - [https://claritydev.net/blog/improving-react-testing-library-tests](https://claritydev.net/blog/improving-react-testing-library-tests)<br>
 - [https://moderncss.dev/testing-feature-support-for-modern-css/](https://moderncss.dev/testing-feature-support-for-modern-css/)<br>
+- [https://itnext.io/a-beginners-guide-to-cypress-testing-framework-with-a-weather-application-88dbf6ddae6c](https://itnext.io/a-beginners-guide-to-cypress-testing-framework-with-a-weather-application-88dbf6ddae6c)<br>
 
 ## `Architecture`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
