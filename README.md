@@ -419,6 +419,7 @@ Table of Contents
 - [https://maxleiter.com/blog/build-a-blog-with-nextjs-13](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)<br>
 - [https://levelup.gitconnected.com/what-you-need-to-know-about-next-13-app-directory-83ab9149b8b](https://levelup.gitconnected.com/what-you-need-to-know-about-next-13-app-directory-83ab9149b8b)<br>
 - [https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production](https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production)<br>
+- [https://blog.logrocket.com/structure-scalable-next-js-project-architecture/](https://blog.logrocket.com/structure-scalable-next-js-project-architecture/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
