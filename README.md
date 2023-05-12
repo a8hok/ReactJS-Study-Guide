@@ -306,6 +306,7 @@ Table of Contents
 - [https://moderncss.dev/testing-feature-support-for-modern-css/](https://moderncss.dev/testing-feature-support-for-modern-css/)<br>
 - [https://itnext.io/a-beginners-guide-to-cypress-testing-framework-with-a-weather-application-88dbf6ddae6c](https://itnext.io/a-beginners-guide-to-cypress-testing-framework-with-a-weather-application-88dbf6ddae6c)<br>
 - [https://claritydev.net/blog/testing-react-hook-form-with-react-testing-library](https://claritydev.net/blog/testing-react-hook-form-with-react-testing-library)<br>
+- [https://www.builder.io/blog/test-custom-hooks-react-testing-library](https://www.builder.io/blog/test-custom-hooks-react-testing-library)<br>
 
 ## `Architecture`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
