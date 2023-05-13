@@ -128,6 +128,7 @@ Table of Contents
 - [https://www.telerik.com/blogs/list-of-useful-premade-react-hooks](https://www.telerik.com/blogs/list-of-useful-premade-react-hooks)<br>
 - [https://designtechworld.medium.com/useref-vs-usestate-in-react-330539025245](https://designtechworld.medium.com/useref-vs-usestate-in-react-330539025245)<br>
 - [https://blog.openreplay.com/building-an-app-with-react-query/](https://blog.openreplay.com/building-an-app-with-react-query/)<br>
+- [https://claritydev.net/blog/tic-tac-toe-typescript-react-hooks](https://claritydev.net/blog/tic-tac-toe-typescript-react-hooks)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
