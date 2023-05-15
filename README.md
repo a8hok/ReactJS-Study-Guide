@@ -428,6 +428,7 @@ Table of Contents
 - [https://blog.logrocket.com/structure-scalable-next-js-project-architecture/](https://blog.logrocket.com/structure-scalable-next-js-project-architecture/)<br>
 - [https://www.codemotion.com/magazine/frontend/multilingual-site-in-next-js-with-next-i18next/](https://www.codemotion.com/magazine/frontend/multilingual-site-in-next-js-with-next-i18next/)<br>
 - [https://blogs.shenyien.cyou/the-nextjs-13-app-directory-and-server-components](https://blogs.shenyien.cyou/the-nextjs-13-app-directory-and-server-components)<br>
+- [https://www.apollographql.com/blog/announcement/frontend/using-apollo-client-with-next-js-13-releasing-an-official-library-to-support-the-app-router/](https://www.apollographql.com/blog/announcement/frontend/using-apollo-client-with-next-js-13-releasing-an-official-library-to-support-the-app-router/)<br>
 
 ## `React Resources`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
