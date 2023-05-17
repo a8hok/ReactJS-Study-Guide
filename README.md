@@ -371,6 +371,7 @@ Table of Contents
 - [https://www.thisdot.co/blog/how-to-build-a-litelement-application-with-rollup-js-and-typescript](https://www.thisdot.co/blog/how-to-build-a-litelement-application-with-rollup-js-and-typescript)<br>
 - [https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m](https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m)<br>
 - [https://itnext.io/best-practices-of-typescript-decorator-pattern-in-react-the-future-of-react-36685d683a5a](https://itnext.io/best-practices-of-typescript-decorator-pattern-in-react-the-future-of-react-36685d683a5a)<br>
+- [https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/](https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/)<br>
 
 ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
