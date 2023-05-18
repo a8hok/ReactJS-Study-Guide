@@ -131,6 +131,7 @@ Table of Contents
 - [https://claritydev.net/blog/tic-tac-toe-typescript-react-hooks](https://claritydev.net/blog/tic-tac-toe-typescript-react-hooks)<br>
 - [https://javascript.plainenglish.io/memoize-or-callback-a-comprehensive-guide-to-using-usememo-and-usecallback-in-react-cd1fc4c53cbb](https://javascript.plainenglish.io/memoize-or-callback-a-comprehensive-guide-to-using-usememo-and-usecallback-in-react-cd1fc4c53cbb)<br>
 - [https://www.telerik.com/blogs/react-usereducer-hook](https://www.telerik.com/blogs/react-usereducer-hook)<br>
+- [https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c](https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
