@@ -33,6 +33,7 @@ Table of Contents
  - [https://www.topcoder.com/thrive/articles/lifecycle-methods-in-react-js](https://www.topcoder.com/thrive/articles/lifecycle-methods-in-react-js)<br>
  - [https://blog.openreplay.com/an-introduction-to-react-portals/](https://blog.openreplay.com/an-introduction-to-react-portals/)<br>
  - [https://compile7.org/decompile/how-to-fix-memory-leaks-in-react/](https://compile7.org/decompile/how-to-fix-memory-leaks-in-react/)<br>
+ - [https://blog.openreplay.com/reacts-virtual-dom/](https://blog.openreplay.com/reacts-virtual-dom/)<br>
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
