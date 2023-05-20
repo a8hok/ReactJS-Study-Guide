@@ -315,6 +315,7 @@ Table of Contents
 - [https://www.builder.io/blog/test-custom-hooks-react-testing-library](https://www.builder.io/blog/test-custom-hooks-react-testing-library)<br>
 - [https://dzone.com/articles/cypress-best-practices-for-api-test-automation](https://dzone.com/articles/cypress-best-practices-for-api-test-automation)<br>
 - [https://claritydev.net/blog/testing-select-components-react-testing-library](https://claritydev.net/blog/testing-select-components-react-testing-library)<br>
+- [https://claritydev.net/blog/enzyme-vs-react-testing-library-migration-guide](https://claritydev.net/blog/enzyme-vs-react-testing-library-migration-guide)<br>
 
 ## `Architecture`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
