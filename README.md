@@ -87,6 +87,7 @@ Table of Contents
  - [https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/](https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/)<br>
  - [https://claritydev.net/blog/the-most-common-mistakes-when-using-react](https://claritydev.net/blog/the-most-common-mistakes-when-using-react)<br>
  - [https://bestcodingpractices.dev/catalog/62a70fad5029ab9ca974a982](https://bestcodingpractices.dev/catalog/62a70fad5029ab9ca974a982)<br>
+ - [https://blog.openreplay.com/writing-clean-reusable-components-in-react/](https://blog.openreplay.com/writing-clean-reusable-components-in-react/)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
