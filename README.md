@@ -514,3 +514,6 @@ Table of Contents
 ## React newsletter
 - [https://thisweekinreact.com/](https://thisweekinreact.com/)<br>
 
+## React Query
+- [https://dev.to/this-is-learning/react-query-abort-request-31j6](https://dev.to/this-is-learning/react-query-abort-request-31j6)<br>
+
