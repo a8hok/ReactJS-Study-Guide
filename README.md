@@ -137,6 +137,7 @@ Table of Contents
 - [https://www.telerik.com/blogs/react-usereducer-hook](https://www.telerik.com/blogs/react-usereducer-hook)<br>
 - [https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c](https://designtechworld.medium.com/callback-refs-in-react-dd2acbed3d7c)<br>
 - [https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/](https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/)<br>
+- [https://www.telerik.com/blogs/how-to-create-custom-debounce-hook-react](https://www.telerik.com/blogs/how-to-create-custom-debounce-hook-react)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
