@@ -327,7 +327,7 @@ Table of Contents
 - [https://dev.to/refine/a-comprehensive-guide-of-react-unit-testing-18bh](https://dev.to/refine/a-comprehensive-guide-of-react-unit-testing-18bh)<br>
 - [https://filiphric.com/cypress-basics-using-baseurl](https://filiphric.com/cypress-basics-using-baseurl)<br>
 
-## `Architecture`
+## `React Architecture and Project setup`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
 - [https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e](https://levelup.gitconnected.com/how-i-structure-my-react-projects-34b35e18f91e)<br>
 - [https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/](https://reactjsexample.com/a-react-example-app-built-using-the-clean-architecture/)<br>
@@ -348,6 +348,7 @@ Table of Contents
 - [https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)<br>
 - [https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430](https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430)<br>
 - [https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/](https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/)<br>
+- [https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
