@@ -325,6 +325,7 @@ Table of Contents
 - [https://claritydev.net/blog/enzyme-vs-react-testing-library-migration-guide](https://claritydev.net/blog/enzyme-vs-react-testing-library-migration-guide)<br>
 - [https://dzone.com/articles/playwright-javascript-tutorial-a-complete-guide](https://dzone.com/articles/playwright-javascript-tutorial-a-complete-guide)<br>
 - [https://dev.to/refine/a-comprehensive-guide-of-react-unit-testing-18bh](https://dev.to/refine/a-comprehensive-guide-of-react-unit-testing-18bh)<br>
+- [https://filiphric.com/cypress-basics-using-baseurl](https://filiphric.com/cypress-basics-using-baseurl)<br>
 
 ## `Architecture`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
