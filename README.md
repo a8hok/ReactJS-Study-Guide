@@ -296,6 +296,7 @@ Table of Contents
  - [https://www.classcentral.com/course/full-stack-application-development-project-34101](https://www.classcentral.com/course/full-stack-application-development-project-34101)<br>
  - [https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/)<br>
  - [https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/](https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/)<br>
+ - [https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03](https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03)<br>
  
 
 ## `React Unittest`
