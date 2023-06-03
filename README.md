@@ -242,6 +242,7 @@ Table of Contents
   - [https://designtechworld.medium.com/react-js-understanding-state-in-depth-98623417bb73](https://designtechworld.medium.com/react-js-understanding-state-in-depth-98623417bb73)<br>
   - [https://reacthustle.com/blog/how-to-create-a-custom-mui-search-bar-component-in-nextjs](https://reacthustle.com/blog/how-to-create-a-custom-mui-search-bar-component-in-nextjs)<br>
   - [https://itnext.io/dependency-injection-in-react-6fa51488509f](https://itnext.io/dependency-injection-in-react-6fa51488509f)<br>
+  - [https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-2gmm](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-2gmm)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
