@@ -245,6 +245,7 @@ Table of Contents
   - [https://itnext.io/dependency-injection-in-react-6fa51488509f](https://itnext.io/dependency-injection-in-react-6fa51488509f)<br>
   - [https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-2gmm](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-2gmm)<br>
   - [https://livecycle.io/blogs/top-react-github-projects/](https://livecycle.io/blogs/top-react-github-projects/)<br>
+  - [https://www.freecodecamp.org/news/how-to-style-a-react-app/](https://www.freecodecamp.org/news/how-to-style-a-react-app/)<br>
   
 ## `React Projects`
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
