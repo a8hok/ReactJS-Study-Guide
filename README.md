@@ -139,6 +139,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/](https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/)<br>
 - [https://www.telerik.com/blogs/how-to-create-custom-debounce-hook-react](https://www.telerik.com/blogs/how-to-create-custom-debounce-hook-react)<br>
 - [https://usehooks.com/](https://usehooks.com/)<br>
+- [https://dev.to/this-is-learning/react-query-infinite-queries-2909](https://dev.to/this-is-learning/react-query-infinite-queries-2909)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
