@@ -522,6 +522,7 @@ Table of Contents
 - [https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue](https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue)<br>
 - [https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)<br>
 - [https://www.toptal.com/next-js/next-js-vs-react](https://www.toptal.com/next-js/next-js-vs-react)<br>
+- [https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/)<br>
 
 ## React newsletter
 - [https://thisweekinreact.com/](https://thisweekinreact.com/)<br>
