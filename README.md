@@ -476,3 +476,6 @@ Table of Contents
 ## React Query
 - [https://dev.to/this-is-learning/react-query-abort-request-31j6](https://dev.to/this-is-learning/react-query-abort-request-31j6)<br>
 
+## React deployment
+- [https://morioh.com/p/a2d3e3970a8c?f=603c719d1528b00f7934320a](https://morioh.com/p/a2d3e3970a8c?f=603c719d1528b00f7934320a)<br>
+
