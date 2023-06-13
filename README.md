@@ -338,6 +338,8 @@ Table of Contents
 - [https://dev.to/refine/a-comprehensive-guide-of-react-unit-testing-18bh](https://dev.to/refine/a-comprehensive-guide-of-react-unit-testing-18bh)<br>
 - [https://filiphric.com/cypress-basics-using-baseurl](https://filiphric.com/cypress-basics-using-baseurl)<br>
 - [https://www.codemotion.com/magazine/languages/a-complete-introduction-to-the-react-library/](https://www.codemotion.com/magazine/languages/a-complete-introduction-to-the-react-library/)<br>
+- [https://dev.to/muratkeremozcan/cypress-component-testing-vs-react-test-library-the-complete-comparison-28gn](https://dev.to/muratkeremozcan/cypress-component-testing-vs-react-test-library-the-complete-comparison-28gn)<br>
+
 
 ## `React Architecture and Project setup`
 - [https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b](https://blog.bitsrc.io/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)<br>
