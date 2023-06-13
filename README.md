@@ -91,6 +91,7 @@ Table of Contents
  - [https://bestcodingpractices.dev/catalog/62a70fad5029ab9ca974a982](https://bestcodingpractices.dev/catalog/62a70fad5029ab9ca974a982)<br>
  - [https://blog.openreplay.com/writing-clean-reusable-components-in-react/](https://blog.openreplay.com/writing-clean-reusable-components-in-react/)<br>
  - [https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g](https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g)<br>
+ - [https://www.freecodecamp.org/news/upgrade-your-react-skills/](https://www.freecodecamp.org/news/upgrade-your-react-skills/)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
