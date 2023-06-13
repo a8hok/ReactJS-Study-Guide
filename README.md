@@ -143,6 +143,7 @@ Table of Contents
 - [https://usehooks.com/](https://usehooks.com/)<br>
 - [https://dev.to/this-is-learning/react-query-infinite-queries-2909](https://dev.to/this-is-learning/react-query-infinite-queries-2909)<br>
 - [https://www.syncfusion.com/blogs/post/react-usestate-vs-context-api.aspx](https://www.syncfusion.com/blogs/post/react-usestate-vs-context-api.aspx)<br>
+- [https://www.telerik.com/blogs/how-to-use-3-popular-react-hooks-react-router](https://www.telerik.com/blogs/how-to-use-3-popular-react-hooks-react-router)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
