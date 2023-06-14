@@ -60,6 +60,7 @@ Table of Contents
  - [https://dev.to/devland/how-to-optimize-your-react-apps-performance-1045](https://dev.to/devland/how-to-optimize-your-react-apps-performance-1045)<br>
  - [https://howtocrackit.com/mastering-react-memo-for-optimal-performance-tips-and-tricks/](https://howtocrackit.com/mastering-react-memo-for-optimal-performance-tips-and-tricks/)<br>
  - [https://blog.openreplay.com/optimizing-reacts-performance/](https://blog.openreplay.com/optimizing-reacts-performance/)<br>
+ - [https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified](https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
