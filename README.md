@@ -371,6 +371,7 @@ Table of Contents
 
 ## `React with Webpack`
 - [https://devdojo.com/myogeshchavan97/how-to-create-a-react-app-from-scratch-using-webpack-5-babel](https://devdojo.com/myogeshchavan97/how-to-create-a-react-app-from-scratch-using-webpack-5-babelgst)<br>
+- [https://hackernoon.com/34-stories-to-learn-about-webpack?source=rss](https://hackernoon.com/34-stories-to-learn-about-webpack?source=rss)<br>
 
 ## `Error handling`
 - [https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666](https://blog.bitsrc.io/react-error-handling-and-logging-best-practices-4444c57cd666)<br>
