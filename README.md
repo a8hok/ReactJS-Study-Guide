@@ -342,6 +342,7 @@ Table of Contents
 - [https://filiphric.com/cypress-basics-using-baseurl](https://filiphric.com/cypress-basics-using-baseurl)<br>
 - [https://www.codemotion.com/magazine/languages/a-complete-introduction-to-the-react-library/](https://www.codemotion.com/magazine/languages/a-complete-introduction-to-the-react-library/)<br>
 - [https://dev.to/muratkeremozcan/cypress-component-testing-vs-react-test-library-the-complete-comparison-28gn](https://dev.to/muratkeremozcan/cypress-component-testing-vs-react-test-library-the-complete-comparison-28gn)<br>
+- [https://dzone.com/articles/introduction-to-cypress-and-ui-test-automation-1](https://dzone.com/articles/introduction-to-cypress-and-ui-test-automation-1)<br>
 
 
 ## `React Architecture and Project setup`
