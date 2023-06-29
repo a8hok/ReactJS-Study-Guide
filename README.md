@@ -438,6 +438,7 @@ Table of Contents
 - [https://www.thisdot.co/blog/introduction-to-redux-pattern](https://www.thisdot.co/blog/introduction-to-redux-pattern)<br>
 - [https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/](https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/)<br>
 - [https://blog.bitsrc.io/mastering-redux-a-balanced-analysis-with-code-examples-for-react-developers-fe3cc0feb775](https://blog.bitsrc.io/mastering-redux-a-balanced-analysis-with-code-examples-for-react-developers-fe3cc0feb775)<br>
+- [https://dd.engineering/blog/a-practical-introduction-to-using-redux-with-react](https://dd.engineering/blog/a-practical-introduction-to-using-redux-with-react)<br>
 
 ## `React GraphQL`
 - [https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react](https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react)<br>
