@@ -35,6 +35,7 @@ Table of Contents
  - [https://compile7.org/decompile/how-to-fix-memory-leaks-in-react/](https://compile7.org/decompile/how-to-fix-memory-leaks-in-react/)<br>
  - [https://blog.openreplay.com/reacts-virtual-dom/](https://blog.openreplay.com/reacts-virtual-dom/)<br>
  - [https://designtechworld.medium.com/react-lifecycle-methods-how-and-when-to-use-them-d0f4522a7cba](https://designtechworld.medium.com/react-lifecycle-methods-how-and-when-to-use-them-d0f4522a7cba)<br>
+ - [https://www.codemotion.com/magazine/languages/a-complete-introduction-to-the-react-library/](https://www.codemotion.com/magazine/languages/a-complete-introduction-to-the-react-library/)<br>
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
