@@ -344,6 +344,7 @@ Table of Contents
 - [https://www.codemotion.com/magazine/languages/a-complete-introduction-to-the-react-library/](https://www.codemotion.com/magazine/languages/a-complete-introduction-to-the-react-library/)<br>
 - [https://dev.to/muratkeremozcan/cypress-component-testing-vs-react-test-library-the-complete-comparison-28gn](https://dev.to/muratkeremozcan/cypress-component-testing-vs-react-test-library-the-complete-comparison-28gn)<br>
 - [https://dzone.com/articles/introduction-to-cypress-and-ui-test-automation-1](https://dzone.com/articles/introduction-to-cypress-and-ui-test-automation-1)<br>
+- [https://dzone.com/articles/best-practices-for-writing-unit-tests-a-comprehens](https://dzone.com/articles/best-practices-for-writing-unit-tests-a-comprehens)<br>
 
 
 ## `React Architecture and Project setup`
