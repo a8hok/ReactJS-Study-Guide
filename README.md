@@ -445,6 +445,7 @@ Table of Contents
 ## `React GraphQL`
 - [https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react](https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react)<br>
 - [https://www.section.io/engineering-education/create-in-browser-graphiql-tool-with-reactjs/](https://www.section.io/engineering-education/create-in-browser-graphiql-tool-with-reactjs/)<br>
+- [https://amplication.com/blog/best-practices-in-testing-graphql-apis](https://amplication.com/blog/best-practices-in-testing-graphql-apis)<br>
 
 ## `React Github`
 - [https://github.com/streamich/react-use](https://github.com/streamich/react-use)<br>
