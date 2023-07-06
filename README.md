@@ -479,6 +479,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/](https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/)<br>
 - [https://www.c-sharpcorner.com/blogs/react-router](https://www.c-sharpcorner.com/blogs/react-router)<br>
 - [https://hackernoon.com/advanced-react-router-v6-techniques-going-beyond-the-basics?source=rss](https://hackernoon.com/advanced-react-router-v6-techniques-going-beyond-the-basics?source=rss)<br>
+- [https://hackernoon.com/mastering-nested-routes-for-robust-web-applications-using-react-router-v6?source=rss](https://hackernoon.com/mastering-nested-routes-for-robust-web-applications-using-react-router-v6?source=rss)<br>
 
 ## React vs 
 - [https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue](https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue)<br>
