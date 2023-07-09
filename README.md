@@ -149,6 +149,7 @@ Table of Contents
 - [https://www.telerik.com/blogs/how-to-use-3-popular-react-hooks-react-router](https://www.telerik.com/blogs/how-to-use-3-popular-react-hooks-react-router)<br>
 - [https://hackernoon.com/migrating-from-usestate-to-usereducer-in-react-hooks?source=rss](https://hackernoon.com/migrating-from-usestate-to-usereducer-in-react-hooks?source=rss)<br>
 - [https://blog.saeloun.com/2022/09/22/difference-between-useCallback-and-useMemo-hooks/](https://blog.saeloun.com/2022/09/22/difference-between-useCallback-and-useMemo-hooks/)<br>
+- [https://habr.com/en/articles/746760/](https://habr.com/en/articles/746760/)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
