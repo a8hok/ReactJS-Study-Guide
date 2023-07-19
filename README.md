@@ -64,6 +64,7 @@ Table of Contents
  - [https://howtocrackit.com/mastering-react-memo-for-optimal-performance-tips-and-tricks/](https://howtocrackit.com/mastering-react-memo-for-optimal-performance-tips-and-tricks/)<br>
  - [https://blog.openreplay.com/optimizing-reacts-performance/](https://blog.openreplay.com/optimizing-reacts-performance/)<br>
  - [https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified](https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified)<br>
+ - [https://vercel.com/blog/how-react-18-improves-application-performance](https://vercel.com/blog/how-react-18-improves-application-performance)<br>
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
