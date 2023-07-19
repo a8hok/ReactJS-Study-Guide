@@ -262,6 +262,7 @@ Table of Contents
   - [https://dev.to/zinox9/react-cheatsheet-3eao](https://dev.to/zinox9/react-cheatsheet-3eao)<br>
   
 ## `React Projects`
+- [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
 - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
 - [https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/](https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/)<br>
  - [https://reactjsexample.com/a-video-conferencing-application-build-with-react/](https://reactjsexample.com/a-video-conferencing-application-build-with-react/)<br>
