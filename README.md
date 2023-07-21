@@ -449,6 +449,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/](https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/)<br>
 - [https://blog.bitsrc.io/mastering-redux-a-balanced-analysis-with-code-examples-for-react-developers-fe3cc0feb775](https://blog.bitsrc.io/mastering-redux-a-balanced-analysis-with-code-examples-for-react-developers-fe3cc0feb775)<br>
 - [https://dd.engineering/blog/a-practical-introduction-to-using-redux-with-react](https://dd.engineering/blog/a-practical-introduction-to-using-redux-with-react)<br>
+- [https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj](https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj)<br>
 
 
 ## `React GraphQL`
