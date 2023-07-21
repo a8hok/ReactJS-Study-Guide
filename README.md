@@ -19,7 +19,6 @@ Table of Contents
    * [Error handling](#error-handling)
    * [React with typescript](#react-with-typescript)
    * [React with DynamoDB](#react-with-dynamodb)
-   * [NextJS](#nextjs)
    * [React Resources](#react-resources)
    * [Redux](#redux)
    * [React GraphQL](#react-graphql)
@@ -65,6 +64,7 @@ Table of Contents
  - [https://blog.openreplay.com/optimizing-reacts-performance/](https://blog.openreplay.com/optimizing-reacts-performance/)<br>
  - [https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified](https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified)<br>
  - [https://vercel.com/blog/how-react-18-improves-application-performance](https://vercel.com/blog/how-react-18-improves-application-performance)<br>
+ 
 
 ## `React tips and Tricks`
 - [https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1](https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1)<br>
@@ -376,6 +376,7 @@ Table of Contents
 - [https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430](https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430)<br>
 - [https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/](https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/)<br>
 - [https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)<br>
+- [https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502](https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502)<br>
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
@@ -432,6 +433,7 @@ Table of Contents
 - [https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)<br>
 - [https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e](https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e)<br>
 
+
 ## `Redux`
 - [https://enlear.academy/redux-explained-simply-ffd6f16aa1ca](https://enlear.academy/redux-explained-simply-ffd6f16aa1ca)<br>
 - [https://www.valentinog.com/blog/redux/](https://www.valentinog.com/blog/redux/)<br>
@@ -448,10 +450,12 @@ Table of Contents
 - [https://blog.bitsrc.io/mastering-redux-a-balanced-analysis-with-code-examples-for-react-developers-fe3cc0feb775](https://blog.bitsrc.io/mastering-redux-a-balanced-analysis-with-code-examples-for-react-developers-fe3cc0feb775)<br>
 - [https://dd.engineering/blog/a-practical-introduction-to-using-redux-with-react](https://dd.engineering/blog/a-practical-introduction-to-using-redux-with-react)<br>
 
+
 ## `React GraphQL`
 - [https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react](https://blog.openreplay.com/fetching-data-from-graphql-apis-with-apollo-react)<br>
 - [https://www.section.io/engineering-education/create-in-browser-graphiql-tool-with-reactjs/](https://www.section.io/engineering-education/create-in-browser-graphiql-tool-with-reactjs/)<br>
 - [https://amplication.com/blog/best-practices-in-testing-graphql-apis](https://amplication.com/blog/best-practices-in-testing-graphql-apis)<br>
+
 
 ## `React Github`
 - [https://github.com/streamich/react-use](https://github.com/streamich/react-use)<br>
