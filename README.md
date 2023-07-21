@@ -507,4 +507,5 @@ Table of Contents
 
 ## React deployment
 - [https://morioh.com/p/a2d3e3970a8c?f=603c719d1528b00f7934320a](https://morioh.com/p/a2d3e3970a8c?f=603c719d1528b00f7934320a)<br>
+- [https://www.freecodecamp.org/news/how-to-dockerize-a-react-application/](https://www.freecodecamp.org/news/how-to-dockerize-a-react-application/)<br>
 
