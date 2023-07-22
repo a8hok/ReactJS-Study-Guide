@@ -499,6 +499,7 @@ Table of Contents
 - [https://www.toptal.com/next-js/next-js-vs-react](https://www.toptal.com/next-js/next-js-vs-react)<br>
 - [https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/)<br>
 - [https://hackernoon.com/why-react-developers-love-preact?source=rss](https://hackernoon.com/why-react-developers-love-preact?source=rss)<br>
+- [https://www.brandfordtech.com/posts/next-js-vs-react-which-one-is-better-for-your-web-development-needs](https://www.brandfordtech.com/posts/next-js-vs-react-which-one-is-better-for-your-web-development-needs)<br>
 
 ## React newsletter
 - [https://thisweekinreact.com/](https://thisweekinreact.com/)<br>
