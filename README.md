@@ -260,6 +260,7 @@ Table of Contents
   - [https://livecycle.io/blogs/top-react-github-projects/](https://livecycle.io/blogs/top-react-github-projects/)<br>
   - [https://www.freecodecamp.org/news/how-to-style-a-react-app/](https://www.freecodecamp.org/news/how-to-style-a-react-app/)<br>
   - [https://dev.to/zinox9/react-cheatsheet-3eao](https://dev.to/zinox9/react-cheatsheet-3eao)<br>
+  - [https://www.freecodecamp.org/news/upgrade-your-react-skills/](https://www.freecodecamp.org/news/upgrade-your-react-skills/)<br>
   
 ## `React Projects`
 - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
