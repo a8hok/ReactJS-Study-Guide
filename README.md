@@ -355,6 +355,7 @@ Table of Contents
 - [https://dzone.com/articles/best-practices-for-writing-unit-tests-a-comprehens](https://dzone.com/articles/best-practices-for-writing-unit-tests-a-comprehens)<br>
 - [https://dzone.com/articles/best-practices-for-using-cypress-for-front-end-aut](https://dzone.com/articles/best-practices-for-using-cypress-for-front-end-aut)<br>
 - [https://web3usecase.co/mastering-unit-testing-best-practices-4f9ecad894a0](https://web3usecase.co/mastering-unit-testing-best-practices-4f9ecad894a0)<br>
+- [https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)<br>
 
 
 ## `React Architecture and Project setup`
