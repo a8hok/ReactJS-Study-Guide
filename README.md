@@ -520,3 +520,6 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-dockerize-a-react-application/](https://www.freecodecamp.org/news/how-to-dockerize-a-react-application/)<br>
 - [https://awstip.com/authentication-with-aws-cognito-and-react-js-part-4-e564acdfc74c](https://awstip.com/authentication-with-aws-cognito-and-react-js-part-4-e564acdfc74c)<br>
 
+## React Tools
+- [https://blog.stackblitz.com/posts/viteconf-is-back/](https://blog.stackblitz.com/posts/viteconf-is-back/)<br>
+
