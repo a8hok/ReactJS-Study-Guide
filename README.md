@@ -64,6 +64,7 @@ Table of Contents
  - [https://blog.openreplay.com/optimizing-reacts-performance/](https://blog.openreplay.com/optimizing-reacts-performance/)<br>
  - [https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified](https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified)<br>
  - [https://vercel.com/blog/how-react-18-improves-application-performance](https://vercel.com/blog/how-react-18-improves-application-performance)<br>
+ - [https://www.telerik.com/blogs/react-basics-best-practices-updating-react](https://www.telerik.com/blogs/react-basics-best-practices-updating-react)<br>
  
 
 ## `React tips and Tricks`
