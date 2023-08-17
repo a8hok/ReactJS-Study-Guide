@@ -170,6 +170,7 @@ Table of Contents
 - [https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)<br>
 - [https://dev.to/this-is-learning/react-query-useisfetching-useismutation-4dkb](https://dev.to/this-is-learning/react-query-useisfetching-useismutation-4dkb)<br>
 - [https://dev.to/arafat4693/best-animation-libraries-for-react-156n](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)<br>
+- [https://hackernoon.com/13-useful-react-libraries-for-devs-in-2023?source=rss](https://hackernoon.com/13-useful-react-libraries-for-devs-in-2023?source=rss)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
