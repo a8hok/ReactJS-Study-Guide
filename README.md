@@ -267,6 +267,7 @@ Table of Contents
   - [https://www.freecodecamp.org/news/how-to-style-a-react-app/](https://www.freecodecamp.org/news/how-to-style-a-react-app/)<br>
   - [https://dev.to/zinox9/react-cheatsheet-3eao](https://dev.to/zinox9/react-cheatsheet-3eao)<br>
   - [https://www.freecodecamp.org/news/upgrade-your-react-skills/](https://www.freecodecamp.org/news/upgrade-your-react-skills/)<br>
+  - [https://dev.to/reedbarger/react-props-a-visual-guide-3gcc](https://dev.to/reedbarger/react-props-a-visual-guide-3gcc)<br>
   
 ## `React Projects`
 - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
