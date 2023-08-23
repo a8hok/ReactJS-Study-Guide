@@ -39,6 +39,7 @@ Table of Contents
  - [https://hackernoon.com/understanding-the-differences-between-real-dom-virtual-dom-and-shadow-dom?source=rss](https://hackernoon.com/understanding-the-differences-between-real-dom-virtual-dom-and-shadow-dom?source=rss)<br>
  - [https://blog.openreplay.com/applying-design-principles-in-react/](https://blog.openreplay.com/applying-design-principles-in-react/)<br>
  - [https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/](https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/)<br>
+ - [https://hackernoon.com/react-usestate-made-easy-for-beginners?source=rss](https://hackernoon.com/react-usestate-made-easy-for-beginners?source=rss)<br>
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
