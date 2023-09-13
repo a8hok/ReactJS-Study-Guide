@@ -40,6 +40,7 @@ Table of Contents
  - [https://blog.openreplay.com/applying-design-principles-in-react/](https://blog.openreplay.com/applying-design-principles-in-react/)<br>
  - [https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/](https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/)<br>
  - [https://hackernoon.com/react-usestate-made-easy-for-beginners?source=rss](https://hackernoon.com/react-usestate-made-easy-for-beginners?source=rss)<br>
+ - [https://www.freecodecamp.org/news/how-to-use-react-components/](https://www.freecodecamp.org/news/how-to-use-react-components/)<br>
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
@@ -394,6 +395,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/](https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/)<br>
 - [https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)<br>
 - [https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502](https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502)<br>
+
 
 ## `React checklist`
 - [https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)<br>
