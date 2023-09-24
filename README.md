@@ -69,6 +69,7 @@ Table of Contents
  - [https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified](https://www.bigbinary.com/blog/react-performance-optimization-memoization-demystified)<br>
  - [https://vercel.com/blog/how-react-18-improves-application-performance](https://vercel.com/blog/how-react-18-improves-application-performance)<br>
  - [https://www.telerik.com/blogs/react-basics-best-practices-updating-react](https://www.telerik.com/blogs/react-basics-best-practices-updating-react)<br>
+ - [https://www.turing.com/kb/reactjs-security-best-practices](https://www.turing.com/kb/reactjs-security-best-practices)<br>
  
 
 ## `React tips and Tricks`
