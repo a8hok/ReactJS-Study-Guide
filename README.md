@@ -540,3 +540,6 @@ Table of Contents
 - [https://blog.stackblitz.com/posts/viteconf-is-back/](https://blog.stackblitz.com/posts/viteconf-is-back/)<br>
 - [https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)<br>
 
+## React webworkers
+- [https://dev.to/sumankalia/web-workers-in-reactjs-4bc7](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)<br>
+
