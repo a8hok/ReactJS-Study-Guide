@@ -538,4 +538,5 @@ Table of Contents
 
 ## React Tools
 - [https://blog.stackblitz.com/posts/viteconf-is-back/](https://blog.stackblitz.com/posts/viteconf-is-back/)<br>
+- [https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8](https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8)<br>
 
