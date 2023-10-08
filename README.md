@@ -71,6 +71,7 @@ Table of Contents
  - [https://vercel.com/blog/how-react-18-improves-application-performance](https://vercel.com/blog/how-react-18-improves-application-performance)<br>
  - [https://www.telerik.com/blogs/react-basics-best-practices-updating-react](https://www.telerik.com/blogs/react-basics-best-practices-updating-react)<br>
  - [https://www.turing.com/kb/reactjs-security-best-practices](https://www.turing.com/kb/reactjs-security-best-practices)<br>
+ - [https://dzone.com/articles/security-best-practices-for-reactjs-in-web-app-dev?ref=dailydev](https://dzone.com/articles/security-best-practices-for-reactjs-in-web-app-dev?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
