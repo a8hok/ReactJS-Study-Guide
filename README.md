@@ -281,6 +281,7 @@ Table of Contents
   - [https://hackernoon.com/best-examples-of-apps-written-in-reactjs?source=rss](https://hackernoon.com/best-examples-of-apps-written-in-reactjs?source=rss)<br>
   - [https://www.freecodecamp.org/news/how-to-use-react-components/](https://www.freecodecamp.org/news/how-to-use-react-components/)<br>
   - [https://semaphoreci.com/blog/react-portals?ref=dailydev](https://semaphoreci.com/blog/react-portals?ref=dailydev)<br>
+  - [https://www.telerik.com/blogs/react-basics-working-react-objects?ref=dailydev](https://www.telerik.com/blogs/react-basics-working-react-objects?ref=dailydev)<br>
   
 ## `React Projects`
 - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
