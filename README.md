@@ -509,6 +509,8 @@ Table of Contents
 - [https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)<br>
 - [https://github.com/piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)<br>
 - [https://github.com/antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)<br>
+- [https://github.com/krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns)<br>
+
 
 ## React Linkedin
 - [https://www.linkedin.com/pulse/ultimate-react-developers-digest-top-picks-from-past-few-/](https://www.linkedin.com/pulse/ultimate-react-developers-digest-top-picks-from-past-few-/)<br>
