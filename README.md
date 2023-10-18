@@ -510,6 +510,7 @@ Table of Contents
 - [https://github.com/antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)<br>
 - [https://github.com/krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns)<br>
 - [https://github.com/sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)<br>
+- [https://github.com/alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges)<br>
 
 
 ## React Linkedin
