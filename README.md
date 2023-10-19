@@ -107,6 +107,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/upgrade-your-react-skills/](https://www.freecodecamp.org/news/upgrade-your-react-skills/)<br>
  - [https://dzone.com/articles/advanced-react-js-concepts-a-deep-dive](https://dzone.com/articles/advanced-react-js-concepts-a-deep-dive)<br>
  - [https://www.freecodecamp.org/news/improve-reactjs-code/](https://www.freecodecamp.org/news/improve-reactjs-code/)<br>
+ - [https://itnext.io/solid-in-react-the-good-the-bad-and-the-awesome-79d6cc518d1f](https://itnext.io/solid-in-react-the-good-the-bad-and-the-awesome-79d6cc518d1f)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
