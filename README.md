@@ -72,6 +72,7 @@ Table of Contents
  - [https://www.telerik.com/blogs/react-basics-best-practices-updating-react](https://www.telerik.com/blogs/react-basics-best-practices-updating-react)<br>
  - [https://www.turing.com/kb/reactjs-security-best-practices](https://www.turing.com/kb/reactjs-security-best-practices)<br>
  - [https://dzone.com/articles/security-best-practices-for-reactjs-in-web-app-dev?ref=dailydev](https://dzone.com/articles/security-best-practices-for-reactjs-in-web-app-dev?ref=dailydev)<br>
+ - [https://dev.to/dickinsontiwari/optimizing-react-components-a-guide-to-usecallback-and-usememo-3mgk](https://dev.to/dickinsontiwari/optimizing-react-components-a-guide-to-usecallback-and-usememo-3mgk)<br>
  
 
 ## `React tips and Tricks`
