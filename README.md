@@ -554,3 +554,6 @@ Table of Contents
 ## React webworkers
 - [https://dev.to/sumankalia/web-workers-in-reactjs-4bc7](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)<br>
 
+## React Material
+- [https://semaphoreci.com/blog/dark-mode-reactjs-material-ui?ref=dailydev](https://semaphoreci.com/blog/dark-mode-reactjs-material-ui?ref=dailydev)<br>
+
