@@ -171,6 +171,7 @@ Table of Contents
 - [https://habr.com/en/articles/752810/](https://habr.com/en/articles/752810/)<br>
 - [https://dev.to/idurar/mastering-advanced-complex-react-usecontext-with-usereducer-redux-style-2jl0](https://dev.to/idurar/mastering-advanced-complex-react-usecontext-with-usereducer-redux-style-2jl0)<br>
 - [https://www.syncfusion.com/blogs/post/react-usecallback-vs-usememo-hooks.aspx](https://www.syncfusion.com/blogs/post/react-usecallback-vs-usememo-hooks.aspx)<br>
+- [https://habr.com/en/articles/770470/?ref=dailydev](https://habr.com/en/articles/770470/?ref=dailydev)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
