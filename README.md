@@ -74,6 +74,7 @@ Table of Contents
  - [https://dzone.com/articles/security-best-practices-for-reactjs-in-web-app-dev?ref=dailydev](https://dzone.com/articles/security-best-practices-for-reactjs-in-web-app-dev?ref=dailydev)<br>
  - [https://dev.to/dickinsontiwari/optimizing-react-components-a-guide-to-usecallback-and-usememo-3mgk](https://dev.to/dickinsontiwari/optimizing-react-components-a-guide-to-usecallback-and-usememo-3mgk)<br>
  - [https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i?ref=dailydev](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i?ref=dailydev)<br>
+ - [https://www.javacodegeeks.com/2023/11/securing-your-reactjs-web-apps-best-practices-and-strategies.html?ref=dailydev](https://www.javacodegeeks.com/2023/11/securing-your-reactjs-web-apps-best-practices-and-strategies.html?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
