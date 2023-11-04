@@ -562,3 +562,6 @@ Table of Contents
 ## React Material
 - [https://semaphoreci.com/blog/dark-mode-reactjs-material-ui?ref=dailydev](https://semaphoreci.com/blog/dark-mode-reactjs-material-ui?ref=dailydev)<br>
 
+## React Migration
+- [https://blog.bitsrc.io/how-to-migrate-faster-to-react-js-e8320610d9d5](https://blog.bitsrc.io/how-to-migrate-faster-to-react-js-e8320610d9d5)<br>
+
