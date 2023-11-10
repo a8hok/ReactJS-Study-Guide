@@ -485,6 +485,7 @@ Table of Contents
 - [https://blog.bitsrc.io/mastering-redux-a-balanced-analysis-with-code-examples-for-react-developers-fe3cc0feb775](https://blog.bitsrc.io/mastering-redux-a-balanced-analysis-with-code-examples-for-react-developers-fe3cc0feb775)<br>
 - [https://dd.engineering/blog/a-practical-introduction-to-using-redux-with-react](https://dd.engineering/blog/a-practical-introduction-to-using-redux-with-react)<br>
 - [https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj](https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj)<br>
+- [https://www.sitepoint.com/top-redux-alternatives-exploring-state-management-solutions/?utm_source=rss&ref=dailydev](https://www.sitepoint.com/top-redux-alternatives-exploring-state-management-solutions/?utm_source=rss&ref=dailydev)<br>
 
 
 ## `React GraphQL`
