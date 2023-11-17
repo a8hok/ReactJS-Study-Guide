@@ -76,6 +76,7 @@ Table of Contents
  - [https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i?ref=dailydev](https://dev.to/rasaf_ibrahim/react-performance-booster-introduction-to-the-usememo-hook-212i?ref=dailydev)<br>
  - [https://www.javacodegeeks.com/2023/11/securing-your-reactjs-web-apps-best-practices-and-strategies.html?ref=dailydev](https://www.javacodegeeks.com/2023/11/securing-your-reactjs-web-apps-best-practices-and-strategies.html?ref=dailydev)<br>
  - [https://tropicolx.hashnode.dev/optimizing-performance-in-react-applications?ref=dailydev](https://tropicolx.hashnode.dev/optimizing-performance-in-react-applications?ref=dailydev)<br>
+ - [https://www.freecodecamp.org/news/react-suspense/?ref=dailydev](https://www.freecodecamp.org/news/react-suspense/?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
