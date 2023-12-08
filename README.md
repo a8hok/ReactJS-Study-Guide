@@ -391,6 +391,7 @@ Table of Contents
 - [https://web3usecase.co/mastering-unit-testing-best-practices-4f9ecad894a0](https://web3usecase.co/mastering-unit-testing-best-practices-4f9ecad894a0)<br>
 - [https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)<br>
 - [https://mtlynch.io/notes/cypress-vs-playwright/?ref=dailydev](https://mtlynch.io/notes/cypress-vs-playwright/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)<br>
 
 
 ## `React Architecture and Project setup`
