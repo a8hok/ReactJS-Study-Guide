@@ -352,6 +352,7 @@ Table of Contents
  - [https://hackernoon.com/116-stories-to-learn-about-web-scraping?source=rss](https://hackernoon.com/116-stories-to-learn-about-web-scraping?source=rss)<br>
  - [https://dev.to/abdulbasit313/i-published-4-free-reactjs-coding-challenges-build-functionality-for-responsive-ui-35o](https://dev.to/abdulbasit313/i-published-4-free-reactjs-coding-challenges-build-functionality-for-responsive-ui-35o)<br>
  - [https://blog.openreplay.com/how-to-perform-jwt-authentication-with-react/](https://blog.openreplay.com/how-to-perform-jwt-authentication-with-react/)<br>
+ - [https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/?ref=dailydev](https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/?ref=dailydev)<br>
  
 
 ## `React Unittest`
