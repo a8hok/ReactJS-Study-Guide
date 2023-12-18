@@ -573,3 +573,6 @@ Table of Contents
 ## React Migration
 - [https://blog.bitsrc.io/how-to-migrate-faster-to-react-js-e8320610d9d5](https://blog.bitsrc.io/how-to-migrate-faster-to-react-js-e8320610d9d5)<br>
 
+## React Modern development
+- [https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)<br>
+
