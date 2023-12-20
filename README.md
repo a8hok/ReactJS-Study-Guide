@@ -433,6 +433,7 @@ Table of Contents
 - [https://dev.to/artemmalko/error-boundaries-in-react-how-its-made-3lam](https://dev.to/artemmalko/error-boundaries-in-react-how-its-made-3lam)<br>
 - [https://adevnadia.medium.com/how-to-handle-errors-in-react-full-guide-bd02634ff523](https://adevnadia.medium.com/how-to-handle-errors-in-react-full-guide-bd02634ff523)<br>
 - [https://semaphoreci.com/blog/error-handling-layer-react](https://semaphoreci.com/blog/error-handling-layer-react)<br>
+- [https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/?ref=dailydev](https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/?ref=dailydev)<br>
 
 ## `React with typescript`
 - [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
