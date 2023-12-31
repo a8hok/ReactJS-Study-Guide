@@ -42,6 +42,7 @@ Table of Contents
  - [https://hackernoon.com/react-usestate-made-easy-for-beginners?source=rss](https://hackernoon.com/react-usestate-made-easy-for-beginners?source=rss)<br>
  - [https://www.freecodecamp.org/news/how-to-use-react-components/](https://www.freecodecamp.org/news/how-to-use-react-components/)<br>
  - [https://www.freecodecamp.org/news/react-lifecycle-methods-and-hooks-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/react-lifecycle-methods-and-hooks-for-beginners/?ref=dailydev)<br>
+ - [https://dev.to/refine/understanding-virtual-dom-in-react-2e8d?ref=dailydev](https://dev.to/refine/understanding-virtual-dom-in-react-2e8d?ref=dailydev)<br>
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
