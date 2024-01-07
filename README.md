@@ -580,3 +580,6 @@ Table of Contents
 ## React Modern development
 - [https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)<br>
 
+## React 2024
+- [https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/](https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/)<br>
+
