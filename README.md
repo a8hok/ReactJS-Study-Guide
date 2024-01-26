@@ -529,6 +529,7 @@ Table of Contents
 - [https://github.com/sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)<br>
 - [https://github.com/alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges)<br>
 - [https://hojaleaks.com/10-github-repositories-every-react-developer-must-know?ref=dailydev](https://hojaleaks.com/10-github-repositories-every-react-developer-must-know?ref=dailydev)<br>
+- [https://github.com/rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)<br>
 
 
 ## React Linkedin
