@@ -79,6 +79,7 @@ Table of Contents
  - [https://tropicolx.hashnode.dev/optimizing-performance-in-react-applications?ref=dailydev](https://tropicolx.hashnode.dev/optimizing-performance-in-react-applications?ref=dailydev)<br>
  - [https://www.freecodecamp.org/news/react-suspense/?ref=dailydev](https://www.freecodecamp.org/news/react-suspense/?ref=dailydev)<br>
  - [https://blog.openreplay.com/improving-form-performance-in-react/?ref=dailydev](https://blog.openreplay.com/improving-form-performance-in-react/?ref=dailydev)<br>
+ - [https://maxtsh.medium.com/the-ultimate-guide-to-cache-busting-for-react-production-applications-d583e4248f02](https://maxtsh.medium.com/the-ultimate-guide-to-cache-busting-for-react-production-applications-d583e4248f02)<br>
  
 
 ## `React tips and Tricks`
