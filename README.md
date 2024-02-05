@@ -600,6 +600,7 @@ Table of Contents
 ## React 2024
 - [https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/](https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/)<br>
 - [https://www.freecodecamp.org/news/react-projects-to-build-in-2024/](https://www.freecodecamp.org/news/react-projects-to-build-in-2024/)<br>
+- [https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/](https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/)<br>
 
 ## React Micro Frontend
 - [https://github.com/lequochung19971/micro-fe-react](https://github.com/lequochung19971/micro-fe-react)<br>
