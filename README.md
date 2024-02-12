@@ -191,6 +191,7 @@ Table of Contents
 - [https://www.syncfusion.com/blogs/post/react-usecallback-vs-usememo-hooks.aspx](https://www.syncfusion.com/blogs/post/react-usecallback-vs-usememo-hooks.aspx)<br>
 - [https://habr.com/en/articles/770470/?ref=dailydev](https://habr.com/en/articles/770470/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/?ref=dailydev](https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/?ref=dailydev](https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/?ref=dailydev)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
