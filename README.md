@@ -597,6 +597,7 @@ Table of Contents
 
 ## React API
 - [https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/?ref=dailydev](https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/](https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/)<br>
 
 ## React 2024
 - [https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/](https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/)<br>
