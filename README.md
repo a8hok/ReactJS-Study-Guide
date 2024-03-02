@@ -1,9 +1,8 @@
-# ReactJS Interview Preparation
-
+# ReactJS Study Guide
 Table of Contents
 =================
 
-- [ReactJS Interview Preparation](#reactjs-interview-preparation)
+- [ReactJS Study Guide](#reactjs-study-guide)
    * [`React Life cycle`](#react-life-cycle)
    * [`React Road map for beginners`](#react-road-map-for-beginners)
    * [`React tips and Tricks`](#react-tips-and-tricks)
