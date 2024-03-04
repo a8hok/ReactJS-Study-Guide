@@ -606,3 +606,6 @@ Table of Contents
 ## React Micro Frontend
 - [https://github.com/lequochung19971/micro-fe-react](https://github.com/lequochung19971/micro-fe-react)<br>
 
+## ReactJS Books
+- [https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev](https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev)<br>
+
