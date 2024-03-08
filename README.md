@@ -572,6 +572,7 @@ Table of Contents
 - [https://dev.to/this-is-learning/react-query-abort-request-31j6](https://dev.to/this-is-learning/react-query-abort-request-31j6)<br>
 - [https://tkdodo.eu/blog/react-query-and-react-context](https://tkdodo.eu/blog/react-query-and-react-context)<br>
 - [https://blog.openreplay.com/enhancing-performance-with-react-query-caching/?ref=dailydev](https://blog.openreplay.com/enhancing-performance-with-react-query-caching/?ref=dailydev)<br>
+- [https://www.logicroom.co/blog/should-you-use-react-query?ref=dailydev](https://www.logicroom.co/blog/should-you-use-react-query?ref=dailydev)<br>
 
 ## React deployment
 - [https://morioh.com/p/a2d3e3970a8c?f=603c719d1528b00f7934320a](https://morioh.com/p/a2d3e3970a8c?f=603c719d1528b00f7934320a)<br>
