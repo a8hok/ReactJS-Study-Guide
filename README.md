@@ -612,3 +612,6 @@ Table of Contents
 ## ReactJS Books
 - [https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev](https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev)<br>
 
+## ReactJS 19
+- [https://www.codingcrafts.io/blog/react-19-upcoming-major-release/?ref=dailydev](https://www.codingcrafts.io/blog/react-19-upcoming-major-release/?ref=dailydev)
+
