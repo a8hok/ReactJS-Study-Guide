@@ -408,6 +408,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)<br>
 - [https://mtlynch.io/notes/cypress-vs-playwright/?ref=dailydev](https://mtlynch.io/notes/cypress-vs-playwright/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)<br>
+- [https://freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev](https://freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev)<br>
 
 
 ## `React Architecture and Project setup`
