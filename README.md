@@ -558,6 +558,7 @@ Table of Contents
 - [https://hackernoon.com/advanced-react-router-v6-techniques-going-beyond-the-basics?source=rss](https://hackernoon.com/advanced-react-router-v6-techniques-going-beyond-the-basics?source=rss)<br>
 - [https://hackernoon.com/mastering-nested-routes-for-robust-web-applications-using-react-router-v6?source=rss](https://hackernoon.com/mastering-nested-routes-for-robust-web-applications-using-react-router-v6?source=rss)<br>
 - [https://www.freecodecamp.org/news/learn-react-router-v6-course/](https://www.freecodecamp.org/news/learn-react-router-v6-course/)<br>
+- [https://www.freecodecamp.org/news/learn-react-router-v6-course/?ref=dailydev](https://www.freecodecamp.org/news/learn-react-router-v6-course/?ref=dailydev)<br>
 
 ## React vs 
 - [https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue](https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue)<br>
