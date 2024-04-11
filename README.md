@@ -434,6 +434,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/](https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/)<br>
 - [https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)<br>
 - [https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502](https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502)<br>
+- [https://dev.to/phukon/how-i-structure-my-react-projects-1lk?ref=dailydev](https://dev.to/phukon/how-i-structure-my-react-projects-1lk?ref=dailydev)<br>
 
 
 ## `React checklist`
