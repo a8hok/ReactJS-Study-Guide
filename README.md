@@ -579,6 +579,7 @@ Table of Contents
 - [https://tkdodo.eu/blog/react-query-and-react-context](https://tkdodo.eu/blog/react-query-and-react-context)<br>
 - [https://blog.openreplay.com/enhancing-performance-with-react-query-caching/?ref=dailydev](https://blog.openreplay.com/enhancing-performance-with-react-query-caching/?ref=dailydev)<br>
 - [https://www.logicroom.co/blog/should-you-use-react-query?ref=dailydev](https://www.logicroom.co/blog/should-you-use-react-query?ref=dailydev)<br>
+- [https://blog.openreplay.com/tanstack-form--all-in-one-form-handling-for-react/?ref=dailydev](https://blog.openreplay.com/tanstack-form--all-in-one-form-handling-for-react/?ref=dailydev)<br>
 
 ## React deployment
 - [https://morioh.com/p/a2d3e3970a8c?f=603c719d1528b00f7934320a](https://morioh.com/p/a2d3e3970a8c?f=603c719d1528b00f7934320a)<br>
