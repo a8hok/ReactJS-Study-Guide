@@ -625,4 +625,5 @@ Table of Contents
 ## ReactJS 19
 - [https://www.codingcrafts.io/blog/react-19-upcoming-major-release/?ref=dailydev](https://www.codingcrafts.io/blog/react-19-upcoming-major-release/?ref=dailydev)
 - [https://www.freecodecamp.org/news/new-react-19-features/?ref=dailydev#-can-i-use-react-19-now](https://www.freecodecamp.org/news/new-react-19-features/?ref=dailydev#-can-i-use-react-19-now)<br>
+- [https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/?ref=dailydev](https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/?ref=dailydev)<br>
 
