@@ -91,6 +91,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/react-suspense/?ref=dailydev](https://www.freecodecamp.org/news/react-suspense/?ref=dailydev)<br>
  - [https://blog.openreplay.com/improving-form-performance-in-react/?ref=dailydev](https://blog.openreplay.com/improving-form-performance-in-react/?ref=dailydev)<br>
  - [https://maxtsh.medium.com/the-ultimate-guide-to-cache-busting-for-react-production-applications-d583e4248f02](https://maxtsh.medium.com/the-ultimate-guide-to-cache-busting-for-react-production-applications-d583e4248f02)<br>
+ - [https://blog.bitsrc.io/react-best-practices-55aca2f38606](https://blog.bitsrc.io/react-best-practices-55aca2f38606)<br>
  
 
 ## `React tips and Tricks`
