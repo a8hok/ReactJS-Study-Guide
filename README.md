@@ -93,6 +93,7 @@ Table of Contents
  - [https://blog.openreplay.com/improving-form-performance-in-react/?ref=dailydev](https://blog.openreplay.com/improving-form-performance-in-react/?ref=dailydev)<br>
  - [https://maxtsh.medium.com/the-ultimate-guide-to-cache-busting-for-react-production-applications-d583e4248f02](https://maxtsh.medium.com/the-ultimate-guide-to-cache-busting-for-react-production-applications-d583e4248f02)<br>
  - [https://blog.bitsrc.io/react-best-practices-55aca2f38606](https://blog.bitsrc.io/react-best-practices-55aca2f38606)<br>
+ - [https://tigerabrodi.blog/optimizing-react-context-and-re-renders?ref=dailydev](https://tigerabrodi.blog/optimizing-react-context-and-re-renders?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
