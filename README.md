@@ -55,6 +55,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/react-lifecycle-methods-and-hooks-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/react-lifecycle-methods-and-hooks-for-beginners/?ref=dailydev)<br>
  - [https://dev.to/refine/understanding-virtual-dom-in-react-2e8d?ref=dailydev](https://dev.to/refine/understanding-virtual-dom-in-react-2e8d?ref=dailydev)<br>
  - [https://www.freecodecamp.org/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/?ref=dailydev](https://www.freecodecamp.org/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/?ref=dailydev)<br>
+ - [https://medium.com/@princybhalu11/understanding-the-virtual-dom-structure-in-react-d437d2e526e0](https://medium.com/@princybhalu11/understanding-the-virtual-dom-structure-in-react-d437d2e526e0)<br>
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
