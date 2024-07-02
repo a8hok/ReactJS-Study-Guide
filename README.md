@@ -633,4 +633,5 @@ Table of Contents
 - [https://www.freecodecamp.org/news/new-react-19-features/?ref=dailydev#-can-i-use-react-19-now](https://www.freecodecamp.org/news/new-react-19-features/?ref=dailydev#-can-i-use-react-19-now)<br>
 - [https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/?ref=dailydev](https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/?ref=dailydev)<br>
 - [https://blog.saeloun.com/2024/06/05/new-hooks-in-react-19/?ref=dailydev](https://blog.saeloun.com/2024/06/05/new-hooks-in-react-19/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/whats-new-in-react-19/](https://www.freecodecamp.org/news/whats-new-in-react-19/)<br>
 
