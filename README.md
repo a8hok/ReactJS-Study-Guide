@@ -556,6 +556,7 @@ Table of Contents
 - [https://hojaleaks.com/10-github-repositories-every-react-developer-must-know?ref=dailydev](https://hojaleaks.com/10-github-repositories-every-react-developer-must-know?ref=dailydev)<br>
 - [https://github.com/rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)<br>
 - [https://github.com/alan2207/bulletproof-react?tab=readme-ov-file](https://github.com/alan2207/bulletproof-react?tab=readme-ov-file)<br>
+- [https://dev.to/jrmarcio_/github-repositories-every-software-engineer-should-know-2e80?ref=dailydev](https://dev.to/jrmarcio_/github-repositories-every-software-engineer-should-know-2e80?ref=dailydev)<br>
 
 
 ## React Linkedin
