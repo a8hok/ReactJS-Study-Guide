@@ -200,6 +200,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/react-usereducer-hook/?ref=dailydev](https://www.freecodecamp.org/news/react-usereducer-hook/?ref=dailydev)<br>
 - [https://tigerabrodi.blog/inline-ref-functions-in-react?ref=dailydev](https://tigerabrodi.blog/inline-ref-functions-in-react?ref=dailydev)<br>
 - [https://dev.to/yelldutz/understanding-react-hooks-3e69?ref=dailydev](https://dev.to/yelldutz/understanding-react-hooks-3e69?ref=dailydev)<br>
+- [https://www.telerik.com/blogs/react-useid-hook?ref=dailydev](https://www.telerik.com/blogs/react-useid-hook?ref=dailydev)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
