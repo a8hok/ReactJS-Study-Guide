@@ -618,6 +618,7 @@ Table of Contents
 
 ## React Modern development
 - [https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d](https://blog.bitsrc.io/modern-approach-to-react-development-090358b04e7d)<br>
+- [https://www.freecodecamp.org/news/learn-react-key-concepts/](https://www.freecodecamp.org/news/learn-react-key-concepts/)<br>
 
 ## React API
 - [https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/?ref=dailydev](https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/?ref=dailydev)<br>
