@@ -57,6 +57,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/?ref=dailydev](https://www.freecodecamp.org/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/?ref=dailydev)<br>
  - [https://medium.com/@princybhalu11/understanding-the-virtual-dom-structure-in-react-d437d2e526e0](https://medium.com/@princybhalu11/understanding-the-virtual-dom-structure-in-react-d437d2e526e0)<br>
  - [https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb](https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb)<br>
+ - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-2-0f1bd04c6915](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-2-0f1bd04c6915)<br>
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
