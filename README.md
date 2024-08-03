@@ -330,9 +330,9 @@ Table of Contents
   - [https://thenewstack.io/strategies-to-build-react-apps-in-a-client-side-architecture/?ref=dailydev](https://thenewstack.io/strategies-to-build-react-apps-in-a-client-side-architecture/?ref=dailydev)<br>
   
 ## `React Projects`
-- [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
-- [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
-- [https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/](https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/)<br>
+ - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
+ - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
+ - [https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/](https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/)<br>
  - [https://reactjsexample.com/a-video-conferencing-application-build-with-react/](https://reactjsexample.com/a-video-conferencing-application-build-with-react/)<br>
  - [https://reactjsexample.com/netflix-clone-with-react-styled-components-axios/](https://reactjsexample.com/netflix-clone-with-react-styled-components-axios/)<br>
  - [https://reactjsexample.com/youtube-clone-build-using-react-js/](https://reactjsexample.com/youtube-clone-build-using-react-js/)<br>
@@ -388,6 +388,7 @@ Table of Contents
  - [https://dev.to/abdulbasit313/i-published-4-free-reactjs-coding-challenges-build-functionality-for-responsive-ui-35o](https://dev.to/abdulbasit313/i-published-4-free-reactjs-coding-challenges-build-functionality-for-responsive-ui-35o)<br>
  - [https://blog.openreplay.com/how-to-perform-jwt-authentication-with-react/](https://blog.openreplay.com/how-to-perform-jwt-authentication-with-react/)<br>
  - [https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/?ref=dailydev](https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/?ref=dailydev)<br>
+ - [https://dev.to/jenesh/add-eslint-to-a-react-project-1m32?ref=dailydev](https://dev.to/jenesh/add-eslint-to-a-react-project-1m32?ref=dailydev)<br>
  
 
 ## `React Unittest`
