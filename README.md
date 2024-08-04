@@ -328,6 +328,7 @@ Table of Contents
   - [https://www.telerik.com/blogs/react-basics-working-react-objects?ref=dailydev](https://www.telerik.com/blogs/react-basics-working-react-objects?ref=dailydev)<br>
   - [https://hackernoon.com/mastering-higher-order-components-hocs-in-react?source=rss&ref=dailydev](https://hackernoon.com/mastering-higher-order-components-hocs-in-react?source=rss&ref=dailydev)<br>
   - [https://thenewstack.io/strategies-to-build-react-apps-in-a-client-side-architecture/?ref=dailydev](https://thenewstack.io/strategies-to-build-react-apps-in-a-client-side-architecture/?ref=dailydev)<br>
+  - [https://dev.to/jitendrachoudhary/every-react-concept-explained-in-5-minutes-39b9?ref=dailydev](https://dev.to/jitendrachoudhary/every-react-concept-explained-in-5-minutes-39b9?ref=dailydev)<br>
   
 ## `React Projects`
  - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
