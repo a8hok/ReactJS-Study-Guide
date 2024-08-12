@@ -330,6 +330,7 @@ Table of Contents
   - [https://hackernoon.com/mastering-higher-order-components-hocs-in-react?source=rss&ref=dailydev](https://hackernoon.com/mastering-higher-order-components-hocs-in-react?source=rss&ref=dailydev)<br>
   - [https://thenewstack.io/strategies-to-build-react-apps-in-a-client-side-architecture/?ref=dailydev](https://thenewstack.io/strategies-to-build-react-apps-in-a-client-side-architecture/?ref=dailydev)<br>
   - [https://dev.to/jitendrachoudhary/every-react-concept-explained-in-5-minutes-39b9?ref=dailydev](https://dev.to/jitendrachoudhary/every-react-concept-explained-in-5-minutes-39b9?ref=dailydev)<br>
+  - [https://blog.joshsoftware.com/2024/05/28/understanding-prop-drilling-in-react-a-case-study-of-an-e-commerce-shopping-cart/?ref=dailydev](https://blog.joshsoftware.com/2024/05/28/understanding-prop-drilling-in-react-a-case-study-of-an-e-commerce-shopping-cart/?ref=dailydev)<br>
   
 ## `React Projects`
  - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
