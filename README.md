@@ -134,6 +134,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/improve-reactjs-code/](https://www.freecodecamp.org/news/improve-reactjs-code/)<br>
  - [https://itnext.io/solid-in-react-the-good-the-bad-and-the-awesome-79d6cc518d1f](https://itnext.io/solid-in-react-the-good-the-bad-and-the-awesome-79d6cc518d1f)<br>
  - [https://dev.to/_ndeyefatoudiop/101-react-tips-tricks-for-beginners-to-experts-4m11?ref=dailydev](https://dev.to/_ndeyefatoudiop/101-react-tips-tricks-for-beginners-to-experts-4m11?ref=dailydev)<br>
+ - [https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev](https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev)<br>
 
 ## `React Hooks`
 - [https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6)<br>
