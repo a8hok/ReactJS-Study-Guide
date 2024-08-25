@@ -434,6 +434,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)<br>
 - [https://freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev](https://freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev)<br>
 - [https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev](https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev)<br>
+- [https://circleci.com/blog/viewport-testing-with-cypress/?ref=dailydev](https://circleci.com/blog/viewport-testing-with-cypress/?ref=dailydev)<br>
 
 
 
