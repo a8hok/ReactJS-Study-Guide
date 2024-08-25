@@ -396,8 +396,8 @@ Table of Contents
  
 
 ## `React Unittest`
- - [https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx](https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx)<br>
- - [https://www.valentinog.com/blog/jest/#bonus-es-modules-with-jest](https://www.valentinog.com/blog/jest/#bonus-es-modules-with-jest)<br>
+- [https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx](https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx)<br>
+- [https://www.valentinog.com/blog/jest/#bonus-es-modules-with-jest](https://www.valentinog.com/blog/jest/#bonus-es-modules-with-jest)<br>
 - [https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)<br>
 - [https://www.robinwieruch.de/react-testing-library](https://www.robinwieruch.de/react-testing-library)<br>
 - [https://testing-library.com/docs/react-testing-library/intro](https://testing-library.com/docs/react-testing-library/intro)<br>
@@ -435,6 +435,7 @@ Table of Contents
 - [https://freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev](https://freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev)<br>
 - [https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev](https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev)<br>
 - [https://circleci.com/blog/viewport-testing-with-cypress/?ref=dailydev](https://circleci.com/blog/viewport-testing-with-cypress/?ref=dailydev)<br>
+- [https://devdojo.com/keploy/step-by-step-guide-to-testing-react-components-with-jest-and-react-testing-library](https://devdojo.com/keploy/step-by-step-guide-to-testing-react-components-with-jest-and-react-testing-library)<br>
 
 
 
