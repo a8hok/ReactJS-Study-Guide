@@ -436,6 +436,7 @@ Table of Contents
 - [https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev](https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev)<br>
 - [https://circleci.com/blog/viewport-testing-with-cypress/?ref=dailydev](https://circleci.com/blog/viewport-testing-with-cypress/?ref=dailydev)<br>
 - [https://devdojo.com/keploy/step-by-step-guide-to-testing-react-components-with-jest-and-react-testing-library](https://devdojo.com/keploy/step-by-step-guide-to-testing-react-components-with-jest-and-react-testing-library)<br>
+  - [https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/](https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/)<<br>
 
 
 
