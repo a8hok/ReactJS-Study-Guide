@@ -58,6 +58,7 @@ Table of Contents
  - [https://medium.com/@princybhalu11/understanding-the-virtual-dom-structure-in-react-d437d2e526e0](https://medium.com/@princybhalu11/understanding-the-virtual-dom-structure-in-react-d437d2e526e0)<br>
  - [https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb](https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb)<br>
  - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-2-0f1bd04c6915](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-2-0f1bd04c6915)<br>
+ 
 
 ## `React Road map for beginners`
  - [https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)<br>
@@ -521,6 +522,7 @@ Table of Contents
 - [https://www.syncfusion.com/blogs/post/virtual-dom-vs-shadow-dom-what-every-developer-should-know.aspx](https://www.syncfusion.com/blogs/post/virtual-dom-vs-shadow-dom-what-every-developer-should-know.aspx)<br>
 - [https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)<br>
 - [https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e](https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e)<br>
+- [https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb](https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb)<br>
 
 
 ## `Redux`
