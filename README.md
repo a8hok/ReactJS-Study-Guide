@@ -98,6 +98,7 @@ Table of Contents
  - [https://maxtsh.medium.com/the-ultimate-guide-to-cache-busting-for-react-production-applications-d583e4248f02](https://maxtsh.medium.com/the-ultimate-guide-to-cache-busting-for-react-production-applications-d583e4248f02)<br>
  - [https://blog.bitsrc.io/react-best-practices-55aca2f38606](https://blog.bitsrc.io/react-best-practices-55aca2f38606)<br>
  - [https://tigerabrodi.blog/optimizing-react-context-and-re-renders?ref=dailydev](https://tigerabrodi.blog/optimizing-react-context-and-re-renders?ref=dailydev)<br>
+ - [https://dorendev.hashnode.dev/how-to-optimize-your-react-app-for-better-performance?ref=dailydev](https://dorendev.hashnode.dev/how-to-optimize-your-react-app-for-better-performance?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
