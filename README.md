@@ -99,6 +99,7 @@ Table of Contents
  - [https://blog.bitsrc.io/react-best-practices-55aca2f38606](https://blog.bitsrc.io/react-best-practices-55aca2f38606)<br>
  - [https://tigerabrodi.blog/optimizing-react-context-and-re-renders?ref=dailydev](https://tigerabrodi.blog/optimizing-react-context-and-re-renders?ref=dailydev)<br>
  - [https://dorendev.hashnode.dev/how-to-optimize-your-react-app-for-better-performance?ref=dailydev](https://dorendev.hashnode.dev/how-to-optimize-your-react-app-for-better-performance?ref=dailydev)<br>
+ - [https://javascript.plainenglish.io/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2](https://javascript.plainenglish.io/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2)<br>
  
 
 ## `React tips and Tricks`
