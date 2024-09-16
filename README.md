@@ -215,6 +215,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/react-context-api-tutorial-examples/?ref=dailydev](https://www.freecodecamp.org/news/react-context-api-tutorial-examples/?ref=dailydev)<br>
 - [https://www.syncfusion.com/blogs/post/react-hooks-vs-redux?ref=dailydev](https://www.syncfusion.com/blogs/post/react-hooks-vs-redux?ref=dailydev)<br>
 - [https://medium.com/@tech-adventurer/mastering-react-hooks-738bf8fb3425](https://medium.com/@tech-adventurer/mastering-react-hooks-738bf8fb3425)<br>
+- [https://travislramos.com/blog/react-hooks-for-beginners?ref=dailydev](https://travislramos.com/blog/react-hooks-for-beginners?ref=dailydev)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
