@@ -217,6 +217,7 @@ Table of Contents
 - [https://medium.com/@tech-adventurer/mastering-react-hooks-738bf8fb3425](https://medium.com/@tech-adventurer/mastering-react-hooks-738bf8fb3425)<br>
 - [https://travislramos.com/blog/react-hooks-for-beginners?ref=dailydev](https://travislramos.com/blog/react-hooks-for-beginners?ref=dailydev)<br>
 - [https://www.telerik.com/blogs/react-context-new-use-api?ref=dailydev](https://www.telerik.com/blogs/react-context-new-use-api?ref=dailydev)<br>
+- [https://javascript.plainenglish.io/mastering-reacts-useeffect-common-pitfalls-and-best-practices-885e791a1645](https://javascript.plainenglish.io/mastering-reacts-useeffect-common-pitfalls-and-best-practices-885e791a1645)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
