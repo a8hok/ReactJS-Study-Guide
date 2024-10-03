@@ -672,6 +672,7 @@ Table of Contents
 - [https://blog.saeloun.com/2024/06/05/new-hooks-in-react-19/?ref=dailydev](https://blog.saeloun.com/2024/06/05/new-hooks-in-react-19/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/whats-new-in-react-19/](https://www.freecodecamp.org/news/whats-new-in-react-19/)<br>
 - [https://www.freecodecamp.org/news/react-19-actions-simpliy-form-submission-and-loading-states/](https://www.freecodecamp.org/news/react-19-actions-simpliy-form-submission-and-loading-states/)<br>
+- [https://www.epicreact.dev/react-19-cheatsheet?ref=dailydev](https://www.epicreact.dev/react-19-cheatsheet?ref=dailydev)<br>
 
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
