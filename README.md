@@ -405,6 +405,7 @@ Table of Contents
  - [https://blog.openreplay.com/how-to-perform-jwt-authentication-with-react/](https://blog.openreplay.com/how-to-perform-jwt-authentication-with-react/)<br>
  - [https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/?ref=dailydev](https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/?ref=dailydev)<br>
  - [https://dev.to/jenesh/add-eslint-to-a-react-project-1m32?ref=dailydev](https://dev.to/jenesh/add-eslint-to-a-react-project-1m32?ref=dailydev)<br>
+ - [https://spacejelly.dev/posts/generate-a-pdf-from-html-in-javascript?ref=dailydev](https://spacejelly.dev/posts/generate-a-pdf-from-html-in-javascript?ref=dailydev)<br>
  
 
 ## `React Unittest`
