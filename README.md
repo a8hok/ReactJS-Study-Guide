@@ -406,6 +406,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/?ref=dailydev](https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/?ref=dailydev)<br>
  - [https://dev.to/jenesh/add-eslint-to-a-react-project-1m32?ref=dailydev](https://dev.to/jenesh/add-eslint-to-a-react-project-1m32?ref=dailydev)<br>
  - [https://spacejelly.dev/posts/generate-a-pdf-from-html-in-javascript?ref=dailydev](https://spacejelly.dev/posts/generate-a-pdf-from-html-in-javascript?ref=dailydev)<br>
+ - [https://dev.to/tailwindcss/21-top-react-footer-components-to-use-in-2024-4e8o?ref=dailydev](https://dev.to/tailwindcss/21-top-react-footer-components-to-use-in-2024-4e8o?ref=dailydev)<br>
  
 
 ## `React Unittest`
