@@ -449,8 +449,8 @@ Table of Contents
 - [https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev](https://blog.logrocket.com/advanced-guide-vitest-testing-mocking/?ref=dailydev)<br>
 - [https://circleci.com/blog/viewport-testing-with-cypress/?ref=dailydev](https://circleci.com/blog/viewport-testing-with-cypress/?ref=dailydev)<br>
 - [https://devdojo.com/keploy/step-by-step-guide-to-testing-react-components-with-jest-and-react-testing-library](https://devdojo.com/keploy/step-by-step-guide-to-testing-react-components-with-jest-and-react-testing-library)<br>
-  - [https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/](https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/)<<br>
-  - [https://www.cypress.io/blog/debugging-with-cypress-vs-playwright](https://www.cypress.io/blog/debugging-with-cypress-vs-playwright)<br>
+- [https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/](https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/)<<br>
+- [https://www.cypress.io/blog/debugging-with-cypress-vs-playwright](https://www.cypress.io/blog/debugging-with-cypress-vs-playwright)<br>
 
 
 
@@ -478,6 +478,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)<br>
 - [https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502](https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502)<br>
 - [https://dev.to/phukon/how-i-structure-my-react-projects-1lk?ref=dailydev](https://dev.to/phukon/how-i-structure-my-react-projects-1lk?ref=dailydev)<br>
+- [https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)<br>
 
 
 ## `React checklist`
