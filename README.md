@@ -224,6 +224,7 @@ Table of Contents
 - [https://travislramos.com/blog/react-hooks-for-beginners?ref=dailydev](https://travislramos.com/blog/react-hooks-for-beginners?ref=dailydev)<br>
 - [https://www.telerik.com/blogs/react-context-new-use-api?ref=dailydev](https://www.telerik.com/blogs/react-context-new-use-api?ref=dailydev)<br>
 - [https://javascript.plainenglish.io/mastering-reacts-useeffect-common-pitfalls-and-best-practices-885e791a1645](https://javascript.plainenglish.io/mastering-reacts-useeffect-common-pitfalls-and-best-practices-885e791a1645)<br>
+- [https://codaily.dev/react/understanding-reacts-usestate-hook?ref=dailydev](https://codaily.dev/react/understanding-reacts-usestate-hook?ref=dailydev)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
