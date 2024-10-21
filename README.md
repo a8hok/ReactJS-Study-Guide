@@ -244,6 +244,7 @@ Table of Contents
 - [https://hackernoon.com/13-useful-react-libraries-for-devs-in-2023?source=rss](https://hackernoon.com/13-useful-react-libraries-for-devs-in-2023?source=rss)<br>
 - [https://marmelab.com/blog/2024/06/20/react-admin-v5.html?ref=dailydev](https://marmelab.com/blog/2024/06/20/react-admin-v5.html?ref=dailydev)<br>
 - [https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m?ref=dailydev](https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m?ref=dailydev)<br>
+- [https://prismic.io/blog/react-component-libraries?ref=dailydev](https://prismic.io/blog/react-component-libraries?ref=dailydev)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
