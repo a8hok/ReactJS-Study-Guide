@@ -692,3 +692,6 @@ Table of Contents
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
 
+## ReactJS with dev-ops projects
+- [https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)<br>
+
