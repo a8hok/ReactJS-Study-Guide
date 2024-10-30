@@ -412,6 +412,7 @@ Table of Contents
  - [https://dev.to/jenesh/add-eslint-to-a-react-project-1m32?ref=dailydev](https://dev.to/jenesh/add-eslint-to-a-react-project-1m32?ref=dailydev)<br>
  - [https://spacejelly.dev/posts/generate-a-pdf-from-html-in-javascript?ref=dailydev](https://spacejelly.dev/posts/generate-a-pdf-from-html-in-javascript?ref=dailydev)<br>
  - [https://dev.to/tailwindcss/21-top-react-footer-components-to-use-in-2024-4e8o?ref=dailydev](https://dev.to/tailwindcss/21-top-react-footer-components-to-use-in-2024-4e8o?ref=dailydev)<br>
+ - [https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2?ref=dailydev](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2?ref=dailydev)<br>
  
 
 ## `React Unittest`
