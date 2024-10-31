@@ -544,6 +544,7 @@ Table of Contents
 - [https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)<br>
 - [https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e](https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e)<br>
 - [https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb](https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb)<br>
+- [https://prismic.io/blog/react-component-libraries?ref=dailydev](https://prismic.io/blog/react-component-libraries?ref=dailydev)<br>
 
 
 ## `Redux`
@@ -689,7 +690,7 @@ Table of Contents
 - [https://www.epicreact.dev/react-19-cheatsheet?ref=dailydev](https://www.epicreact.dev/react-19-cheatsheet?ref=dailydev)<br>
 - [https://dev.to/vyan/whats-new-in-react-19-a-deep-dive-into-the-latest-features-3gp2?ref=dailydev](https://dev.to/vyan/whats-new-in-react-19-a-deep-dive-into-the-latest-features-3gp2?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/?ref=dailydev](https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/?ref=dailydev)<br>
-- [https://prismic.io/blog/react-component-libraries?ref=dailydev](https://prismic.io/blog/react-component-libraries?ref=dailydev)<br>
+- [https://www.syncfusion.com/blogs/post/whats-new-in-react-19?ref=dailydev](https://www.syncfusion.com/blogs/post/whats-new-in-react-19?ref=dailydev)<br>
 
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
