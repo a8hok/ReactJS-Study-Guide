@@ -226,6 +226,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/mastering-reacts-useeffect-common-pitfalls-and-best-practices-885e791a1645](https://javascript.plainenglish.io/mastering-reacts-useeffect-common-pitfalls-and-best-practices-885e791a1645)<br>
 - [https://codaily.dev/react/understanding-reacts-usestate-hook?ref=dailydev](https://codaily.dev/react/understanding-reacts-usestate-hook?ref=dailydev)<br>
 - [https://codermo.medium.com/how-to-build-a-react-hook-for-telegram-authentication-step-by-step-6b76847081e7](https://codermo.medium.com/how-to-build-a-react-hook-for-telegram-authentication-step-by-step-6b76847081e7)<br>
+- [https://github.com/a8hok/ReactJS-Study-Guide.git](https://github.com/a8hok/ReactJS-Study-Guide.git)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
