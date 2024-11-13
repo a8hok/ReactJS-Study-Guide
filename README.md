@@ -461,6 +461,7 @@ Table of Contents
 - [https://devdojo.com/keploy/step-by-step-guide-to-testing-react-components-with-jest-and-react-testing-library](https://devdojo.com/keploy/step-by-step-guide-to-testing-react-components-with-jest-and-react-testing-library)<br>
 - [https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/](https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/)<<br>
 - [https://www.cypress.io/blog/debugging-with-cypress-vs-playwright](https://www.cypress.io/blog/debugging-with-cypress-vs-playwright)<br>
+- [https://medium.com/@mustafaskyer/getting-started-with-playwright-0cb92b8af81e](https://medium.com/@mustafaskyer/getting-started-with-playwright-0cb92b8af81e)<br>
 
 
 
