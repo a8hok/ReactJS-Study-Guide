@@ -273,6 +273,7 @@ Table of Contents
  - [https://dev.to/this-is-learning/react-query-authentication-flow-id2](https://dev.to/this-is-learning/react-query-authentication-flow-id2)<br>
  - [https://nerdleveltech.com/mastering-the-react-interview-top-questions-and-best-practices/](https://nerdleveltech.com/mastering-the-react-interview-top-questions-and-best-practices/)<br>
  - [https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions?ref=dailydev](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions?ref=dailydev)<br>
+ - [https://codaily.dev/blog/react/react-interview-guide-master-essential-skills-to-land-the-job?ref=dailydev](https://codaily.dev/blog/react/react-interview-guide-master-essential-skills-to-land-the-job?ref=dailydev)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
