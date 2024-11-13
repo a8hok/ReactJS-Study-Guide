@@ -569,6 +569,8 @@ Table of Contents
 - [https://www.sitepoint.com/top-redux-alternatives-exploring-state-management-solutions/?utm_source=rss&ref=dailydev](https://www.sitepoint.com/top-redux-alternatives-exploring-state-management-solutions/?utm_source=rss&ref=dailydev)<br>
 - [https://dev.to/ibrahima92/7-steps-to-understand-react-redux-121j?ref=dailydev](https://dev.to/ibrahima92/7-steps-to-understand-react-redux-121j?ref=dailydev)<br>
 - [https://towardsdev.com/redux-from-scratch-implementation-205c5b3be018](https://towardsdev.com/redux-from-scratch-implementation-205c5b3be018)<br>
+ - [https://codaily.dev/blog/react/the-battle-of-state-management-react-hooks-vs-redux?ref=dailydev](https://codaily.dev/blog/react/the-battle-of-state-management-react-hooks-vs-redux?ref=dailydev)<br>
+
 
 
 ## `React GraphQL`
