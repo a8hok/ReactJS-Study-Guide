@@ -624,6 +624,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/learn-react-router-v6-course/](https://www.freecodecamp.org/news/learn-react-router-v6-course/)<br>
 - [https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/?ref=dailydev](https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/?ref=dailydev)<br>
 - [https://swizec.com/blog/tips-from-8-months-of-tan-stack-router-in-production/?ref=dailydev](https://swizec.com/blog/tips-from-8-months-of-tan-stack-router-in-production/?ref=dailydev)<br>
+- [https://appwrite.io/blog/post/react-protected-routes?ref=dailydev](https://appwrite.io/blog/post/react-protected-routes?ref=dailydev)<br>
 
 ## React vs 
 - [https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue](https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue)<br>
