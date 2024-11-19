@@ -62,6 +62,7 @@ Table of Contents
  - [https://medium.com/@princybhalu11/understanding-the-virtual-dom-structure-in-react-d437d2e526e0](https://medium.com/@princybhalu11/understanding-the-virtual-dom-structure-in-react-d437d2e526e0)<br>
  - [https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb](https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb)<br>
  - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-2-0f1bd04c6915](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-2-0f1bd04c6915)<br>
+ - [https://codaily.dev/blog/react?ref=dailydev](https://codaily.dev/blog/react?ref=dailydev)<br>
  
 
 ## `React Road map for beginners`
