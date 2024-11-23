@@ -552,6 +552,7 @@ Table of Contents
 - [https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e](https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e)<br>
 - [https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb](https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb)<br>
 - [https://prismic.io/blog/react-component-libraries?ref=dailydev](https://prismic.io/blog/react-component-libraries?ref=dailydev)<br>
+- [https://www.developerway.com/posts/react-re-renders-guide?ref=dailydev#part3.1](https://www.developerway.com/posts/react-re-renders-guide?ref=dailydev#part3.1)<br>
 
 
 ## `Redux`
