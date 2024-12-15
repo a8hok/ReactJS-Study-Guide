@@ -277,6 +277,7 @@ Table of Contents
  - [https://nerdleveltech.com/mastering-the-react-interview-top-questions-and-best-practices/](https://nerdleveltech.com/mastering-the-react-interview-top-questions-and-best-practices/)<br>
  - [https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions?ref=dailydev](https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions?ref=dailydev)<br>
  - [https://codaily.dev/blog/react/react-interview-guide-master-essential-skills-to-land-the-job?ref=dailydev](https://codaily.dev/blog/react/react-interview-guide-master-essential-skills-to-land-the-job?ref=dailydev)<br>
+ - [https://reactpractice.dev/articles/7-challenges-to-do-before-a-react-interview/?ref=dailydev](https://reactpractice.dev/articles/7-challenges-to-do-before-a-react-interview/?ref=dailydev)<br>
 
 ## `React Learn`
  - [https://www.freecodecamp.org/news/react-props-cheatsheet/](https://www.freecodecamp.org/news/react-props-cheatsheet/)<br>
