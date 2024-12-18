@@ -706,6 +706,7 @@ Table of Contents
 - [https://dev.to/vyan/whats-new-in-react-19-a-deep-dive-into-the-latest-features-3gp2?ref=dailydev](https://dev.to/vyan/whats-new-in-react-19-a-deep-dive-into-the-latest-features-3gp2?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/?ref=dailydev](https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/?ref=dailydev)<br>
 - [https://www.syncfusion.com/blogs/post/whats-new-in-react-19?ref=dailydev](https://www.syncfusion.com/blogs/post/whats-new-in-react-19?ref=dailydev)<br>
+- [https://dev.to/thisweekinjavascript/react-19-finally-stable-new-rust-based-javascript-framework-new-developer-tools-and-more-5aj5?ref=dailydev](https://dev.to/thisweekinjavascript/react-19-finally-stable-new-rust-based-javascript-framework-new-developer-tools-and-more-5aj5?ref=dailydev)<br>
 
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
