@@ -421,6 +421,7 @@ Table of Contents
  - [https://dev.to/tailwindcss/21-top-react-footer-components-to-use-in-2024-4e8o?ref=dailydev](https://dev.to/tailwindcss/21-top-react-footer-components-to-use-in-2024-4e8o?ref=dailydev)<br>
  - [https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2?ref=dailydev](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2?ref=dailydev)<br>
  - [https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci?ref=dailydev](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci?ref=dailydev)<br>
+ - [https://www.deepdev.org/blog/react-project-ideas-practical-features-guide?ref=dailydev](https://www.deepdev.org/blog/react-project-ideas-practical-features-guide?ref=dailydev)<br>
  
 
 ## `React Unittest`
