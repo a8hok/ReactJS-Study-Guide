@@ -231,6 +231,7 @@ Table of Contents
 - [https://github.com/a8hok/ReactJS-Study-Guide.git](https://github.com/a8hok/ReactJS-Study-Guide.git)<br>
 - [https://robinmalfait.com/blog/conditional-react-hooks-pattern?ref=dailydev](https://robinmalfait.com/blog/conditional-react-hooks-pattern?ref=dailydev)<br>
 - [https://codaily.dev/blog/react/understanding-reacts-useeffect-hook?ref=dailydev](https://codaily.dev/blog/react/understanding-reacts-useeffect-hook?ref=dailydev)<br>
+- [https://dev.to/perssondennis/write-solid-react-hooks-436o?ref=dailydev](https://dev.to/perssondennis/write-solid-react-hooks-436o?ref=dailydev)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
