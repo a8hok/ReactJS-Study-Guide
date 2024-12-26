@@ -619,6 +619,7 @@ Table of Contents
 - [https://github.com/rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)<br>
 - [https://github.com/alan2207/bulletproof-react?tab=readme-ov-file](https://github.com/alan2207/bulletproof-react?tab=readme-ov-file)<br>
 - [https://dev.to/jrmarcio_/github-repositories-every-software-engineer-should-know-2e80?ref=dailydev](https://dev.to/jrmarcio_/github-repositories-every-software-engineer-should-know-2e80?ref=dailydev)<br>
+- [https://dev.to/livecycle/top-github-repositories-to-learn-modern-react-development-5d3h?ref=dailydev](https://dev.to/livecycle/top-github-repositories-to-learn-modern-react-development-5d3h?ref=dailydev)<br>
 
 
 ## React Linkedin
