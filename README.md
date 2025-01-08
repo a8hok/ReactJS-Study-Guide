@@ -716,6 +716,7 @@ Table of Contents
 - [https://dev.to/thisweekinjavascript/react-19-finally-stable-new-rust-based-javascript-framework-new-developer-tools-and-more-5aj5?ref=dailydev](https://dev.to/thisweekinjavascript/react-19-finally-stable-new-rust-based-javascript-framework-new-developer-tools-and-more-5aj5?ref=dailydev)<br>
 - [https://flaviocopes.com/the-useformstatus-hook/?ref=dailydev](https://flaviocopes.com/the-useformstatus-hook/?ref=dailydev)<br>
 - [https://aleks-elkin.github.io/posts/2024-12-06-react-19/?ref=dailydev](https://aleks-elkin.github.io/posts/2024-12-06-react-19/?ref=dailydev)<br>
+- [https://dev.to/mukhilpadmanabhan/react-19-the-features-you-need-to-know-55h6?ref=dailydev](https://dev.to/mukhilpadmanabhan/react-19-the-features-you-need-to-know-55h6?ref=dailydev)<br>
 
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
