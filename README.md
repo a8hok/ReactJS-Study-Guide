@@ -649,6 +649,7 @@ Table of Contents
 - [https://hackernoon.com/why-react-developers-love-preact?source=rss](https://hackernoon.com/why-react-developers-love-preact?source=rss)<br>
 - [https://www.brandfordtech.com/posts/next-js-vs-react-which-one-is-better-for-your-web-development-needs](https://www.brandfordtech.com/posts/next-js-vs-react-which-one-is-better-for-your-web-development-needs)<br>
 - [https://dzone.com/articles/nextjs-vs-react-the-ultimate-guide-to-choosing-the](https://dzone.com/articles/nextjs-vs-react-the-ultimate-guide-to-choosing-the)<br>
+- [https://www.freecodecamp.org/news/nextjs-vs-react-differences/?ref=dailydev](https://www.freecodecamp.org/news/nextjs-vs-react-differences/?ref=dailydev)<br>
 
 ## React newsletter
 - [https://thisweekinreact.com/](https://thisweekinreact.com/)<br>
