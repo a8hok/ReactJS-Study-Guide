@@ -147,6 +147,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/react-best-practices-ever-developer-should-know/?ref=dailydev](https://www.freecodecamp.org/news/react-best-practices-ever-developer-should-know/?ref=dailydev)<br>
  - [https://dev.to/_ndeyefatoudiop/101-react-tips-tricks-for-beginners-to-experts-4m11?ref=dailydev](https://dev.to/_ndeyefatoudiop/101-react-tips-tricks-for-beginners-to-experts-4m11?ref=dailydev)<br>
  - [https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)<br>
+ - [https://www.frontendjoy.com/p/17-tips-from-a-senior-react-developer?ref=dailydev](https://www.frontendjoy.com/p/17-tips-from-a-senior-react-developer?ref=dailydev)<br>
  
 
 ## `React Hooks`
