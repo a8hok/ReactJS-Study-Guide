@@ -63,6 +63,7 @@ Table of Contents
  - [https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb](https://baguilar6174.medium.com/react-design-patterns-6ab55c5ebafb)<br>
  - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-2-0f1bd04c6915](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-2-0f1bd04c6915)<br>
  - [https://codaily.dev/blog/react?ref=dailydev](https://codaily.dev/blog/react?ref=dailydev)<br>
+ - [https://www.frontendjoy.com/p/react-lifecycle-in-3-minutes?ref=dailydev](https://www.frontendjoy.com/p/react-lifecycle-in-3-minutes?ref=dailydev)<br>
  
 
 ## `React Road map for beginners`
