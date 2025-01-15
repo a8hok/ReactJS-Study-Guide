@@ -256,6 +256,7 @@ Table of Contents
 - [https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m?ref=dailydev](https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m?ref=dailydev)<br>
 - [https://prismic.io/blog/react-component-libraries?ref=dailydev](https://prismic.io/blog/react-component-libraries?ref=dailydev)<br>
 - [https://greyboyle.hashnode.dev/easy-react-animation-with-gsap?ref=dailydev](https://greyboyle.hashnode.dev/easy-react-animation-with-gsap?ref=dailydev)<br>
+- [https://www.syncfusion.com/blogs/post/top-5-react-chart-libraries-2025?ref=dailydev](https://www.syncfusion.com/blogs/post/top-5-react-chart-libraries-2025?ref=dailydev)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
