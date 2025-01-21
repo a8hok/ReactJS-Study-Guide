@@ -432,6 +432,7 @@ Table of Contents
  - [https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2?ref=dailydev](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2?ref=dailydev)<br>
  - [https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci?ref=dailydev](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci?ref=dailydev)<br>
  - [https://www.deepdev.org/blog/react-project-ideas-practical-features-guide?ref=dailydev](https://www.deepdev.org/blog/react-project-ideas-practical-features-guide?ref=dailydev)<br>
+ - [https://www.sitepoint.com/google-auth-react-express/?ref=dailydev](https://www.sitepoint.com/google-auth-react-express/?ref=dailydev)<br>
  
 
 ## `React Unittest`
