@@ -509,6 +509,7 @@ Table of Contents
 - [https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502](https://aws.plainenglish.io/deploy-mern-app-to-aws-using-cloudformation-and-ansible-5caeac42d502)<br>
 - [https://dev.to/phukon/how-i-structure-my-react-projects-1lk?ref=dailydev](https://dev.to/phukon/how-i-structure-my-react-projects-1lk?ref=dailydev)<br>
 - [https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)<br>
+- [https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/?ref=dailydev](https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/?ref=dailydev)<br>
 
 
 ## `React checklist`
