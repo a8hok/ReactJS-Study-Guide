@@ -481,6 +481,7 @@ Table of Contents
 - [https://medium.com/@mustafaskyer/getting-started-with-playwright-0cb92b8af81e](https://medium.com/@mustafaskyer/getting-started-with-playwright-0cb92b8af81e)<br>
 - [https://dev.to/mayallo/unit-integration-and-e2e-testing-in-one-example-using-jest-1h6p?ref=dailydev](https://dev.to/mayallo/unit-integration-and-e2e-testing-in-one-example-using-jest-1h6p?ref=dailydev)<br>
 - [https://brieflur.com/advanced-jest-techniques-mocks-spies-and-stubs/?ref=dailydev](https://brieflur.com/advanced-jest-techniques-mocks-spies-and-stubs/?ref=dailydev)<br>
+- [https://leapcell.io/blog/why-playwright-is-dominating-browser-automation-a-deep-dive?ref=dailydev](https://leapcell.io/blog/why-playwright-is-dominating-browser-automation-a-deep-dive?ref=dailydev)<br>
 
 
 
