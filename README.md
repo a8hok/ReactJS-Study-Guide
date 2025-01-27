@@ -511,6 +511,7 @@ Table of Contents
 - [https://dev.to/phukon/how-i-structure-my-react-projects-1lk?ref=dailydev](https://dev.to/phukon/how-i-structure-my-react-projects-1lk?ref=dailydev)<br>
 - [https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)<br>
 - [https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/?ref=dailydev](https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/?ref=dailydev)<br>
+- [https://github.com/yeasin2002/react-ts-starter?ref=dailydev](https://github.com/yeasin2002/react-ts-starter?ref=dailydev)<br>
 
 
 ## `React checklist`
