@@ -71,6 +71,7 @@ Table of Contents
  - [https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn](https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn)<br>
  - [https://dev.to/dhiwise/advanced-roadmap-for-reactjs-developers-108d](https://dev.to/dhiwise/advanced-roadmap-for-reactjs-developers-108d)<br>
  - [https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257](https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257)<br>
+ - [https://www.onepin.io/roadmap/A-visual-timeline-roadmap-to-master-React-in-03-months-679266451dd9295920315d17](https://www.onepin.io/roadmap/A-visual-timeline-roadmap-to-master-React-in-03-months-679266451dd9295920315d17)<br>
  
 
  ## `React Performance`
@@ -739,4 +740,6 @@ Table of Contents
 
 ## ReactJS with dev-ops projects
 - [https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)<br>
+
+## ReactJs
 
