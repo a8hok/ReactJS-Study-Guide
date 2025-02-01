@@ -742,5 +742,7 @@ Table of Contents
 ## ReactJS with dev-ops projects
 - [https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)<br>
 
-## ReactJs
+## ReactJS server components
+- [https://tonyalicea.dev/blog/understanding-react-server-components/?ref=dailydev](https://tonyalicea.dev/blog/understanding-react-server-components/?ref=dailydev)<br>
+
 
