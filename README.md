@@ -554,6 +554,7 @@ Table of Contents
 - [https://itnext.io/best-practices-of-typescript-decorator-pattern-in-react-the-future-of-react-36685d683a5a](https://itnext.io/best-practices-of-typescript-decorator-pattern-in-react-the-future-of-react-36685d683a5a)<br>
 - [https://dev.to/jagroop2001/learn-typescript-from-a-to-z-3a11](https://dev.to/jagroop2001/learn-typescript-from-a-to-z-3a11)<br>
 - [https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/](https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/)<br>
+- [https://www.jacobparis.com/content/react-ts?ref=dailydev](https://www.jacobparis.com/content/react-ts?ref=dailydev)<br>
 
 ## `React with DynamoDB`
 - [https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e](https://betterprogramming.pub/how-to-use-aws-dynamodb-in-react-70b55ffff93e)<br>
