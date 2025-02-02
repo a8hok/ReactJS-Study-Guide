@@ -260,6 +260,7 @@ Table of Contents
 - [https://greyboyle.hashnode.dev/easy-react-animation-with-gsap?ref=dailydev](https://greyboyle.hashnode.dev/easy-react-animation-with-gsap?ref=dailydev)<br>
 - [https://www.syncfusion.com/blogs/post/top-5-react-chart-libraries-2025?ref=dailydev](https://www.syncfusion.com/blogs/post/top-5-react-chart-libraries-2025?ref=dailydev)<br>
 - [https://www.manishtamang.com/blog/modern-react-ui-component-libraries?ref=dailydev](https://www.manishtamang.com/blog/modern-react-ui-component-libraries?ref=dailydev)<br>
+- [https://uvaiscodes.blogspot.com/2024/12/react-libraries.html?ref=dailydev](https://uvaiscodes.blogspot.com/2024/12/react-libraries.html?ref=dailydev)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
