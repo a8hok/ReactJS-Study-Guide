@@ -72,6 +72,7 @@ Table of Contents
  - [https://dev.to/dhiwise/advanced-roadmap-for-reactjs-developers-108d](https://dev.to/dhiwise/advanced-roadmap-for-reactjs-developers-108d)<br>
  - [https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257](https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257)<br>
  - [https://www.onepin.io/roadmap/A-visual-timeline-roadmap-to-master-React-in-03-months-679266451dd9295920315d17](https://www.onepin.io/roadmap/A-visual-timeline-roadmap-to-master-React-in-03-months-679266451dd9295920315d17)<br>
+ - [https://tigerabrodi.blog/how-reacts-render-effects-and-refs-work-under-the-hood?ref=dailydev](https://tigerabrodi.blog/how-reacts-render-effects-and-refs-work-under-the-hood?ref=dailydev)<br>
  
 
  ## `React Performance`
