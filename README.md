@@ -440,6 +440,7 @@ Table of Contents
  - [https://www.deepdev.org/blog/react-project-ideas-practical-features-guide?ref=dailydev](https://www.deepdev.org/blog/react-project-ideas-practical-features-guide?ref=dailydev)<br>
  - [https://www.sitepoint.com/google-auth-react-express/?ref=dailydev](https://www.sitepoint.com/google-auth-react-express/?ref=dailydev)<br>
  - [https://www.youtube.com/watch?v=XRLpdrl7RiY](https://www.youtube.com/watch?v=XRLpdrl7RiY)<br>
+ - [https://marmelab.com/blog/2025/01/24/how-to-build-a-cms-with-react-admin.html?ref=dailydev](https://marmelab.com/blog/2025/01/24/how-to-build-a-cms-with-react-admin.html?ref=dailydev)<br>
  
 
 ## `React Unittest`
