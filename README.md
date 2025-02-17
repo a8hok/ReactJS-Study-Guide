@@ -265,6 +265,7 @@ Table of Contents
 - [https://uvaiscodes.blogspot.com/2024/12/react-libraries.html?ref=dailydev](https://uvaiscodes.blogspot.com/2024/12/react-libraries.html?ref=dailydev)<br>
 - [https://prismic.io/blog/react-component-libraries?ref=dailydev](https://prismic.io/blog/react-component-libraries?ref=dailydev)<br>
 - [https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-3nm7?ref=dailydev](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-3nm7?ref=dailydev)<br>
+- [https://medium.com/globant/react-state-management-b0c81e0cbbf3](https://medium.com/globant/react-state-management-b0c81e0cbbf3)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
