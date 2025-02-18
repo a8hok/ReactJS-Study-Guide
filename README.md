@@ -109,6 +109,7 @@ Table of Contents
  - [https://dorendev.hashnode.dev/how-to-optimize-your-react-app-for-better-performance?ref=dailydev](https://dorendev.hashnode.dev/how-to-optimize-your-react-app-for-better-performance?ref=dailydev)<br>
  - [https://javascript.plainenglish.io/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2](https://javascript.plainenglish.io/optimizing-react-performance-strategies-to-avoid-unnecessary-re-renders-f8110b4e37b2)<br>
  - [https://dev.to/vigneshiyergithub/mastering-react-re-renders-for-optimal-performance-24je?ref=dailydev](https://dev.to/vigneshiyergithub/mastering-react-re-renders-for-optimal-performance-24je?ref=dailydev)<br>
+ - [https://differ.blog/inplainenglish/optimizing-react-performance-advanced-techniques-337d75?ref=dailydev](https://differ.blog/inplainenglish/optimizing-react-performance-advanced-techniques-337d75?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
