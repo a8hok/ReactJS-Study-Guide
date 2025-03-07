@@ -241,6 +241,7 @@ Table of Contents
 - [https://dev.to/perssondennis/write-solid-react-hooks-436o?ref=dailydev](https://dev.to/perssondennis/write-solid-react-hooks-436o?ref=dailydev)<br>
 - [https://jsdev.space/react-modern-hooks?ref=dailydev](https://jsdev.space/react-modern-hooks?ref=dailydev)<br>
 - [https://dev.to/adrianknapp/managing-application-state-with-custom-events-in-react-a-simple-yet-powerful-approach-ngd?ref=dailydev](https://dev.to/adrianknapp/managing-application-state-with-custom-events-in-react-a-simple-yet-powerful-approach-ngd?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
@@ -754,7 +755,7 @@ Table of Contents
 ## ReactJS with dev-ops projects
 - [https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)<br>
 
-## ReactJS server components
+## ReactJS Server components
 - [https://tonyalicea.dev/blog/understanding-react-server-components/?ref=dailydev](https://tonyalicea.dev/blog/understanding-react-server-components/?ref=dailydev)<br>
 
 
