@@ -242,6 +242,7 @@ Table of Contents
 - [https://jsdev.space/react-modern-hooks?ref=dailydev](https://jsdev.space/react-modern-hooks?ref=dailydev)<br>
 - [https://dev.to/adrianknapp/managing-application-state-with-custom-events-in-react-a-simple-yet-powerful-approach-ngd?ref=dailydev](https://dev.to/adrianknapp/managing-application-state-with-custom-events-in-react-a-simple-yet-powerful-approach-ngd?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/?ref=dailydev](https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/?ref=dailydev)<br>
 
 ## `React Libraries`
 - [https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7](https://dev.to/coursesity/react-libraries-to-use-in-2021-15-top-picks-37d7)<br>
