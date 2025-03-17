@@ -378,6 +378,7 @@ Table of Contents
   - [https://dev.to/jitendrachoudhary/every-react-concept-explained-in-5-minutes-39b9?ref=dailydev](https://dev.to/jitendrachoudhary/every-react-concept-explained-in-5-minutes-39b9?ref=dailydev)<br>
   - [https://blog.joshsoftware.com/2024/05/28/understanding-prop-drilling-in-react-a-case-study-of-an-e-commerce-shopping-cart/?ref=dailydev](https://blog.joshsoftware.com/2024/05/28/understanding-prop-drilling-in-react-a-case-study-of-an-e-commerce-shopping-cart/?ref=dailydev)<br>
   - [https://kentcdodds.com/blog/javascript-to-know-for-react?ref=dailydev](https://kentcdodds.com/blog/javascript-to-know-for-react?ref=dailydev)<br>
+  - [https://www.permit.io/blog/dynamic-react-feature-toggling-2024-guide?ref=dailydev](https://www.permit.io/blog/dynamic-react-feature-toggling-2024-guide?ref=dailydev)<br>
   
 ## `React Projects`
  - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
