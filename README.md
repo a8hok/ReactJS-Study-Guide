@@ -764,4 +764,7 @@ Table of Contents
 ## ReactJS Server components
 - [https://tonyalicea.dev/blog/understanding-react-server-components/?ref=dailydev](https://tonyalicea.dev/blog/understanding-react-server-components/?ref=dailydev)<br>
 
+## ReactJS boilerplate
+- [https://dev.to/pramod_boda/recommended-folder-structure-for-react-2025-48mc?ref=dailydev](https://dev.to/pramod_boda/recommended-folder-structure-for-react-2025-48mc?ref=dailydev)<br>
+
 
