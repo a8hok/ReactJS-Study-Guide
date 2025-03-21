@@ -734,6 +734,7 @@ Table of Contents
 - [https://dev.to/lakincoder/micro-frontend-frameworks-in-2024-265f](https://dev.to/lakincoder/micro-frontend-frameworks-in-2024-265f)<br>
 - [https://blog.bitsrc.io/micro-frontend-architecture-a-guide-28f78ce825ad](https://blog.bitsrc.io/micro-frontend-architecture-a-guide-28f78ce825ad)<br>
 - [https://blog.logrocket.com/build-micro-frontend-application-react/?ref=dailydev](https://blog.logrocket.com/build-micro-frontend-application-react/?ref=dailydev)<br>
+- [https://dev.to/onepoint/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg](https://dev.to/onepoint/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg)<br>
 
 ## ReactJS Books
 - [https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev](https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev)<br>
