@@ -528,6 +528,7 @@ Table of Contents
 - [https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)<br>
 - [https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/?ref=dailydev](https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/?ref=dailydev)<br>
 - [https://github.com/yeasin2002/react-ts-starter?ref=dailydev](https://github.com/yeasin2002/react-ts-starter?ref=dailydev)<br>
+- [https://github.com/Shpendrr/react-clean-architecture](https://github.com/Shpendrr/react-clean-architecture)<br>
 
 
 ## `React checklist`
