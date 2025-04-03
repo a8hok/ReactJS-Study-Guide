@@ -245,6 +245,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/?ref=dailydev](https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/?ref=dailydev)<br>
 - [https://blog.logrocket.com/react-usecallback/?ref=dailydev](https://blog.logrocket.com/react-usecallback/?ref=dailydev)<br>
+- [https://tigerabrodi.blog/usedebouncecallback-hook-explained?ref=dailydev](https://tigerabrodi.blog/usedebouncecallback-hook-explained?ref=dailydev)<br>
 
 
 ## `React Libraries`
