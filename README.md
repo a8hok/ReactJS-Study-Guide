@@ -382,6 +382,7 @@ Table of Contents
   - [https://kentcdodds.com/blog/javascript-to-know-for-react?ref=dailydev](https://kentcdodds.com/blog/javascript-to-know-for-react?ref=dailydev)<br>
   - [https://www.permit.io/blog/dynamic-react-feature-toggling-2024-guide?ref=dailydev](https://www.permit.io/blog/dynamic-react-feature-toggling-2024-guide?ref=dailydev)<br>
   - [https://dev.to/github20k/8-components-to-become-a-react-master-2ee4](https://dev.to/github20k/8-components-to-become-a-react-master-2ee4)<br>
+  - [https://tanstack.com/pacer/latest?ref=dailydev](https://tanstack.com/pacer/latest?ref=dailydev)<br>
   
 ## `React Projects`
  - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
