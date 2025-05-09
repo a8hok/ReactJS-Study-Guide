@@ -154,6 +154,7 @@ Table of Contents
  - [https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)<br>
  - [https://www.frontendjoy.com/p/17-tips-from-a-senior-react-developer?ref=dailydev](https://www.frontendjoy.com/p/17-tips-from-a-senior-react-developer?ref=dailydev)<br>
  - [https://blog.shadui.dev/implementing-dependency-injection-in-a-react-project/?ref=dailydev](https://blog.shadui.dev/implementing-dependency-injection-in-a-react-project/?ref=dailydev)<br>
+ - [https://kentcdodds.com/blog/react-hooks-pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls)<br>
  
 
 ## `React Hooks`
