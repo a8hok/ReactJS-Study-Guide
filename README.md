@@ -455,6 +455,7 @@ Table of Contents
  - [https://www.youtube.com/watch?v=XRLpdrl7RiY](https://www.youtube.com/watch?v=XRLpdrl7RiY)<br>
  - [https://marmelab.com/blog/2025/01/24/how-to-build-a-cms-with-react-admin.html?ref=dailydev](https://marmelab.com/blog/2025/01/24/how-to-build-a-cms-with-react-admin.html?ref=dailydev)<br>
  - [https://uvaiscodes.blogspot.com/2024/09/23-react-projects-with-source-code.html?ref=dailydev](https://uvaiscodes.blogspot.com/2024/09/23-react-projects-with-source-code.html?ref=dailydev)<br>
+ - [https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/](https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/)<br>
  
 
 ## `React Unittest`
