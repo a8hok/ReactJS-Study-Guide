@@ -601,6 +601,7 @@ Table of Contents
 - [https://prismic.io/blog/react-component-libraries?ref=dailydev](https://prismic.io/blog/react-component-libraries?ref=dailydev)<br>
 - [https://www.developerway.com/posts/react-re-renders-guide?ref=dailydev#part3.1](https://www.developerway.com/posts/react-re-renders-guide?ref=dailydev#part3.1)<br>
 - [https://dev.to/pramod_boda/recommended-folder-structure-for-react-2025-48mc?ref=dailydev](https://dev.to/pramod_boda/recommended-folder-structure-for-react-2025-48mc?ref=dailydev)<br>
+- [https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know](https://israelmitolu.hashnode.dev/a-beginners-guide-to-portals-in-react-everything-you-need-to-know)<br>
 
 
 ## `Redux`
