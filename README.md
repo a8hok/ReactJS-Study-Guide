@@ -766,6 +766,7 @@ Table of Contents
 - [https://aleks-elkin.github.io/posts/2024-12-06-react-19/?ref=dailydev](https://aleks-elkin.github.io/posts/2024-12-06-react-19/?ref=dailydev)<br>
 - [https://dev.to/mukhilpadmanabhan/react-19-the-features-you-need-to-know-55h6?ref=dailydev](https://dev.to/mukhilpadmanabhan/react-19-the-features-you-need-to-know-55h6?ref=dailydev)<br>
 - [https://blog.logrocket.com/how-react-19-can-help-you-make-faster-websites/?ref=dailydev](https://blog.logrocket.com/how-react-19-can-help-you-make-faster-websites/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-use-react-19-in-pcf-components/](https://www.freecodecamp.org/news/how-to-use-react-19-in-pcf-components/)<br>
 
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
