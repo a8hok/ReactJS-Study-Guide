@@ -251,6 +251,7 @@ Table of Contents
 - [https://tigerabrodi.blog/usedebouncecallback-hook-explained?ref=dailydev](https://tigerabrodi.blog/usedebouncecallback-hook-explained?ref=dailydev)<br>
 - [https://blog.logrocket.com/react-useactionstate/?ref=dailydev](https://blog.logrocket.com/react-useactionstate/?ref=dailydev)<br>
 - [https://blog.logrocket.com/react-usecallback/?ref=dailydev](https://blog.logrocket.com/react-usecallback/?ref=dailydev)<br>
+- [https://www.frontendjoy.com/p/17-react-hooks-that-power-90-of-modern-components?ref=dailydev](https://www.frontendjoy.com/p/17-react-hooks-that-power-90-of-modern-components?ref=dailydev)<br>
 
 
 ## `React Libraries`
