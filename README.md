@@ -781,6 +781,7 @@ Table of Contents
 
 ## ReactJS boilerplate
 - [https://dev.to/pramod_boda/recommended-folder-structure-for-react-2025-48mc?ref=dailydev](https://dev.to/pramod_boda/recommended-folder-structure-for-react-2025-48mc?ref=dailydev)<br>
+- [https://blog.logrocket.com/create-react-app-alternatives/?ref=dailydev](https://blog.logrocket.com/create-react-app-alternatives/?ref=dailydev)<br>
 
 ## ReactJS with AI
 - [https://www.robinwieruch.de/react-ai-chat/?ref=dailydev](https://www.robinwieruch.de/react-ai-chat/?ref=dailydev)<br>
