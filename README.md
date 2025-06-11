@@ -111,6 +111,7 @@ Table of Contents
  - [https://dev.to/vigneshiyergithub/mastering-react-re-renders-for-optimal-performance-24je?ref=dailydev](https://dev.to/vigneshiyergithub/mastering-react-re-renders-for-optimal-performance-24je?ref=dailydev)<br>
  - [https://differ.blog/inplainenglish/optimizing-react-performance-advanced-techniques-337d75?ref=dailydev](https://differ.blog/inplainenglish/optimizing-react-performance-advanced-techniques-337d75?ref=dailydev)<br>
  - [https://freedium.cfd/https://medium.com/@dipaksahirav/optimize-react-performance-f11679a2012f](https://freedium.cfd/https://medium.com/@dipaksahirav/optimize-react-performance-f11679a2012f)<br>
+ - [https://gist.github.com/dariuscosden/7c2b1347a4196e7f04ed412cec99ec97?ref=dailydev](https://gist.github.com/dariuscosden/7c2b1347a4196e7f04ed412cec99ec97?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
