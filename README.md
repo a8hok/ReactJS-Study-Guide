@@ -750,6 +750,7 @@ Table of Contents
 - [https://blog.logrocket.com/build-micro-frontend-application-react/?ref=dailydev](https://blog.logrocket.com/build-micro-frontend-application-react/?ref=dailydev)<br>
 - [https://dev.to/onepoint/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg](https://dev.to/onepoint/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg)<br>
 - [https://www.freecodecamp.org/news/complete-micro-frontends-guide/](https://www.freecodecamp.org/news/complete-micro-frontends-guide/)<br>
+- [https://github.com/yogain123/mfe-project](https://github.com/yogain123/mfe-project)<br>
 
 ## ReactJS Books
 - [https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev](https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev)<br>
