@@ -253,6 +253,7 @@ Table of Contents
 - [https://blog.logrocket.com/react-useactionstate/?ref=dailydev](https://blog.logrocket.com/react-useactionstate/?ref=dailydev)<br>
 - [https://blog.logrocket.com/react-usecallback/?ref=dailydev](https://blog.logrocket.com/react-usecallback/?ref=dailydev)<br>
 - [https://www.frontendjoy.com/p/17-react-hooks-that-power-90-of-modern-components?ref=dailydev](https://www.frontendjoy.com/p/17-react-hooks-that-power-90-of-modern-components?ref=dailydev)<br>
+- [https://blog.logrocket.com/tanstack-form-vs-react-hook-form/?ref=dailydev](https://blog.logrocket.com/tanstack-form-vs-react-hook-form/?ref=dailydev)<br>
 
 
 ## `React Libraries`
