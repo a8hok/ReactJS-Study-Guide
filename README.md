@@ -462,6 +462,7 @@ Table of Contents
  - [https://marmelab.com/blog/2025/01/24/how-to-build-a-cms-with-react-admin.html?ref=dailydev](https://marmelab.com/blog/2025/01/24/how-to-build-a-cms-with-react-admin.html?ref=dailydev)<br>
  - [https://uvaiscodes.blogspot.com/2024/09/23-react-projects-with-source-code.html?ref=dailydev](https://uvaiscodes.blogspot.com/2024/09/23-react-projects-with-source-code.html?ref=dailydev)<br>
  - [https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/](https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/)<br>
+ - [https://www.freecodecamp.org/news/build-a-conversational-ai-chatbot-with-stream-chat-and-react/?ref=dailydev](https://www.freecodecamp.org/news/build-a-conversational-ai-chatbot-with-stream-chat-and-react/?ref=dailydev)<br>
  
 
 ## `React Unittest`
