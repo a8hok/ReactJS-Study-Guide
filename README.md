@@ -112,6 +112,7 @@ Table of Contents
  - [https://differ.blog/inplainenglish/optimizing-react-performance-advanced-techniques-337d75?ref=dailydev](https://differ.blog/inplainenglish/optimizing-react-performance-advanced-techniques-337d75?ref=dailydev)<br>
  - [https://freedium.cfd/https://medium.com/@dipaksahirav/optimize-react-performance-f11679a2012f](https://freedium.cfd/https://medium.com/@dipaksahirav/optimize-react-performance-f11679a2012f)<br>
  - [https://gist.github.com/dariuscosden/7c2b1347a4196e7f04ed412cec99ec97?ref=dailydev](https://gist.github.com/dariuscosden/7c2b1347a4196e7f04ed412cec99ec97?ref=dailydev)<br>
+ - [https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl?ref=dailydev](https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
