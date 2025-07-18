@@ -754,6 +754,7 @@ Table of Contents
 - [https://dev.to/onepoint/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg](https://dev.to/onepoint/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg)<br>
 - [https://www.freecodecamp.org/news/complete-micro-frontends-guide/](https://www.freecodecamp.org/news/complete-micro-frontends-guide/)<br>
 - [https://github.com/yogain123/mfe-project](https://github.com/yogain123/mfe-project)<br>
+- [https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/?ref=dailydev](https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/?ref=dailydev)<br>
 
 ## ReactJS Books
 - [https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev](https://www.freecodecamp.org/news/react-for-beginners-handbook/?ref=dailydev)<br>
