@@ -464,6 +464,7 @@ Table of Contents
  - [https://uvaiscodes.blogspot.com/2024/09/23-react-projects-with-source-code.html?ref=dailydev](https://uvaiscodes.blogspot.com/2024/09/23-react-projects-with-source-code.html?ref=dailydev)<br>
  - [https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/](https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/)<br>
  - [https://www.freecodecamp.org/news/build-a-conversational-ai-chatbot-with-stream-chat-and-react/?ref=dailydev](https://www.freecodecamp.org/news/build-a-conversational-ai-chatbot-with-stream-chat-and-react/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-build-a-telehealth-app-using-stream-video-and-chat-sdk-in-react/](https://www.freecodecamp.org/news/how-to-build-a-telehealth-app-using-stream-video-and-chat-sdk-in-react/)<br>
  
 
 ## `React Unittest`
