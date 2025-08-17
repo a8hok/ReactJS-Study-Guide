@@ -159,6 +159,7 @@ Table of Contents
  - [https://blog.shadui.dev/implementing-dependency-injection-in-a-react-project/?ref=dailydev](https://blog.shadui.dev/implementing-dependency-injection-in-a-react-project/?ref=dailydev)<br>
  - [https://kentcdodds.com/blog/react-hooks-pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls)<br>
  - [https://www.codemotion.com/magazine/frontend/10-react-expert-tips-that-will-change-your-life/?ref=dailydev](https://www.codemotion.com/magazine/frontend/10-react-expert-tips-that-will-change-your-life/?ref=dailydev)<br>
+ - [https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/?ref=dailydev](https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/?ref=dailydev)<br>
  
 
 ## `React Hooks`
