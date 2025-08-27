@@ -693,6 +693,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/?ref=dailydev](https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/?ref=dailydev)<br>
 - [https://swizec.com/blog/tips-from-8-months-of-tan-stack-router-in-production/?ref=dailydev](https://swizec.com/blog/tips-from-8-months-of-tan-stack-router-in-production/?ref=dailydev)<br>
 - [https://appwrite.io/blog/post/react-protected-routes?ref=dailydev](https://appwrite.io/blog/post/react-protected-routes?ref=dailydev)<br>
+- [https://dev.to/this-is-learning/tanstack-start-light-dark-and-system-theme-without-flickers-5f1d?ref=dailydev](https://dev.to/this-is-learning/tanstack-start-light-dark-and-system-theme-without-flickers-5f1d?ref=dailydev)<br>
 
 ## React vs 
 - [https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue](https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue)<br>
