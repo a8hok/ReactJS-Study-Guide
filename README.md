@@ -1,4 +1,4 @@
-# ReactJS Study Guide
+2# ReactJS Study Guide
 
 Table of Contents
 =================
@@ -114,6 +114,7 @@ Table of Contents
  - [https://gist.github.com/dariuscosden/7c2b1347a4196e7f04ed412cec99ec97?ref=dailydev](https://gist.github.com/dariuscosden/7c2b1347a4196e7f04ed412cec99ec97?ref=dailydev)<br>
  - [https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl?ref=dailydev](https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl?ref=dailydev)<br>
  - [https://www.netguru.com/blog/react-performance-optimization?ref=dailydev](https://www.netguru.com/blog/react-performance-optimization?ref=dailydev)<br>
+ - [https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/?ref=dailydev](https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
