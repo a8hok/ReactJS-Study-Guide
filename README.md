@@ -786,6 +786,7 @@ Table of Contents
 - [https://blog.logrocket.com/how-react-19-can-help-you-make-faster-websites/?ref=dailydev](https://blog.logrocket.com/how-react-19-can-help-you-make-faster-websites/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-use-react-19-in-pcf-components/](https://www.freecodecamp.org/news/how-to-use-react-19-in-pcf-components/)<br>
 - [https://levelup.gitconnected.com/react-state-management-context-api-and-the-new-use-api-explained-e583eeba1090](https://levelup.gitconnected.com/react-state-management-context-api-and-the-new-use-api-explained-e583eeba1090)<br>
+- [https://dev.to/preethi_dev/react-192-introduces-a-new-component-10cp?context=digest](https://dev.to/preethi_dev/react-192-introduces-a-new-component-10cp?context=digest)<br>
 
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
