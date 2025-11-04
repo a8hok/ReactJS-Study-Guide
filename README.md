@@ -699,6 +699,7 @@ Table of Contents
 - [https://dev.to/this-is-learning/tanstack-start-light-dark-and-system-theme-without-flickers-5f1d?ref=dailydev](https://dev.to/this-is-learning/tanstack-start-light-dark-and-system-theme-without-flickers-5f1d?ref=dailydev)<br>
 - [https://remix.run/blog/middleware?ref=dailydev](https://remix.run/blog/middleware?ref=dailydev)<br>
 - [https://dev.to/this-is-learning/reactjs-day-2025-tanstack-start-real-world-experiences-16b9?ref=dailydev](https://dev.to/this-is-learning/reactjs-day-2025-tanstack-start-real-world-experiences-16b9?ref=dailydev)<br>
+- [https://appwrite.io/blog/post/why-developers-leaving-nextjs-tanstack-start?ref=dailydev](https://appwrite.io/blog/post/why-developers-leaving-nextjs-tanstack-start?ref=dailydev)<br>
 
 ## React vs 
 - [https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue](https://www.sitepoint.com/vue-vs-react/?utm_source=newsletter&utm_medium=email&utm_campaign=vue_vs_react_let_the_fight_begin&utm_term=2023-03-14#flexibilityinvue)<br>
