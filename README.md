@@ -260,6 +260,7 @@ Table of Contents
 - [https://blog.logrocket.com/tanstack-form-vs-react-hook-form/?ref=dailydev](https://blog.logrocket.com/tanstack-form-vs-react-hook-form/?ref=dailydev)<br>
 - [https://tkdodo.eu/blog/react-query-selectors-supercharged?ref=dailydev](https://tkdodo.eu/blog/react-query-selectors-supercharged?ref=dailydev)<br>
 - [https://blog.logrocket.com/tanstack-db-ux/?ref=dailydev](https://blog.logrocket.com/tanstack-db-ux/?ref=dailydev)<br>
+- [https://youtu.be/KsHbs5RMVYU](https://youtu.be/KsHbs5RMVYU)<br>
 
 
 ## `React Libraries`
