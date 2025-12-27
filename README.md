@@ -1,4 +1,4 @@
-2# ReactJS Study Guide
+# ReactJS Study Guide
 
 Table of Contents
 =================
