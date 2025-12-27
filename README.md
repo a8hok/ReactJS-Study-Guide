@@ -40,6 +40,12 @@ Table of Contents
 - [ReactJS Books](#reactjs-books)
 - [ReactJS 19](#reactjs-19)
 - [ReactJS principles](#reactjs-principles)
+- [ReactJS with dev-ops projects](#reactjs-with-dev-ops-projects)
+- [ReactJS Server components](#reactjs-server-components)
+- [ReactJS boilerplate](#reactjs-boilerplate)
+- [ReactJS with AI](#reactjs-with-ai)
+- [StoryBook](#storybook)
+
 
 ## `React Life cycle`
  - [https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8](https://medium.com/swlh/react-lifecycle-hooks-71547ef4e7a8)<br>
