@@ -267,6 +267,7 @@ Table of Contents
 - [https://tkdodo.eu/blog/react-query-selectors-supercharged?ref=dailydev](https://tkdodo.eu/blog/react-query-selectors-supercharged?ref=dailydev)<br>
 - [https://blog.logrocket.com/tanstack-db-ux/?ref=dailydev](https://blog.logrocket.com/tanstack-db-ux/?ref=dailydev)<br>
 - [https://youtu.be/KsHbs5RMVYU](https://youtu.be/KsHbs5RMVYU)<br>
+- [https://allthingssmitty.com/2025/12/01/react-has-changed-your-hooks-should-too/?ref=dailydev](https://allthingssmitty.com/2025/12/01/react-has-changed-your-hooks-should-too/?ref=dailydev)<br>
 
 
 ## `React Libraries`
