@@ -1,4 +1,4 @@
-# ReactJS Study Guide
+ # ReactJS Study Guide
 
 Table of Contents
 =================
@@ -296,6 +296,7 @@ Table of Contents
 - [https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-3nm7?ref=dailydev](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-3nm7?ref=dailydev)<br>
 - [https://medium.com/globant/react-state-management-b0c81e0cbbf3](https://medium.com/globant/react-state-management-b0c81e0cbbf3)<br>
 - [https://www.telerik.com/blogs/top-libraries-tools-modern-react-frontend-development?ref=dailydev](https://www.telerik.com/blogs/top-libraries-tools-modern-react-frontend-development?ref=dailydev)<br>
+- [https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4?ref=dailydev](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4?ref=dailydev)<br>
 
 ## `React interview questions`
  - [https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba](https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba)<br>
