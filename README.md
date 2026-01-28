@@ -822,4 +822,7 @@ Table of Contents
 ## StoryBook
 - [https://storybook.js.org/blog/storybook-9/?ref=dailydev](https://storybook.js.org/blog/storybook-9/?ref=dailydev)<br>
 
+## ReactJS 2026
+- [https://www.felgus.dev/blog/react-stack-2026?ref=dailydev](https://www.felgus.dev/blog/react-stack-2026?ref=dailydev)<br>
+
 
