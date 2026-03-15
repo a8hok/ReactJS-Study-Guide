@@ -802,6 +802,7 @@ Table of Contents
 - [https://levelup.gitconnected.com/react-state-management-context-api-and-the-new-use-api-explained-e583eeba1090](https://levelup.gitconnected.com/react-state-management-context-api-and-the-new-use-api-explained-e583eeba1090)<br>
 - [https://dev.to/preethi_dev/react-192-introduces-a-new-component-10cp?context=digest](https://dev.to/preethi_dev/react-192-introduces-a-new-component-10cp?context=digest)<br>
 - [https://www.syncfusion.com/blogs/post/build-query-builder-in-react-19?ref=dailydev](https://www.syncfusion.com/blogs/post/build-query-builder-in-react-19?ref=dailydev)<br>
+- [https://www.sitepoint.com/why-react-19-s-compiler-changes-everything-for-senior-devs/?ref=dailydev](https://www.sitepoint.com/why-react-19-s-compiler-changes-everything-for-senior-devs/?ref=dailydev)<br>
 
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
