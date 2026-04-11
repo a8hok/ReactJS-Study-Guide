@@ -483,6 +483,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/](https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/)<br>
  - [https://www.freecodecamp.org/news/build-a-conversational-ai-chatbot-with-stream-chat-and-react/?ref=dailydev](https://www.freecodecamp.org/news/build-a-conversational-ai-chatbot-with-stream-chat-and-react/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-build-a-telehealth-app-using-stream-video-and-chat-sdk-in-react/](https://www.freecodecamp.org/news/how-to-build-a-telehealth-app-using-stream-video-and-chat-sdk-in-react/)<br>
+- [https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/?ref=dailydev](https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/?ref=dailydev)<br>
  
 
 ## `React Unittest`
