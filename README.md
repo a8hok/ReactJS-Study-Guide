@@ -654,6 +654,7 @@ Table of Contents
 - [https://codaily.dev/blog/react/the-battle-of-state-management-react-hooks-vs-redux?ref=dailydev](https://codaily.dev/blog/react/the-battle-of-state-management-react-hooks-vs-redux?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/?ref=dailydev](https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/?ref=dailydev)<br>
 - [https://blog.logrocket.com/advanced-react-state-management-using-url-parameters/?ref=dailydev](https://blog.logrocket.com/advanced-react-state-management-using-url-parameters/?ref=dailydev)<br>
+- [https://www.youtube.com/watch?v=ULS7LHNScHc](https://www.youtube.com/watch?v=ULS7LHNScHc)<br>
 
 
 
