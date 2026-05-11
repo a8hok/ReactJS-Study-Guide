@@ -168,6 +168,7 @@ Table of Contents
  - [https://kentcdodds.com/blog/react-hooks-pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls)<br>
  - [https://www.codemotion.com/magazine/frontend/10-react-expert-tips-that-will-change-your-life/?ref=dailydev](https://www.codemotion.com/magazine/frontend/10-react-expert-tips-that-will-change-your-life/?ref=dailydev)<br>
  - [https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/?ref=dailydev](https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/?ref=dailydev)<br>
+ - [https://www.frontendjoy.com/p/29-react-codebase-red-flags-from-a-senior-frontend-developer?ref=dailydev](https://www.frontendjoy.com/p/29-react-codebase-red-flags-from-a-senior-frontend-developer?ref=dailydev)<br>
  
 
 ## `React Hooks`
