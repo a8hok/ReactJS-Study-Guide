@@ -122,6 +122,7 @@ Table of Contents
  - [https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl?ref=dailydev](https://dev.to/amaresh_adak/react-performance-optimization-from-slow-to-lightning-fast-complete-guide-2025-19hl?ref=dailydev)<br>
  - [https://www.netguru.com/blog/react-performance-optimization?ref=dailydev](https://www.netguru.com/blog/react-performance-optimization?ref=dailydev)<br>
  - [https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/?ref=dailydev](https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/?ref=dailydev)<br>
+ - [https://reactdevelopment.substack.com/p/react-performance-isnt-about-usememo?ref=dailydev](https://reactdevelopment.substack.com/p/react-performance-isnt-about-usememo?ref=dailydev)<br>
  
 
 ## `React tips and Tricks`
