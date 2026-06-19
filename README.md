@@ -274,6 +274,7 @@ Table of Contents
 - [https://coinsbench.com/the-only-react-hooks-guide-youll-actually-finish-reading-9d6c4ffd3fc6](https://coinsbench.com/the-only-react-hooks-guide-youll-actually-finish-reading-9d6c4ffd3fc6)<br>
 - [https://coinsbench.com/the-only-react-hooks-guide-youll-actually-finish-reading-9d6c4ffd3fc6](https://coinsbench.com/the-only-react-hooks-guide-youll-actually-finish-reading-9d6c4ffd3fc6)<br>
 - [https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/?ref=dailydev](https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/react-handbook-for-beginners-learn-jsx-hooks-rendering/](https://www.freecodecamp.org/news/react-handbook-for-beginners-learn-jsx-hooks-rendering/)<br>
 
 
 ## `React Libraries`
