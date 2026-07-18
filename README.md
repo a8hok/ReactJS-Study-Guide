@@ -417,6 +417,7 @@ Table of Contents
   - [https://dev.to/github20k/8-components-to-become-a-react-master-2ee4](https://dev.to/github20k/8-components-to-become-a-react-master-2ee4)<br>
   - [https://tanstack.com/pacer/latest?ref=dailydev](https://tanstack.com/pacer/latest?ref=dailydev)<br>
   - [https://medium.com/@ancilartech/mastering-server-and-client-state-in-react-a-hands-on-guide-for-junior-developers-bd187762c7c3](https://medium.com/@ancilartech/mastering-server-and-client-state-in-react-a-hands-on-guide-for-junior-developers-bd187762c7c3)<br>
+  - [https://www.greatfrontend.com/blog/how-to-learn-react?ref=dailydev](https://www.greatfrontend.com/blog/how-to-learn-react?ref=dailydev)<br>
   
 ## `React Projects`
  - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
