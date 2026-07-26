@@ -419,6 +419,7 @@ Table of Contents
   - [https://medium.com/@ancilartech/mastering-server-and-client-state-in-react-a-hands-on-guide-for-junior-developers-bd187762c7c3](https://medium.com/@ancilartech/mastering-server-and-client-state-in-react-a-hands-on-guide-for-junior-developers-bd187762c7c3)<br>
   - [https://www.greatfrontend.com/blog/how-to-learn-react?ref=dailydev](https://www.greatfrontend.com/blog/how-to-learn-react?ref=dailydev)<br>
   
+  
 ## `React Projects`
  - [https://hackernoon.com/7-15-2023-noonification?source=rss](https://hackernoon.com/7-15-2023-noonification?source=rss)<br>
  - [https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/](https://reactjsexample.com/a-collection-of-some-big-projects-codebases-built-with-reactjs/)<br>
@@ -842,5 +843,6 @@ Table of Contents
 
 ## ReactJS 2026
 - [https://www.felgus.dev/blog/react-stack-2026?ref=dailydev](https://www.felgus.dev/blog/react-stack-2026?ref=dailydev)<br>
+- [https://www.greatfrontend.com/blog/how-to-learn-react?ref=dailydev](https://www.greatfrontend.com/blog/how-to-learn-react?ref=dailydev)<br>
 
 
