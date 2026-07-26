@@ -572,6 +572,7 @@ Table of Contents
 - [https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/?ref=dailydev](https://www.geeksforgeeks.org/react-architecture-pattern-and-best-practices/?ref=dailydev)<br>
 - [https://github.com/yeasin2002/react-ts-starter?ref=dailydev](https://github.com/yeasin2002/react-ts-starter?ref=dailydev)<br>
 - [https://github.com/Shpendrr/react-clean-architecture](https://github.com/Shpendrr/react-clean-architecture)<br>
+- [https://medium.com/skillstuff/how-i-learned-to-structure-react-projects-around-change-not-folders-8f680a3556e9](https://medium.com/skillstuff/how-i-learned-to-structure-react-projects-around-change-not-folders-8f680a3556e9)<br>
 
 
 ## `React checklist`
