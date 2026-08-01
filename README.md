@@ -592,6 +592,7 @@ Table of Contents
 - [https://adevnadia.medium.com/how-to-handle-errors-in-react-full-guide-bd02634ff523](https://adevnadia.medium.com/how-to-handle-errors-in-react-full-guide-bd02634ff523)<br>
 - [https://semaphoreci.com/blog/error-handling-layer-react](https://semaphoreci.com/blog/error-handling-layer-react)<br>
 - [https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/?ref=dailydev](https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/?ref=dailydev)<br>
+- [https://www.datadoghq.com/blog/a-practical-guide-to-react-error-monitoring/](https://www.datadoghq.com/blog/a-practical-guide-to-react-error-monitoring/)<br>
 
 ## `React with typescript`
 - [https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn](https://dev.to/damiisdandy/ultimate-guide-to-setup-react-context-api-with-a-custom-hook-typescript-27kn)<br>
