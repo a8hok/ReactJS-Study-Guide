@@ -171,6 +171,7 @@ Table of Contents
  - [https://www.codemotion.com/magazine/frontend/10-react-expert-tips-that-will-change-your-life/?ref=dailydev](https://www.codemotion.com/magazine/frontend/10-react-expert-tips-that-will-change-your-life/?ref=dailydev)<br>
  - [https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/?ref=dailydev](https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/?ref=dailydev)<br>
  - [https://www.frontendjoy.com/p/29-react-codebase-red-flags-from-a-senior-frontend-developer?ref=dailydev](https://www.frontendjoy.com/p/29-react-codebase-red-flags-from-a-senior-frontend-developer?ref=dailydev)<br>
+ - [https://medium.com/@tobilobaolugbemi/why-your-react-app-re-renders-too-much-and-how-to-fix-it-41f22b8a79d9](https://medium.com/@tobilobaolugbemi/why-your-react-app-re-renders-too-much-and-how-to-fix-it-41f22b8a79d9)<br>
  
 
 ## `React Hooks`
