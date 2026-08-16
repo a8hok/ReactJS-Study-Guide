@@ -822,6 +822,7 @@ Table of Contents
 - [https://www.syncfusion.com/blogs/post/build-query-builder-in-react-19?ref=dailydev](https://www.syncfusion.com/blogs/post/build-query-builder-in-react-19?ref=dailydev)<br>
 - [https://www.sitepoint.com/why-react-19-s-compiler-changes-everything-for-senior-devs/?ref=dailydev](https://www.sitepoint.com/why-react-19-s-compiler-changes-everything-for-senior-devs/?ref=dailydev)<br>
 - [https://www.sitepoint.com/why-react-19-s-compiler-changes-everything-for-senior-devs/?ref=dailydev](https://www.sitepoint.com/why-react-19-s-compiler-changes-everything-for-senior-devs/?ref=dailydev)<br>
+- [https://shubhra.dev/tutorials/react-19-useactionstate](https://shubhra.dev/tutorials/react-19-useactionstate)<br>
 
 ## ReactJS principles
 - [https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517](https://medium.com/@tech-adventurer/react-and-s-o-l-i-d-principles-building-robust-applications-part-1-7423a2313517)<br>
