@@ -123,6 +123,7 @@ Table of Contents
  - [https://www.netguru.com/blog/react-performance-optimization?ref=dailydev](https://www.netguru.com/blog/react-performance-optimization?ref=dailydev)<br>
  - [https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/?ref=dailydev](https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/?ref=dailydev)<br>
  - [https://reactdevelopment.substack.com/p/react-performance-isnt-about-usememo?ref=dailydev](https://reactdevelopment.substack.com/p/react-performance-isnt-about-usememo?ref=dailydev)<br>
+ - [https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas?via=dailydev#heading-step-3-move-heavy-work-off-the-main-thread](https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas?via=dailydev#heading-step-3-move-heavy-work-off-the-main-thread)<br>
  
 
 ## `React tips and Tricks`
