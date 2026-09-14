@@ -278,6 +278,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/?ref=dailydev](https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/react-handbook-for-beginners-learn-jsx-hooks-rendering/](https://www.freecodecamp.org/news/react-handbook-for-beginners-learn-jsx-hooks-rendering/)<br>
 - [https://thetshaped.dev/p/react-rendering-demystified-your-usememo-probably-isnt-doing-anything?via=dailydev](https://thetshaped.dev/p/react-rendering-demystified-your-usememo-probably-isnt-doing-anything?via=dailydev)<br>
+- [https://medium.com/@salim99/react-hooks-internally-how-usestate-useeffect-other-hooks-actually-work-3ea5173a32c8](https://medium.com/@salim99/react-hooks-internally-how-usestate-useeffect-other-hooks-actually-work-3ea5173a32c8)<br>
 
 
 ## `React Libraries`
