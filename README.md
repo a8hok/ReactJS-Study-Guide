@@ -423,6 +423,7 @@ Table of Contents
   - [https://medium.com/@ancilartech/mastering-server-and-client-state-in-react-a-hands-on-guide-for-junior-developers-bd187762c7c3](https://medium.com/@ancilartech/mastering-server-and-client-state-in-react-a-hands-on-guide-for-junior-developers-bd187762c7c3)<br>
   - [https://www.greatfrontend.com/blog/how-to-learn-react?ref=dailydev](https://www.greatfrontend.com/blog/how-to-learn-react?ref=dailydev)<br>
   - [https://tanstack.com/blog/tanstack-router-navigation-lanes?via=dailydev](https://tanstack.com/blog/tanstack-router-navigation-lanes?via=dailydev)<br>
+  - [http://freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/](http://freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/)<br>
   
   
 ## `React Projects`
